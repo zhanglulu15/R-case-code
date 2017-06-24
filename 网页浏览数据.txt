@@ -1,0 +1,8737 @@
+0,1,Insurance
+0,2,Loan
+0,3,Kits
+1,1,News North America
+1,2,Football
+1,3,Football
+1,4,Baseball
+1,5,Basketball
+2,1,Weather
+2,2,Weather
+2,3,Weather
+2,4,Weather
+2,5,Weather
+2,6,Weather
+3,1,Shopping Computer
+3,2,News Europe
+3,3,News Asia
+4,1,News North America
+4,2,Weather
+5,1,Flight
+5,2,Flight
+5,3,Hotel
+6,1,News North America
+6,2,Weather
+7,1,Music
+7,2,Music
+7,3,Shopping Music
+7,4,Movie
+8,1,News North America
+8,2,News North America
+8,3,News North America
+8,4,News North America
+8,5,News North America
+8,6,News North America
+8,7,News North America
+8,8,News North America
+8,9,Weather
+9,1,News North America
+9,2,News North America
+9,3,Weather
+10,1,Music
+10,2,Shopping Music
+10,3,Shopping Music
+10,4,Movie
+10,5,Movie
+11,1,News North America
+11,2,News North America
+11,3,News North America
+11,4,News North America
+11,5,News North America
+11,6,Weather
+12,1,Health
+12,2,Medicine
+12,3,Medicine
+13,1,Soccer
+13,2,Baseball
+13,3,Relationship
+13,4,Pets
+13,5,Wireless
+13,6,Software
+13,7,Financial news
+13,8,Stock quotes
+14,1,Shopping Car
+14,2,City info
+15,1,News North America
+15,2,Football
+15,3,Baseball
+15,4,Basketball
+16,1,Health
+16,2,Medicine
+17,1,News Europe
+17,2,News Europe
+17,3,Football
+18,1,Flight
+18,2,Hotel
+19,1,News North America
+19,2,News North America
+19,3,Football
+19,4,Baseball
+19,5,Basketball
+20,1,Wireless
+20,2,Health
+20,3,Weather
+21,1,Internet
+21,2,Telecom
+21,3,Financial news
+21,4,Basketball
+22,1,Health
+22,2,Health
+22,3,Health
+22,4,Health
+22,5,Medicine
+23,1,Yellow Page
+23,2,Research and Science
+23,3,Medicine
+24,1,Telecom
+24,2,Email
+24,3,Community
+24,4,Hotel
+25,1,City info
+25,2,Small business
+25,3,Download
+25,4,News Asia
+25,5,News Australia
+25,6,Car rental
+25,7,Tax
+25,8,Shopping Software
+26,1,Health
+26,2,Health
+26,3,Medicine
+27,1,News North America
+27,2,News North America
+27,3,Weather
+28,1,News North America
+28,2,News North America
+28,3,Weather
+29,1,Health
+29,2,Medicine
+30,1,Music
+30,2,Shopping Music
+30,3,Movie
+30,4,Movie
+31,1,Weather
+31,2,Weather
+31,3,Weather
+31,4,Weather
+32,1,Shopping Book
+33,1,News North America
+33,2,Football
+33,3,Baseball
+33,4,Baseball
+33,5,Basketball
+33,6,Basketball
+34,1,Shopping Electronics
+34,2,Insurance
+34,3,Yellow Page
+34,4,Pets
+34,5,Pets
+34,6,Game
+35,1,Football
+35,2,Soccer
+36,1,News Europe
+36,2,Small business
+37,1,News North America
+37,2,News North America
+37,3,News North America
+37,4,Weather
+37,5,Weather
+37,6,Weather
+38,1,Shopping Computer
+38,2,Shopping Electronics
+39,1,Shopping Computer
+39,2,Shopping Computer
+39,3,Shopping Electronics
+40,1,News North America
+40,2,Weather
+40,3,Weather
+41,1,Radio
+41,2,Life
+41,3,Shopping Computer
+42,1,Shopping House
+42,2,Insurance
+42,3,Insurance
+42,4,Loan
+43,1,Flight
+43,2,Flight
+43,3,Hotel
+43,4,Hotel
+44,1,Shopping Computer
+44,2,Shopping Computer
+44,3,Shopping Computer
+44,4,Shopping Electronics
+45,1,Shopping Computer
+45,2,Shopping Computer
+45,3,Shopping Electronics
+46,1,Flight
+46,2,Hotel
+47,1,Shopping Book
+47,2,Football
+47,3,Companies
+47,4,Wall Street
+48,1,Shopping Music
+48,2,Movie
+48,3,Soccer
+48,4,Baseball
+48,5,Companies
+48,6,News Asia
+48,7,Cruises
+48,8,Vacation
+49,1,Chat
+49,2,Health
+50,1,Shopping Computer
+50,2,Shopping Electronics
+51,1,Shopping Computer
+51,2,Shopping Computer
+51,3,Shopping Electronics
+51,4,Shopping Electronics
+51,5,Shopping Electronics
+52,1,Greeting Cards
+52,2,City info
+52,3,Shopping Music
+52,4,Movie
+53,1,Shopping Computer
+53,2,Shopping Electronics
+54,1,Flight
+54,2,Hotel
+54,3,Hotel
+55,1,Weather
+55,2,Weather
+56,1,Music
+56,2,Shopping Music
+56,3,Movie
+56,4,Movie
+57,1,News North America
+57,2,Football
+57,3,Football
+57,4,Baseball
+57,5,Basketball
+58,1,News North America
+58,2,News North America
+58,3,News North America
+58,4,Football
+58,5,Baseball
+58,6,Basketball
+59,1,Music
+59,2,Shopping Music
+59,3,Movie
+59,4,Movie
+60,1,News North America
+60,2,News North America
+60,3,News North America
+60,4,Weather
+61,1,News North America
+61,2,Weather
+61,3,Weather
+61,4,Weather
+62,1,Basketball
+62,2,Tennis
+62,3,Shopping House
+63,1,News North America
+63,2,News North America
+63,3,News North America
+63,4,News North America
+63,5,News North America
+63,6,News North America
+63,7,Weather
+64,1,News North America
+64,2,Football
+64,3,Baseball
+64,4,Basketball
+65,1,Map
+65,2,Car rental
+65,3,Broker
+65,4,Tax
+65,5,Internet
+65,6,Shopping Car
+65,7,Map
+66,1,Radio
+66,2,Life
+66,3,Medicine
+66,4,Kits
+66,5,Shopping Computer
+66,6,Hockey
+66,7,OutDoor
+67,1,Weather
+67,2,Weather
+68,1,News North America
+68,2,Football
+68,3,Baseball
+68,4,Basketball
+69,1,Kits
+69,2,Relationship
+69,3,Kits
+69,4,Shopping Electronics
+69,5,Insurance
+70,1,News Europe
+70,2,News Europe
+70,3,News Europe
+70,4,Football
+71,1,News North America
+71,2,Weather
+72,1,News Europe
+72,2,Football
+73,1,News North America
+73,2,News North America
+73,3,Weather
+73,4,Weather
+74,1,News North America
+74,2,Weather
+74,3,Weather
+75,1,Companies
+75,2,Football
+75,3,Soccer
+75,4,Relationship
+76,1,News North America
+76,2,Weather
+77,1,Health
+77,2,Medicine
+77,3,Medicine
+78,1,News North America
+78,2,News North America
+78,3,News North America
+78,4,News North America
+78,5,News North America
+78,6,News North America
+78,7,News North America
+78,8,News North America
+78,9,News North America
+78,10,News North America
+78,11,News North America
+78,12,News North America
+78,13,News North America
+78,14,News North America
+78,15,News North America
+78,16,News North America
+79,1,News North America
+79,2,Weather
+79,3,Weather
+80,1,Hockey
+80,2,OutDoor
+80,3,Relationship
+80,4,Email
+80,5,Community
+80,6,Health
+80,7,Diet
+81,1,Map
+81,2,Hotel
+81,3,News Local
+81,4,Internet
+81,5,Research and Science
+82,1,Weather
+82,2,Weather
+82,3,Weather
+82,4,Weather
+82,5,Weather
+82,6,Weather
+82,7,Weather
+82,8,Weather
+82,9,Weather
+82,10,Weather
+82,11,Weather
+82,12,Weather
+82,13,Weather
+82,14,Weather
+82,15,Weather
+82,16,Weather
+82,17,Weather
+82,18,Weather
+82,19,Weather
+82,20,Weather
+82,21,Weather
+82,22,Weather
+82,23,Weather
+82,24,Weather
+83,1,News North America
+83,2,Weather
+83,3,Weather
+84,1,Wall Street
+85,1,Flight
+85,2,Hotel
+86,1,Weather
+86,2,Weather
+87,1,News North America
+87,2,Weather
+88,1,News Europe
+88,2,News Europe
+88,3,News Europe
+88,4,News Europe
+88,5,Football
+88,6,Football
+89,1,News Local
+89,2,Diet
+89,3,Shopping House
+89,4,Shopping Computer
+90,1,News North America
+90,2,News North America
+90,3,News North America
+90,4,News North America
+90,5,News North America
+90,6,News North America
+90,7,News North America
+90,8,News North America
+90,9,News North America
+90,10,Weather
+90,11,Weather
+91,1,Calendar
+91,2,Small business
+91,3,Flight
+91,4,Hotel
+92,1,Software
+92,2,Community
+92,3,OutDoor
+92,4,Email
+92,5,Radio
+92,6,Life
+93,1,Tennis
+94,1,Baseball
+94,2,Basketball
+95,1,Wall Street
+95,2,Map
+95,3,Car rental
+95,4,Movie
+95,5,Radio
+95,6,Job
+96,1,Companies
+96,2,Wall Street
+96,3,Tennis
+96,4,Hockey
+96,5,Tennis
+96,6,City info
+96,7,Shopping Car
+97,1,News North America
+97,2,News North America
+97,3,News North America
+97,4,Weather
+97,5,Weather
+98,1,Vacation
+98,2,News Asia
+98,3,Insurance
+98,4,Loan
+98,5,Wall Street
+98,6,Broker
+99,1,Music
+99,2,Music
+99,3,Shopping Software
+99,4,Shopping Book
+99,5,Soccer
+100,1,Music
+100,2,Shopping Music
+100,3,Shopping Music
+100,4,Movie
+100,5,Movie
+101,1,Stock quotes
+101,2,Business
+101,3,Map
+102,1,News North America
+102,2,News North America
+102,3,Football
+102,4,Baseball
+102,5,Basketball
+103,1,OutDoor
+103,2,News Local
+103,3,Internet
+104,1,Chat
+104,2,Health
+104,3,Shopping House
+104,4,Shopping Computer
+104,5,News Australia
+104,6,Health
+105,1,Shopping House
+105,2,Insurance
+105,3,Insurance
+105,4,Loan
+106,1,Broker
+106,2,Tax
+106,3,Football
+106,4,News Local
+106,5,News Europe
+106,6,News Asia
+107,1,Community
+107,2,Chat
+107,3,Calendar
+107,4,Small business
+107,5,Shopping Software
+107,6,Shopping Book
+108,1,News North America
+108,2,Football
+108,3,Football
+108,4,Baseball
+108,5,Baseball
+108,6,Baseball
+108,7,Basketball
+109,1,Music
+109,2,Shopping Music
+109,3,Shopping Music
+109,4,Shopping Music
+109,5,Movie
+110,1,Shopping House
+110,2,Insurance
+110,3,Insurance
+110,4,Loan
+111,1,Yellow Page
+111,2,Research and Science
+111,3,Calendar
+111,4,Hotel
+111,5,Map
+111,6,Companies
+111,7,Wall Street
+112,1,Health
+112,2,Medicine
+113,1,Shopping House
+113,2,Shopping House
+113,3,Shopping House
+113,4,Insurance
+113,5,Insurance
+113,6,Loan
+114,1,Music
+114,2,Music
+114,3,Shopping Music
+114,4,Shopping Music
+114,5,Movie
+114,6,Movie
+114,7,Movie
+114,8,Movie
+115,1,News North America
+115,2,News North America
+115,3,Football
+115,4,Baseball
+115,5,Baseball
+115,6,Baseball
+115,7,Basketball
+115,8,Basketball
+115,9,Basketball
+115,10,Basketball
+115,11,Basketball
+115,12,Basketball
+115,13,Basketball
+115,14,Basketball
+116,1,News Europe
+116,2,News Europe
+116,3,Football
+116,4,Football
+117,1,Shopping Computer
+117,2,Shopping Computer
+117,3,Shopping Computer
+117,4,Shopping Electronics
+118,1,Flight
+118,2,Hotel
+118,3,Hotel
+119,1,Health
+119,2,Medicine
+120,1,Flight
+120,2,Hotel
+121,1,Kits
+121,2,Tennis
+121,3,Hockey
+121,4,Job
+121,5,Cruises
+121,6,Vacation
+122,1,Map
+122,2,Tennis
+122,3,Calendar
+122,4,Football
+122,5,Soccer
+123,1,Shopping House
+123,2,Shopping Computer
+123,3,Kits
+123,4,Relationship
+123,5,Internet
+124,1,Health
+124,2,Health
+124,3,Health
+124,4,Medicine
+124,5,Medicine
+125,1,Loan
+125,2,Yellow Page
+126,1,Radio
+126,2,Calendar
+126,3,Vacation
+127,1,Software
+128,1,News North America
+128,2,Football
+128,3,Baseball
+128,4,Basketball
+128,5,Basketball
+129,1,Weather
+129,2,Weather
+129,3,Weather
+129,4,Weather
+129,5,Weather
+129,6,Weather
+129,7,Weather
+129,8,Weather
+130,1,Music
+130,2,Shopping Music
+130,3,Movie
+130,4,Movie
+131,1,Tennis
+131,2,Hockey
+132,1,Game
+132,2,Shopping Game
+132,3,Radio
+132,4,Pets
+132,5,Game
+132,6,Tennis
+132,7,Movie
+132,8,Radio
+133,1,News North America
+133,2,News North America
+133,3,News North America
+133,4,News North America
+133,5,Weather
+134,1,News North America
+134,2,News North America
+134,3,News North America
+134,4,Weather
+135,1,Relationship
+135,2,Pets
+135,3,Music
+135,4,Shopping Music
+135,5,Shopping Software
+135,6,Shopping Book
+136,1,Shopping Computer
+136,2,Shopping Electronics
+137,1,Basketball
+137,2,Tennis
+138,1,Calendar
+138,2,Companies
+138,3,Wall Street
+138,4,Shopping Book
+139,1,Music
+139,2,Shopping Music
+139,3,Movie
+140,1,News Europe
+140,2,News Europe
+140,3,News Europe
+140,4,Football
+141,1,Flight
+141,2,Flight
+141,3,Hotel
+142,1,Yellow Page
+142,2,Research and Science
+142,3,Yellow Page
+142,4,Software
+142,5,Job
+142,6,Game
+142,7,Shopping Game
+143,1,Music
+143,2,Shopping Music
+143,3,Movie
+143,4,Movie
+144,1,Telecom
+144,2,Wireless
+144,3,Hockey
+144,4,OutDoor
+145,1,Music
+145,2,Shopping Music
+145,3,Movie
+145,4,Movie
+146,1,Pets
+146,2,Game
+146,3,News Asia
+146,4,Telecom
+147,1,Email
+147,2,Stock quotes
+147,3,Telecom
+147,4,OutDoor
+147,5,Email
+147,6,Radio
+147,7,Life
+148,1,Shopping Book
+148,2,Shopping Software
+148,3,Shopping Book
+148,4,Shopping Computer
+148,5,Shopping Electronics
+149,1,Flight
+149,2,Hotel
+149,3,Hotel
+149,4,Hotel
+149,5,Hotel
+150,1,News North America
+150,2,News North America
+150,3,News North America
+150,4,News North America
+150,5,Weather
+150,6,Weather
+151,1,Shopping Book
+151,2,Small business
+151,3,Download
+151,4,Diet
+151,5,Business
+151,6,Economy
+151,7,OutDoor
+151,8,Email
+152,1,News North America
+152,2,Weather
+152,3,Weather
+152,4,Weather
+153,1,Basketball
+153,2,Tennis
+153,3,Software
+153,4,Medicine
+153,5,Kits
+153,6,Small business
+154,1,Wireless
+154,2,Email
+154,3,Community
+155,1,Chat
+155,2,Health
+155,3,Pets
+155,4,Game
+155,5,Pets
+155,6,Research and Science
+155,7,Weather
+155,8,Cruises
+156,1,Flight
+156,2,Hotel
+157,1,Hotel
+158,1,Wall Street
+158,2,Football
+158,3,Soccer
+158,4,Baseball
+158,5,Map
+158,6,Car rental
+158,7,News Local
+159,1,Shopping Computer
+159,2,Shopping Computer
+159,3,Shopping Electronics
+160,1,Insurance
+160,2,Loan
+160,3,Greeting Cards
+160,4,Calendar
+160,5,Baseball
+160,6,Stock quotes
+160,7,Business
+161,1,Flight
+161,2,Hotel
+162,1,Flight
+162,2,Hotel
+163,1,Relationship
+163,2,Pets
+163,3,Shopping Computer
+163,4,Health
+163,5,Telecom
+163,6,News Local
+163,7,Internet
+164,1,Research and Science
+164,2,Weather
+164,3,Shopping House
+164,4,News Europe
+164,5,News Asia
+165,1,Email
+166,1,Companies
+166,2,Pets
+166,3,Game
+167,1,Music
+167,2,Shopping Music
+167,3,Movie
+168,1,Music
+168,2,Shopping Music
+168,3,Movie
+169,1,Pets
+169,2,Community
+169,3,Chat
+169,4,Community
+169,5,Chat
+169,6,Life
+170,1,Telecom
+170,2,Loan
+170,3,Companies
+170,4,Wall Street
+170,5,Calendar
+170,6,Small business
+171,1,Flight
+171,2,Hotel
+172,1,Shopping House
+172,2,Shopping House
+172,3,Insurance
+172,4,Loan
+173,1,Soccer
+173,2,Baseball
+173,3,Calendar
+173,4,Weather
+174,1,Weather
+174,2,Weather
+175,1,Download
+176,1,News Asia
+176,2,News Australia
+176,3,Broker
+176,4,Software
+177,1,News North America
+177,2,News North America
+177,3,Football
+177,4,Baseball
+177,5,Baseball
+177,6,Basketball
+177,7,Basketball
+178,1,News North America
+178,2,Weather
+179,1,Health
+179,2,Medicine
+180,1,Flight
+180,2,Hotel
+181,1,Shopping Computer
+181,2,Shopping Electronics
+182,1,News North America
+182,2,News North America
+182,3,News North America
+182,4,News North America
+182,5,News North America
+182,6,News North America
+182,7,Football
+182,8,Football
+182,9,Baseball
+182,10,Basketball
+183,1,News North America
+183,2,News North America
+183,3,News North America
+183,4,News North America
+183,5,News North America
+183,6,News North America
+183,7,Weather
+184,1,Map
+184,2,OutDoor
+184,3,Internet
+184,4,Shopping Game
+184,5,Community
+184,6,Chat
+185,1,Health
+185,2,Medicine
+186,1,Flight
+186,2,Flight
+186,3,Hotel
+186,4,Hotel
+187,1,Weather
+187,2,Download
+187,3,Weather
+187,4,Broker
+187,5,Community
+188,1,Health
+188,2,Medicine
+189,1,Shopping Computer
+189,2,Shopping Electronics
+190,1,Shopping House
+190,2,Shopping Computer
+190,3,Broker
+190,4,Insurance
+190,5,Loan
+191,1,Flight
+191,2,Hotel
+191,3,Companies
+191,4,Wall Street
+192,1,Shopping Computer
+192,2,Shopping Electronics
+192,3,Soccer
+192,4,City info
+192,5,Shopping Car
+193,1,Health
+193,2,Diet
+193,3,Calendar
+193,4,Insurance
+194,1,Health
+194,2,Medicine
+195,1,News Europe
+195,2,News Europe
+195,3,News Europe
+195,4,News Europe
+195,5,News Europe
+195,6,News Europe
+195,7,Football
+196,1,News North America
+196,2,Football
+196,3,Football
+196,4,Baseball
+196,5,Basketball
+197,1,Music
+197,2,Music
+197,3,Music
+197,4,Shopping Music
+197,5,Movie
+198,1,News Europe
+198,2,News Europe
+198,3,Football
+199,1,Flight
+199,2,Hotel
+200,1,Shopping Music
+200,2,OutDoor
+200,3,Email
+200,4,Insurance
+200,5,Loan
+200,6,Shopping House
+201,1,News Europe
+201,2,Football
+202,1,Health
+202,2,Medicine
+202,3,Medicine
+203,1,Relationship
+203,2,Pets
+203,3,Companies
+203,4,Wall Street
+204,1,Flight
+204,2,Flight
+204,3,Flight
+204,4,Hotel
+205,1,News North America
+205,2,News North America
+205,3,Weather
+206,1,Small business
+206,2,Download
+206,3,Insurance
+206,4,Loan
+207,1,News North America
+207,2,Football
+207,3,Football
+207,4,Baseball
+207,5,Baseball
+207,6,Baseball
+207,7,Basketball
+208,1,Health
+208,2,Health
+208,3,Health
+208,4,Health
+208,5,Health
+208,6,Medicine
+209,1,Health
+209,2,Diet
+209,3,News Local
+209,4,Hotel
+209,5,Map
+209,6,Health
+209,7,Diet
+210,1,Software
+210,2,Job
+210,3,Community
+210,4,Chat
+210,5,Research and Science
+210,6,Weather
+210,7,Flight
+211,1,News North America
+211,2,News North America
+211,3,News North America
+211,4,News North America
+211,5,News North America
+211,6,News North America
+211,7,News North America
+211,8,News North America
+211,9,News North America
+211,10,News North America
+211,11,News North America
+211,12,News North America
+211,13,News North America
+211,14,News North America
+211,15,News North America
+211,16,News North America
+211,17,Weather
+211,18,Weather
+212,1,Weather
+212,2,Weather
+212,3,Weather
+213,1,Companies
+214,1,News North America
+214,2,Weather
+214,3,Weather
+214,4,Weather
+215,1,Music
+215,2,Music
+215,3,Shopping Music
+215,4,Movie
+216,1,News Asia
+216,2,News Australia
+216,3,Hotel
+216,4,Shopping Game
+217,1,Diet
+217,2,Download
+217,3,Flight
+217,4,OutDoor
+217,5,Email
+217,6,News Local
+217,7,Internet
+217,8,Companies
+218,1,Music
+218,2,Shopping Music
+218,3,Movie
+218,4,Movie
+219,1,Weather
+219,2,Weather
+220,1,Music
+220,2,Music
+220,3,Shopping Music
+220,4,Shopping Music
+220,5,Movie
+220,6,Movie
+220,7,Movie
+221,1,News Europe
+222,1,Shopping Book
+222,2,Software
+222,3,Job
+222,4,Shopping Car
+222,5,Shopping House
+222,6,Diet
+222,7,Medicine
+222,8,Email
+222,9,Community
+223,1,Baseball
+223,2,Health
+223,3,Diet
+224,1,Flight
+224,2,Hotel
+225,1,Flight
+225,2,Hotel
+226,1,News Europe
+226,2,Football
+227,1,Music
+227,2,Music
+227,3,Shopping Music
+227,4,Shopping Music
+227,5,Movie
+227,6,Movie
+227,7,Movie
+228,1,Music
+228,2,Shopping Music
+228,3,Movie
+228,4,Movie
+229,1,Shopping House
+229,2,Insurance
+229,3,Loan
+230,1,Vacation
+230,2,Hockey
+231,1,Game
+231,2,Chat
+231,3,Health
+232,1,Telecom
+232,2,Tax
+232,3,Cruises
+232,4,Vacation
+232,5,Baseball
+232,6,Download
+233,1,Shopping Computer
+233,2,Shopping Electronics
+234,1,Basketball
+234,2,Tennis
+234,3,Shopping Software
+234,4,Map
+234,5,Car rental
+235,1,Weather
+235,2,Weather
+235,3,Weather
+235,4,Weather
+235,5,Weather
+235,6,Weather
+235,7,Weather
+235,8,Weather
+235,9,Weather
+235,10,Weather
+235,11,Weather
+235,12,Weather
+235,13,Weather
+236,1,Tax
+236,2,Wireless
+236,3,Economy
+236,4,Companies
+237,1,News Asia
+237,2,News Australia
+237,3,Cruises
+237,4,City info
+237,5,Shopping Car
+237,6,Kits
+237,7,Relationship
+238,1,Insurance
+238,2,Shopping Software
+238,3,Shopping Book
+238,4,Shopping Computer
+238,5,Tennis
+238,6,Hockey
+239,1,Shopping Electronics
+239,2,Companies
+239,3,Wall Street
+239,4,Job
+239,5,Financial news
+240,1,Yellow Page
+240,2,Flight
+240,3,Stock quotes
+240,4,Business
+240,5,Wall Street
+241,1,Hockey
+241,2,OutDoor
+241,3,Life
+241,4,News Asia
+242,1,Flight
+242,2,Movie
+242,3,Insurance
+242,4,Shopping Software
+242,5,Car rental
+243,1,Flight
+243,2,Hotel
+244,1,Research and Science
+244,2,Hockey
+245,1,Flight
+245,2,Hotel
+246,1,News North America
+246,2,Community
+247,1,News Europe
+247,2,Football
+248,1,Insurance
+248,2,Loan
+248,3,Shopping Book
+249,1,Pets
+249,2,Game
+249,3,Yellow Page
+249,4,Research and Science
+249,5,City info
+249,6,Shopping Car
+250,1,News North America
+250,2,News North America
+250,3,News North America
+250,4,News North America
+250,5,Weather
+250,6,Weather
+250,7,Weather
+251,1,Game
+251,2,Shopping Electronics
+251,3,Insurance
+251,4,Loan
+251,5,Financial news
+251,6,Shopping Music
+251,7,Movie
+252,1,Shopping House
+252,2,Shopping House
+252,3,Insurance
+252,4,Loan
+253,1,News Europe
+253,2,News Europe
+253,3,Football
+254,1,Car rental
+254,2,Cruises
+254,3,Medicine
+255,1,News North America
+255,2,Weather
+255,3,Weather
+256,1,Health
+256,2,Medicine
+257,1,Music
+257,2,Shopping Music
+257,3,Movie
+257,4,Movie
+257,5,Movie
+258,1,Music
+258,2,Shopping Music
+258,3,Movie
+258,4,Movie
+258,5,Movie
+259,1,Shopping Computer
+259,2,Shopping Computer
+259,3,Shopping Electronics
+260,1,Companies
+260,2,Business
+260,3,Relationship
+260,4,Wireless
+260,5,Software
+261,1,News North America
+261,2,Football
+261,3,Baseball
+261,4,Basketball
+262,1,Calendar
+262,2,Software
+262,3,Wall Street
+262,4,Broker
+262,5,Relationship
+262,6,Pets
+263,1,Music
+263,2,Shopping Music
+263,3,Movie
+263,4,Movie
+264,1,Music
+264,2,Music
+264,3,Music
+264,4,Music
+264,5,Music
+264,6,Music
+264,7,Shopping Music
+264,8,Movie
+265,1,Flight
+265,2,Flight
+265,3,Flight
+265,4,Hotel
+265,5,Hotel
+266,1,Vacation
+266,2,City info
+266,3,Wireless
+266,4,Shopping Computer
+266,5,Car rental
+266,6,Cruises
+267,1,Flight
+267,2,Flight
+267,3,Flight
+267,4,Flight
+267,5,Hotel
+267,6,Hotel
+268,1,Email
+268,2,Hockey
+268,3,Football
+268,4,Soccer
+269,1,News Europe
+269,2,Football
+270,1,News Europe
+270,2,Football
+271,1,Chat
+271,2,Health
+271,3,Research and Science
+271,4,Radio
+271,5,Life
+271,6,Shopping House
+271,7,Kits
+271,8,Relationship
+272,1,News North America
+272,2,News North America
+272,3,Football
+272,4,Baseball
+272,5,Basketball
+273,1,Flight
+273,2,Flight
+273,3,Hotel
+274,1,Software
+274,2,Business
+274,3,Flight
+274,4,Hotel
+275,1,Radio
+275,2,Life
+275,3,Diet
+275,4,Medicine
+275,5,Wall Street
+275,6,Small business
+275,7,Flight
+276,1,Weather
+277,1,Music
+277,2,Shopping Music
+277,3,Shopping Music
+277,4,Movie
+278,1,Flight
+278,2,Hotel
+279,1,Weather
+279,2,Weather
+279,3,Weather
+279,4,Weather
+279,5,Weather
+279,6,Weather
+280,1,Health
+280,2,Medicine
+280,3,Medicine
+281,1,Movie
+281,2,Movie
+282,1,Stock quotes
+282,2,Shopping House
+282,3,Shopping Computer
+283,1,News North America
+283,2,News North America
+283,3,News North America
+283,4,Weather
+283,5,Weather
+284,1,Basketball
+284,2,Tennis
+284,3,News Europe
+284,4,News Asia
+284,5,Kits
+284,6,Relationship
+285,1,Relationship
+285,2,Pets
+285,3,Software
+285,4,Job
+285,5,City info
+285,6,News Europe
+286,1,Health
+286,2,Medicine
+286,3,Medicine
+287,1,Pets
+287,2,Game
+287,3,Community
+287,4,Chat
+287,5,Business
+287,6,Health
+288,1,Job
+288,2,Relationship
+288,3,Pets
+288,4,News Australia
+289,1,Stock quotes
+290,1,Flight
+290,2,Hotel
+291,1,Small business
+291,2,Download
+291,3,Shopping Music
+291,4,Movie
+291,5,Insurance
+292,1,News North America
+292,2,Football
+292,3,Football
+292,4,Baseball
+292,5,Basketball
+293,1,Shopping Car
+293,2,Shopping House
+293,3,Hotel
+293,4,Map
+294,1,Flight
+294,2,Hotel
+295,1,News North America
+295,2,News North America
+295,3,News North America
+295,4,News North America
+295,5,News North America
+296,1,Weather
+297,1,OutDoor
+297,2,Email
+297,3,Car rental
+297,4,Yellow Page
+297,5,Research and Science
+298,1,Music
+298,2,Music
+298,3,Shopping Music
+298,4,Shopping Music
+298,5,Shopping Music
+298,6,Shopping Music
+298,7,Movie
+298,8,Movie
+299,1,Shopping Computer
+299,2,Shopping Computer
+299,3,Shopping Electronics
+300,1,News North America
+300,2,News North America
+300,3,Football
+300,4,Baseball
+300,5,Basketball
+301,1,News North America
+301,2,Football
+301,3,Baseball
+301,4,Basketball
+302,1,News North America
+302,2,Cruises
+302,3,Vacation
+302,4,Shopping Car
+303,1,News Europe
+303,2,News Europe
+303,3,Football
+303,4,Football
+304,1,Music
+304,2,Shopping Music
+304,3,Movie
+305,1,Tax
+305,2,Shopping Software
+305,3,News Australia
+305,4,News Local
+306,1,Weather
+307,1,Weather
+307,2,Weather
+308,1,News North America
+308,2,News North America
+308,3,Weather
+308,4,Weather
+308,5,Weather
+309,1,Shopping Computer
+309,2,Shopping Computer
+309,3,Shopping Computer
+309,4,Shopping Electronics
+310,1,Diet
+310,2,Chat
+311,1,Small business
+311,2,Download
+312,1,Shopping House
+312,2,Shopping House
+312,3,Shopping House
+312,4,Shopping House
+312,5,Insurance
+312,6,Loan
+312,7,Loan
+312,8,Loan
+312,9,Loan
+313,1,News North America
+313,2,Football
+313,3,Baseball
+313,4,Baseball
+313,5,Baseball
+313,6,Basketball
+314,1,Life
+314,2,Greeting Cards
+314,3,City info
+314,4,Shopping Car
+314,5,Radio
+314,6,Broker
+314,7,Shopping Computer
+314,8,Shopping Electronics
+315,1,Music
+315,2,Music
+315,3,Shopping Music
+315,4,Movie
+316,1,Weather
+316,2,Weather
+316,3,Weather
+317,1,Download
+317,2,Diet
+317,3,Medicine
+318,1,News North America
+318,2,News North America
+318,3,News North America
+318,4,News North America
+318,5,Weather
+319,1,Health
+319,2,Medicine
+320,1,Companies
+320,2,Loan
+321,1,Flight
+321,2,Hotel
+322,1,News North America
+322,2,News North America
+322,3,Weather
+323,1,Shopping Software
+323,2,Music
+323,3,Calendar
+323,4,Small business
+324,1,Shopping Computer
+324,2,Shopping Electronics
+325,1,Music
+325,2,Shopping Music
+325,3,Movie
+326,1,Car rental
+326,2,Cruises
+326,3,Relationship
+326,4,Shopping Car
+326,5,Calendar
+326,6,Small business
+327,1,Kits
+327,2,Small business
+327,3,Download
+328,1,News North America
+328,2,Weather
+328,3,Weather
+329,1,News North America
+329,2,News North America
+329,3,Football
+329,4,Baseball
+329,5,Basketball
+330,1,News North America
+330,2,News North America
+330,3,Weather
+330,4,Weather
+331,1,Shopping House
+331,2,Insurance
+331,3,Loan
+331,4,Loan
+331,5,Loan
+331,6,Loan
+331,7,Loan
+332,1,News Australia
+332,2,Financial news
+332,3,Basketball
+332,4,Basketball
+333,1,Hotel
+333,2,Map
+333,3,City info
+333,4,Wall Street
+334,1,Shopping House
+334,2,Shopping Computer
+334,3,Shopping House
+334,4,Business
+334,5,Economy
+335,1,Community
+335,2,Chat
+335,3,Stock quotes
+335,4,Business
+335,5,City info
+335,6,Telecom
+335,7,Email
+336,1,Health
+336,2,Health
+336,3,Health
+336,4,Health
+336,5,Health
+336,6,Health
+336,7,Medicine
+337,1,News North America
+337,2,News North America
+337,3,News North America
+337,4,News North America
+337,5,News North America
+337,6,Weather
+337,7,Weather
+337,8,Weather
+338,1,Weather
+339,1,Map
+339,2,Small business
+339,3,Tax
+339,4,Shopping Software
+339,5,Radio
+339,6,Life
+340,1,Movie
+340,2,Radio
+340,3,Chat
+340,4,Health
+340,5,Tax
+340,6,Shopping Software
+341,1,Shopping House
+341,2,Shopping House
+341,3,Insurance
+341,4,Loan
+341,5,Loan
+342,1,Weather
+342,2,Weather
+342,3,Weather
+342,4,Weather
+342,5,Weather
+342,6,Weather
+342,7,Weather
+342,8,Weather
+343,1,OutDoor
+343,2,Email
+343,3,Flight
+343,4,Basketball
+343,5,Tennis
+344,1,Tennis
+344,2,Hockey
+344,3,Community
+344,4,Chat
+344,5,Tennis
+344,6,Map
+345,1,Movie
+345,2,Download
+345,3,Flight
+345,4,Research and Science
+345,5,Weather
+345,6,Telecom
+345,7,Email
+345,8,Community
+346,1,News North America
+346,2,News North America
+346,3,Football
+346,4,Football
+346,5,Baseball
+346,6,Baseball
+346,7,Basketball
+347,1,News North America
+347,2,News North America
+347,3,News North America
+347,4,News North America
+347,5,News North America
+347,6,News North America
+347,7,News North America
+347,8,News North America
+347,9,News North America
+347,10,News North America
+347,11,Weather
+348,1,Stock quotes
+348,2,Business
+348,3,News North America
+348,4,Telecom
+348,5,Shopping Game
+349,1,Shopping Car
+349,2,Shopping Computer
+349,3,Business
+349,4,Shopping Book
+350,1,News North America
+350,2,News North America
+350,3,News North America
+350,4,News North America
+350,5,Football
+350,6,Baseball
+350,7,Basketball
+351,1,Download
+351,2,OutDoor
+351,3,Calendar
+351,4,Small business
+352,1,Flight
+352,2,Hotel
+353,1,Baseball
+353,2,Basketball
+353,3,Community
+353,4,Chat
+353,5,Health
+353,6,City info
+354,1,News North America
+354,2,News North America
+354,3,Weather
+354,4,Weather
+355,1,Shopping Software
+355,2,Shopping Book
+355,3,Stock quotes
+356,1,Shopping Game
+356,2,Music
+356,3,Broker
+356,4,Calendar
+356,5,Software
+356,6,Life
+357,1,Vacation
+357,2,Companies
+357,3,Hockey
+357,4,Job
+358,1,News North America
+358,2,News North America
+358,3,Football
+358,4,Baseball
+358,5,Basketball
+359,1,Wall Street
+359,2,Broker
+359,3,Game
+359,4,Business
+359,5,Economy
+360,1,Weather
+360,2,Weather
+360,3,Weather
+360,4,Weather
+360,5,Weather
+361,1,Health
+361,2,Medicine
+362,1,News North America
+362,2,News North America
+362,3,News North America
+362,4,News North America
+362,5,Weather
+362,6,Weather
+363,1,Financial news
+364,1,News Europe
+364,2,Football
+365,1,Wireless
+365,2,Software
+365,3,News Australia
+365,4,Relationship
+366,1,Medicine
+366,2,Soccer
+366,3,Baseball
+366,4,Economy
+366,5,Baseball
+366,6,Basketball
+366,7,Pets
+366,8,Game
+367,1,Flight
+367,2,Flight
+367,3,Flight
+367,4,Hotel
+367,5,Hotel
+368,1,Small business
+368,2,Download
+368,3,Shopping Software
+368,4,Shopping Book
+368,5,Calendar
+369,1,News Europe
+369,2,News Europe
+369,3,News Europe
+369,4,Football
+370,1,Music
+370,2,Shopping Music
+370,3,Shopping Music
+370,4,Movie
+371,1,News North America
+371,2,News North America
+371,3,News North America
+371,4,News North America
+371,5,Football
+371,6,Baseball
+371,7,Baseball
+371,8,Basketball
+371,9,Basketball
+372,1,Shopping Book
+372,2,Football
+372,3,Map
+372,4,Car rental
+373,1,Flight
+373,2,Hotel
+374,1,News North America
+374,2,Football
+374,3,Baseball
+374,4,Baseball
+374,5,Basketball
+374,6,Basketball
+374,7,Basketball
+375,1,Flight
+375,2,Flight
+375,3,Flight
+375,4,Hotel
+376,1,Flight
+376,2,Flight
+376,3,Hotel
+377,1,Flight
+377,2,Hotel
+378,1,Weather
+378,2,Weather
+378,3,Weather
+378,4,Weather
+379,1,Shopping Computer
+379,2,Shopping Electronics
+380,1,Flight
+380,2,Hotel
+380,3,Hotel
+381,1,Radio
+381,2,Hotel
+382,1,News North America
+382,2,News North America
+382,3,Weather
+383,1,Game
+383,2,Movie
+383,3,Economy
+383,4,Companies
+384,1,News North America
+385,1,Music
+385,2,Shopping Music
+385,3,Movie
+386,1,Health
+386,2,Medicine
+387,1,News North America
+387,2,Weather
+388,1,Tennis
+388,2,Hockey
+388,3,Email
+388,4,Community
+388,5,Medicine
+388,6,News Europe
+388,7,Job
+388,8,Financial news
+389,1,Health
+389,2,Health
+389,3,Medicine
+390,1,Loan
+390,2,Football
+390,3,Software
+391,1,News Asia
+392,1,Shopping Software
+392,2,Relationship
+392,3,Pets
+392,4,Wireless
+392,5,Software
+393,1,Shopping Computer
+393,2,Shopping Electronics
+393,3,Shopping Electronics
+393,4,Shopping Electronics
+394,1,Shopping Computer
+394,2,Shopping Electronics
+395,1,Stock quotes
+395,2,Business
+395,3,OutDoor
+395,4,Email
+395,5,Relationship
+395,6,Pets
+395,7,Life
+395,8,Greeting Cards
+395,9,Wireless
+396,1,News North America
+396,2,News Europe
+396,3,Radio
+396,4,Life
+397,1,Weather
+398,1,News North America
+398,2,Football
+398,3,Baseball
+398,4,Basketball
+399,1,Health
+399,2,Medicine
+400,1,News North America
+400,2,News North America
+400,3,News North America
+400,4,News North America
+400,5,Football
+400,6,Baseball
+400,7,Baseball
+400,8,Basketball
+400,9,Basketball
+400,10,Basketball
+400,11,Basketball
+401,1,Telecom
+401,2,Chat
+401,3,Health
+402,1,News North America
+402,2,Football
+402,3,Baseball
+402,4,Basketball
+402,5,Basketball
+402,6,Basketball
+403,1,News Europe
+403,2,News Europe
+403,3,News Europe
+403,4,News Europe
+403,5,News Europe
+403,6,Football
+404,1,Health
+404,2,Medicine
+405,1,Flight
+405,2,Hotel
+406,1,Health
+406,2,Medicine
+407,1,Flight
+407,2,Hotel
+408,1,Medicine
+408,2,Baseball
+409,1,Hotel
+409,2,Map
+409,3,Kits
+409,4,Shopping Computer
+409,5,Shopping Electronics
+409,6,Relationship
+409,7,Pets
+410,1,Shopping Computer
+410,2,Shopping Electronics
+411,1,Health
+411,2,Medicine
+412,1,News North America
+412,2,News North America
+412,3,Football
+412,4,Football
+412,5,Baseball
+412,6,Baseball
+412,7,Baseball
+412,8,Baseball
+412,9,Basketball
+413,1,Health
+413,2,Medicine
+414,1,Health
+414,2,Medicine
+414,3,Medicine
+415,1,Tennis
+415,2,Movie
+415,3,Radio
+415,4,Small business
+415,5,Download
+415,6,Football
+415,7,Soccer
+415,8,Baseball
+415,9,Basketball
+416,1,News North America
+416,2,News North America
+416,3,News North America
+416,4,Weather
+417,1,News North America
+417,2,News North America
+417,3,Football
+417,4,Baseball
+417,5,Basketball
+418,1,News North America
+418,2,Football
+418,3,Football
+418,4,Baseball
+418,5,Baseball
+418,6,Basketball
+419,1,News North America
+419,2,News North America
+419,3,News North America
+419,4,News North America
+419,5,News North America
+419,6,Weather
+420,1,News North America
+420,2,Weather
+421,1,News North America
+421,2,Weather
+422,1,News North America
+422,2,Weather
+422,3,Weather
+423,1,Life
+423,2,Greeting Cards
+423,3,Soccer
+423,4,Baseball
+423,5,Shopping Book
+423,6,Football
+424,1,Software
+424,2,Job
+425,1,Flight
+425,2,Flight
+425,3,Flight
+425,4,Flight
+425,5,Flight
+425,6,Flight
+425,7,Hotel
+426,1,Greeting Cards
+426,2,Calendar
+426,3,Pets
+426,4,Game
+426,5,City info
+427,1,Health
+427,2,Medicine
+428,1,News Europe
+428,2,News Europe
+428,3,Football
+429,1,Flight
+429,2,Hotel
+430,1,Flight
+430,2,Shopping Software
+430,3,Shopping Book
+430,4,News Europe
+430,5,Yellow Page
+430,6,Research and Science
+431,1,News North America
+431,2,News North America
+431,3,News North America
+431,4,News North America
+431,5,News North America
+431,6,News North America
+431,7,Weather
+432,1,Shopping Computer
+432,2,Shopping Computer
+432,3,Shopping Electronics
+433,1,Music
+433,2,Shopping Music
+433,3,Movie
+434,1,Flight
+434,2,Hotel
+435,1,Flight
+435,2,Hotel
+435,3,Hotel
+436,1,Greeting Cards
+436,2,Calendar
+436,3,Radio
+436,4,Life
+436,5,Relationship
+436,6,Pets
+436,7,Map
+436,8,Car rental
+436,9,Shopping Music
+436,10,Movie
+437,1,News North America
+437,2,News North America
+437,3,News North America
+437,4,News North America
+437,5,News North America
+437,6,News North America
+437,7,Weather
+438,1,Shopping Computer
+438,2,Shopping Electronics
+439,1,Business
+439,2,Economy
+439,3,Job
+440,1,News North America
+440,2,News North America
+440,3,Weather
+441,1,Shopping Computer
+441,2,Shopping Electronics
+441,3,Shopping Electronics
+442,1,Companies
+442,2,Wall Street
+442,3,Business
+442,4,Economy
+442,5,Soccer
+442,6,Baseball
+443,1,News North America
+443,2,News North America
+443,3,News North America
+443,4,News North America
+443,5,News North America
+443,6,Weather
+444,1,Telecom
+444,2,Calendar
+444,3,Small business
+445,1,Shopping House
+445,2,Insurance
+445,3,Loan
+445,4,Loan
+446,1,Flight
+446,2,Flight
+446,3,Hotel
+446,4,Hotel
+447,1,Flight
+447,2,Hotel
+447,3,Hotel
+448,1,Calendar
+448,2,Small business
+448,3,Car rental
+448,4,Flight
+448,5,Hotel
+449,1,Music
+449,2,Shopping Music
+449,3,Shopping Music
+449,4,Shopping Music
+449,5,Movie
+450,1,Music
+450,2,Shopping Music
+450,3,Movie
+451,1,Software
+451,2,Shopping Book
+451,3,Internet
+451,4,Telecom
+451,5,Financial news
+451,6,Stock quotes
+452,1,Health
+452,2,Medicine
+452,3,Medicine
+453,1,Yellow Page
+453,2,Research and Science
+453,3,Movie
+453,4,Radio
+454,1,Music
+454,2,Shopping Music
+454,3,Shopping Music
+454,4,Shopping Music
+454,5,Movie
+455,1,Music
+455,2,Music
+455,3,Shopping Music
+455,4,Movie
+455,5,Movie
+456,1,Weather
+456,2,Weather
+456,3,Weather
+456,4,Weather
+457,1,Shopping Electronics
+457,2,Insurance
+458,1,Weather
+458,2,Weather
+458,3,Weather
+458,4,Weather
+458,5,Weather
+458,6,Weather
+458,7,Weather
+459,1,Weather
+459,2,Weather
+459,3,Weather
+459,4,Weather
+459,5,Weather
+460,1,News North America
+460,2,Football
+460,3,Baseball
+460,4,Baseball
+460,5,Baseball
+460,6,Baseball
+460,7,Baseball
+460,8,Basketball
+460,9,Basketball
+460,10,Basketball
+460,11,Basketball
+461,1,Email
+462,1,News North America
+462,2,News North America
+462,3,News North America
+462,4,Weather
+462,5,Weather
+462,6,Weather
+463,1,Health
+463,2,Health
+463,3,Medicine
+463,4,Medicine
+464,1,Flight
+464,2,Hotel
+465,1,News North America
+465,2,News North America
+465,3,News North America
+465,4,News North America
+465,5,News North America
+465,6,News North America
+465,7,News North America
+465,8,News North America
+465,9,News North America
+465,10,News North America
+465,11,News North America
+465,12,Weather
+465,13,Weather
+465,14,Weather
+466,1,Tennis
+466,2,Hockey
+466,3,Community
+467,1,News North America
+467,2,News North America
+467,3,News North America
+467,4,News North America
+467,5,Weather
+467,6,Weather
+467,7,Weather
+468,1,Weather
+468,2,Weather
+468,3,Weather
+468,4,Weather
+468,5,Weather
+468,6,Weather
+469,1,Movie
+469,2,Pets
+470,1,News North America
+470,2,News North America
+470,3,News North America
+470,4,Football
+470,5,Baseball
+470,6,Basketball
+471,1,News North America
+471,2,Weather
+471,3,Weather
+471,4,Weather
+472,1,News North America
+473,1,News Australia
+473,2,News Local
+473,3,Job
+473,4,Job
+473,5,Internet
+473,6,Telecom
+474,1,Shopping House
+474,2,Shopping House
+474,3,Shopping House
+474,4,Shopping House
+474,5,Shopping House
+474,6,Insurance
+474,7,Loan
+475,1,News Asia
+475,2,Research and Science
+475,3,Weather
+476,1,News North America
+476,2,News North America
+476,3,News North America
+476,4,Weather
+476,5,Weather
+476,6,Weather
+477,1,News North America
+477,2,News North America
+477,3,News North America
+477,4,News North America
+477,5,News North America
+477,6,News North America
+477,7,News North America
+477,8,Weather
+478,1,News Europe
+478,2,Business
+478,3,Economy
+478,4,Shopping Computer
+479,1,Shopping House
+479,2,OutDoor
+479,3,Email
+479,4,Diet
+479,5,Medicine
+480,1,Health
+480,2,Health
+480,3,Health
+480,4,Health
+480,5,Health
+480,6,Medicine
+481,1,News North America
+481,2,News North America
+481,3,News North America
+481,4,Weather
+482,1,Music
+482,2,Music
+482,3,Shopping Music
+482,4,Movie
+483,1,News North America
+483,2,News North America
+483,3,Football
+483,4,Baseball
+483,5,Basketball
+484,1,Flight
+484,2,Hotel
+485,1,Flight
+485,2,Hotel
+486,1,Shopping House
+486,2,Shopping Computer
+486,3,Basketball
+487,1,Stock quotes
+487,2,Community
+487,3,OutDoor
+487,4,Email
+487,5,Job
+487,6,Baseball
+488,1,Health
+488,2,Medicine
+489,1,News North America
+489,2,News North America
+489,3,News North America
+489,4,Weather
+489,5,Weather
+490,1,News Australia
+490,2,Life
+490,3,Shopping Electronics
+490,4,Insurance
+491,1,Community
+491,2,Financial news
+491,3,Tennis
+491,4,Hockey
+492,1,Health
+492,2,Medicine
+493,1,Economy
+493,2,Companies
+493,3,Music
+493,4,News Local
+493,5,Internet
+494,1,Internet
+494,2,Telecom
+494,3,Internet
+494,4,Shopping Music
+494,5,Shopping Software
+494,6,News Europe
+494,7,News Asia
+495,1,News North America
+495,2,Football
+495,3,Football
+495,4,Baseball
+495,5,Basketball
+496,1,Flight
+496,2,Hotel
+497,1,News North America
+497,2,Weather
+497,3,Weather
+498,1,News North America
+498,2,News North America
+498,3,Weather
+499,1,Music
+499,2,Shopping Music
+499,3,Shopping Music
+499,4,Shopping Music
+499,5,Shopping Music
+499,6,Shopping Music
+499,7,Movie
+500,1,Music
+500,2,Music
+500,3,Shopping Music
+500,4,Movie
+501,1,News Europe
+501,2,News Asia
+502,1,Shopping Book
+502,2,Download
+502,3,Flight
+502,4,Download
+503,1,News North America
+503,2,Football
+503,3,Football
+503,4,Baseball
+503,5,Basketball
+504,1,News North America
+504,2,News North America
+504,3,Weather
+505,1,Health
+505,2,Medicine
+506,1,Baseball
+506,2,Basketball
+507,1,Flight
+507,2,Hotel
+508,1,Shopping House
+508,2,Insurance
+508,3,Insurance
+508,4,Loan
+508,5,Loan
+509,1,Calendar
+509,2,Radio
+510,1,Shopping House
+510,2,Movie
+511,1,News North America
+511,2,Football
+511,3,Baseball
+511,4,Baseball
+511,5,Baseball
+511,6,Basketball
+511,7,Basketball
+512,1,Shopping Music
+512,2,Movie
+513,1,Weather
+513,2,Weather
+513,3,Weather
+513,4,Weather
+513,5,Weather
+513,6,Weather
+513,7,Weather
+513,8,Weather
+513,9,Weather
+514,1,Health
+514,2,Medicine
+515,1,News North America
+515,2,News North America
+515,3,News North America
+515,4,Weather
+515,5,Weather
+516,1,News North America
+516,2,Weather
+516,3,Weather
+516,4,Weather
+516,5,Weather
+517,1,Shopping Computer
+517,2,Shopping Electronics
+518,1,Wireless
+518,2,Companies
+519,1,Relationship
+519,2,Companies
+519,3,Wall Street
+519,4,Map
+519,5,Shopping Software
+519,6,Shopping Book
+520,1,Telecom
+520,2,Wireless
+520,3,Soccer
+521,1,Flight
+521,2,Flight
+521,3,Flight
+521,4,Flight
+521,5,Flight
+521,6,Hotel
+522,1,Tennis
+522,2,Hockey
+522,3,OutDoor
+522,4,Loan
+522,5,Yellow Page
+522,6,Car rental
+522,7,Football
+522,8,Soccer
+523,1,Music
+523,2,Shopping Music
+523,3,Movie
+523,4,Movie
+524,1,Research and Science
+524,2,Weather
+525,1,Shopping Computer
+525,2,Shopping Computer
+525,3,Shopping Electronics
+525,4,Shopping Electronics
+525,5,Shopping Electronics
+526,1,Shopping Game
+526,2,Music
+526,3,Radio
+526,4,Life
+527,1,Weather
+527,2,Weather
+527,3,Weather
+527,4,Weather
+527,5,Weather
+528,1,Flight
+528,2,Flight
+528,3,Hotel
+528,4,Hotel
+529,1,Flight
+529,2,Hotel
+530,1,Economy
+530,2,Community
+530,3,Chat
+530,4,News Australia
+530,5,Internet
+530,6,Telecom
+530,7,Insurance
+531,1,News Europe
+531,2,News Europe
+531,3,News Europe
+531,4,Football
+531,5,Football
+532,1,Shopping Game
+532,2,Music
+532,3,Yellow Page
+532,4,Research and Science
+533,1,Wall Street
+533,2,Shopping Electronics
+533,3,Insurance
+534,1,Shopping House
+534,2,Insurance
+534,3,Loan
+534,4,Loan
+535,1,Shopping Car
+535,2,Shopping House
+535,3,Vacation
+535,4,Hockey
+535,5,OutDoor
+535,6,Shopping Software
+535,7,Shopping Book
+535,8,News Europe
+536,1,Shopping House
+537,1,Health
+537,2,Health
+537,3,Medicine
+538,1,Weather
+538,2,Weather
+538,3,Weather
+538,4,Weather
+538,5,Weather
+539,1,City info
+539,2,Shopping Car
+539,3,Shopping Electronics
+539,4,Insurance
+539,5,Cruises
+539,6,Vacation
+540,1,Shopping Car
+541,1,Insurance
+541,2,Loan
+541,3,OutDoor
+541,4,Email
+541,5,Soccer
+541,6,Baseball
+541,7,Shopping House
+542,1,Insurance
+542,2,Car rental
+542,3,Cruises
+542,4,Medicine
+542,5,Kits
+543,1,News Australia
+543,2,OutDoor
+543,3,News Local
+543,4,Greeting Cards
+543,5,Loan
+544,1,Music
+544,2,Shopping Music
+544,3,Shopping Music
+544,4,Movie
+544,5,Movie
+544,6,Movie
+545,1,Insurance
+545,2,Stock quotes
+545,3,Business
+546,1,Flight
+546,2,Hotel
+546,3,Hotel
+547,1,Flight
+547,2,Hotel
+548,1,Medicine
+548,2,Flight
+548,3,News Asia
+548,4,News North America
+548,5,News Europe
+549,1,Music
+549,2,Music
+549,3,Shopping Music
+549,4,Shopping Music
+549,5,Movie
+550,1,Job
+550,2,Telecom
+550,3,Wireless
+550,4,Calendar
+550,5,Small business
+551,1,Shopping Computer
+551,2,Shopping Electronics
+552,1,Weather
+552,2,Weather
+552,3,Weather
+553,1,Software
+553,2,Business
+553,3,Economy
+553,4,Music
+554,1,Weather
+555,1,Pets
+556,1,Music
+556,2,Shopping Music
+556,3,Movie
+556,4,Movie
+556,5,Movie
+557,1,Economy
+557,2,Companies
+557,3,Hockey
+557,4,OutDoor
+558,1,Shopping House
+558,2,Insurance
+558,3,Loan
+559,1,News North America
+559,2,News North America
+559,3,News North America
+559,4,News North America
+559,5,News North America
+559,6,Weather
+560,1,Flight
+560,2,Hotel
+561,1,Shopping Software
+561,2,Shopping Book
+561,3,Map
+561,4,Car rental
+561,5,Wireless
+561,6,Companies
+561,7,Wall Street
+562,1,News Australia
+562,2,News Local
+562,3,City info
+562,4,Shopping Car
+563,1,Email
+563,2,Community
+563,3,Software
+563,4,Job
+563,5,Chat
+563,6,Financial news
+564,1,Shopping Computer
+564,2,Shopping Computer
+564,3,Shopping Computer
+564,4,Shopping Electronics
+564,5,Shopping Electronics
+565,1,Stock quotes
+565,2,Business
+565,3,Music
+565,4,Shopping House
+565,5,Shopping Computer
+565,6,Job
+566,1,Community
+566,2,Chat
+567,1,News Australia
+567,2,News Local
+567,3,News Australia
+567,4,News Local
+567,5,Baseball
+568,1,News North America
+568,2,News North America
+568,3,News North America
+568,4,News North America
+569,1,Shopping Computer
+569,2,Shopping Computer
+569,3,Shopping Electronics
+570,1,Vacation
+570,2,Baseball
+570,3,Basketball
+570,4,Music
+570,5,Soccer
+570,6,Research and Science
+571,1,Flight
+571,2,Flight
+571,3,Hotel
+572,1,News North America
+572,2,News North America
+572,3,Weather
+573,1,Companies
+573,2,Health
+573,3,Soccer
+574,1,Flight
+574,2,Hotel
+574,3,Hotel
+575,1,Broker
+575,2,Research and Science
+575,3,Shopping House
+575,4,Shopping Computer
+575,5,Shopping Car
+575,6,Shopping House
+576,1,Music
+576,2,Shopping Music
+576,3,Movie
+577,1,Health
+577,2,Medicine
+578,1,Flight
+578,2,Hotel
+579,1,Flight
+579,2,Hotel
+580,1,Vacation
+580,2,Pets
+580,3,Game
+581,1,Flight
+581,2,Hotel
+581,3,Hotel
+582,1,Weather
+582,2,Weather
+582,3,Weather
+583,1,Shopping House
+583,2,Insurance
+583,3,Loan
+583,4,Loan
+584,1,Weather
+584,2,Download
+585,1,Music
+585,2,Music
+585,3,Shopping Music
+585,4,Shopping Music
+585,5,Movie
+586,1,Wireless
+586,2,Software
+586,3,Small business
+586,4,Download
+586,5,Shopping Software
+586,6,Shopping Software
+586,7,Shopping Book
+587,1,Flight
+587,2,Flight
+587,3,Hotel
+588,1,Basketball
+588,2,Tennis
+588,3,Kits
+589,1,Health
+589,2,Medicine
+589,3,Medicine
+590,1,Music
+590,2,Shopping Music
+590,3,Tax
+591,1,Shopping Car
+591,2,Email
+591,3,Pets
+591,4,Broker
+592,1,News Europe
+592,2,Loan
+592,3,Shopping House
+592,4,OutDoor
+593,1,News North America
+593,2,News North America
+593,3,Weather
+594,1,News North America
+594,2,Weather
+595,1,News North America
+595,2,News North America
+595,3,Football
+595,4,Baseball
+595,5,Basketball
+596,1,Weather
+596,2,Weather
+596,3,Weather
+596,4,Weather
+596,5,Weather
+596,6,Weather
+597,1,Wireless
+597,2,Software
+598,1,Companies
+598,2,Download
+599,1,Music
+599,2,Shopping Music
+599,3,Movie
+600,1,Chat
+600,2,Hockey
+600,3,OutDoor
+600,4,News Asia
+600,5,News Australia
+601,1,Flight
+601,2,Flight
+601,3,Flight
+601,4,Flight
+601,5,Flight
+601,6,Flight
+601,7,Hotel
+602,1,Shopping House
+602,2,Shopping Computer
+603,1,Weather
+603,2,Weather
+603,3,Weather
+603,4,Weather
+603,5,Weather
+603,6,Weather
+603,7,Weather
+603,8,Weather
+604,1,Shopping Book
+604,2,Football
+604,3,Research and Science
+604,4,Business
+604,5,Economy
+604,6,Radio
+604,7,Life
+605,1,Flight
+605,2,Flight
+605,3,Hotel
+605,4,Hotel
+605,5,Hotel
+606,1,Financial news
+606,2,Stock quotes
+606,3,Broker
+607,1,Wall Street
+607,2,Broker
+607,3,Relationship
+607,4,Pets
+608,1,News North America
+608,2,Weather
+609,1,News Europe
+609,2,Football
+610,1,Shopping House
+610,2,Insurance
+610,3,Insurance
+610,4,Insurance
+610,5,Loan
+611,1,Pets
+611,2,Game
+611,3,Broker
+611,4,Tax
+611,5,Map
+612,1,Flight
+612,2,Hotel
+613,1,News North America
+613,2,News North America
+613,3,Football
+613,4,Baseball
+613,5,Basketball
+613,6,Basketball
+614,1,Medicine
+614,2,Vacation
+614,3,City info
+614,4,Shopping Computer
+614,5,Job
+614,6,Chat
+614,7,Health
+615,1,Health
+615,2,Health
+615,3,Medicine
+616,1,News North America
+616,2,Weather
+616,3,Weather
+616,4,Weather
+617,1,Weather
+617,2,Weather
+617,3,Weather
+617,4,Weather
+618,1,Shopping House
+618,2,Insurance
+618,3,Loan
+619,1,Music
+619,2,Shopping Music
+619,3,Movie
+620,1,Shopping Book
+620,2,Football
+620,3,News Local
+620,4,Internet
+620,5,Map
+620,6,Car rental
+620,7,News Australia
+620,8,News Local
+621,1,City info
+621,2,Medicine
+621,3,Broker
+621,4,Tax
+622,1,Flight
+622,2,Hotel
+623,1,Shopping Computer
+623,2,Shopping Electronics
+624,1,News North America
+624,2,News North America
+624,3,News North America
+624,4,News North America
+624,5,News North America
+624,6,News North America
+624,7,News North America
+624,8,News North America
+624,9,News North America
+624,10,News North America
+624,11,News North America
+624,12,Weather
+625,1,Flight
+625,2,Flight
+625,3,Hotel
+625,4,Hotel
+626,1,News North America
+626,2,News North America
+626,3,News North America
+626,4,News North America
+626,5,News North America
+626,6,News North America
+626,7,Football
+626,8,Baseball
+626,9,Basketball
+626,10,Basketball
+627,1,Relationship
+627,2,Vacation
+627,3,City info
+627,4,Basketball
+628,1,Email
+628,2,Community
+628,3,Relationship
+628,4,Pets
+629,1,News North America
+629,2,News North America
+629,3,Weather
+629,4,Weather
+630,1,News North America
+630,2,Football
+630,3,Baseball
+630,4,Basketball
+631,1,Medicine
+631,2,Vacation
+631,3,City info
+631,4,Download
+631,5,Flight
+632,1,Chat
+632,2,Chat
+632,3,Health
+632,4,Financial news
+632,5,Stock quotes
+632,6,Financial news
+632,7,Radio
+632,8,Life
+633,1,Shopping Computer
+633,2,Shopping Electronics
+633,3,Loan
+633,4,Yellow Page
+634,1,News North America
+634,2,News North America
+634,3,Football
+634,4,Baseball
+634,5,Basketball
+635,1,Shopping Game
+635,2,Music
+635,3,Relationship
+636,1,Shopping House
+636,2,Insurance
+636,3,Loan
+636,4,Loan
+636,5,Loan
+636,6,Loan
+637,1,Flight
+637,2,Hotel
+638,1,News North America
+638,2,News North America
+638,3,Football
+638,4,Baseball
+638,5,Baseball
+638,6,Basketball
+638,7,Basketball
+638,8,Basketball
+639,1,OutDoor
+639,2,Kits
+639,3,Financial news
+639,4,Stock quotes
+639,5,Download
+639,6,Soccer
+640,1,Hotel
+640,2,Map
+640,3,Broker
+640,4,Tennis
+640,5,Greeting Cards
+640,6,Calendar
+640,7,Map
+640,8,Car rental
+641,1,News North America
+641,2,News North America
+641,3,News North America
+641,4,News North America
+641,5,News North America
+641,6,News North America
+642,1,Kits
+642,2,Business
+642,3,Economy
+642,4,News Local
+642,5,Internet
+642,6,Internet
+643,1,News North America
+643,2,News North America
+643,3,News North America
+643,4,Football
+643,5,Football
+643,6,Baseball
+643,7,Basketball
+644,1,Economy
+644,2,Diet
+644,3,Medicine
+644,4,Internet
+644,5,Yellow Page
+644,6,Research and Science
+644,7,Shopping Computer
+644,8,Shopping Electronics
+645,1,News North America
+645,2,News North America
+645,3,News North America
+645,4,Weather
+646,1,News North America
+646,2,News North America
+646,3,Weather
+646,4,Weather
+646,5,Weather
+646,6,Weather
+647,1,News Europe
+647,2,News Europe
+647,3,News Europe
+647,4,News Europe
+647,5,News Europe
+647,6,Football
+648,1,Shopping Software
+648,2,Relationship
+648,3,Baseball
+649,1,Weather
+649,2,Weather
+649,3,Weather
+649,4,Weather
+649,5,Weather
+650,1,Radio
+650,2,Life
+650,3,Small business
+651,1,Music
+651,2,Shopping Music
+651,3,Shopping Music
+651,4,Shopping Music
+651,5,Movie
+651,6,Movie
+651,7,Movie
+652,1,Wall Street
+652,2,Chat
+652,3,News Asia
+652,4,News Australia
+652,5,Music
+652,6,Shopping Music
+653,1,Car rental
+653,2,Software
+653,3,Job
+653,4,Loan
+653,5,Yellow Page
+654,1,News North America
+654,2,News North America
+654,3,News North America
+654,4,News North America
+654,5,Weather
+655,1,Flight
+655,2,Car rental
+655,3,Cruises
+655,4,Job
+655,5,Shopping Computer
+655,6,Basketball
+655,7,Tennis
+656,1,Weather
+656,2,Weather
+656,3,Weather
+656,4,Weather
+657,1,Health
+657,2,Health
+657,3,Health
+657,4,Health
+657,5,Health
+657,6,Medicine
+657,7,Medicine
+658,1,News North America
+658,2,News North America
+658,3,News North America
+658,4,News North America
+658,5,News North America
+658,6,News North America
+658,7,News North America
+658,8,Weather
+658,9,Weather
+659,1,News North America
+659,2,News North America
+659,3,Football
+659,4,Baseball
+659,5,Basketball
+660,1,Shopping House
+660,2,Greeting Cards
+661,1,Health
+661,2,Diet
+662,1,Music
+663,1,News North America
+663,2,Football
+663,3,Football
+663,4,Baseball
+663,5,Baseball
+663,6,Baseball
+663,7,Baseball
+663,8,Basketball
+664,1,Job
+664,2,Kits
+664,3,Relationship
+665,1,News North America
+665,2,News North America
+665,3,News North America
+665,4,Weather
+665,5,Weather
+666,1,Music
+666,2,Music
+666,3,Shopping Music
+666,4,Movie
+667,1,Weather
+667,2,Weather
+667,3,Weather
+668,1,Shopping House
+668,2,Software
+668,3,Car rental
+669,1,Flight
+669,2,Hotel
+669,3,Hotel
+670,1,News Europe
+670,2,News Europe
+670,3,Football
+671,1,Music
+671,2,Shopping Music
+671,3,Movie
+672,1,News Europe
+672,2,News Europe
+672,3,News Europe
+672,4,News Europe
+672,5,News Europe
+672,6,Football
+673,1,Shopping Music
+673,2,Movie
+673,3,Shopping Car
+673,4,Financial news
+673,5,Stock quotes
+674,1,Shopping Electronics
+674,2,Tax
+674,3,Shopping Software
+674,4,Map
+674,5,Internet
+674,6,Telecom
+675,1,Weather
+675,2,Weather
+675,3,Weather
+676,1,Movie
+676,2,Radio
+676,3,Download
+676,4,Flight
+676,5,Cruises
+676,6,Vacation
+677,1,Music
+677,2,Community
+677,3,Chat
+678,1,News North America
+678,2,News North America
+678,3,News North America
+678,4,Weather
+678,5,Weather
+679,1,Chat
+679,2,Health
+680,1,Wireless
+680,2,Calendar
+681,1,Hockey
+681,2,Life
+681,3,Greeting Cards
+682,1,Software
+682,2,News Asia
+682,3,Financial news
+682,4,Game
+682,5,Shopping Music
+683,1,Shopping Electronics
+683,2,Medicine
+683,3,Baseball
+683,4,News Europe
+683,5,News Asia
+684,1,Flight
+684,2,Hotel
+684,3,Hotel
+685,1,Health
+685,2,Medicine
+686,1,Music
+686,2,Shopping Music
+686,3,Shopping Music
+686,4,Movie
+687,1,Music
+687,2,Shopping Music
+687,3,Movie
+688,1,News North America
+688,2,News North America
+688,3,News North America
+688,4,News North America
+688,5,News North America
+688,6,News North America
+689,1,Game
+689,2,Shopping Game
+689,3,Vacation
+689,4,Broker
+689,5,Telecom
+689,6,Wireless
+690,1,Tax
+690,2,Shopping Software
+690,3,News Australia
+691,1,Music
+691,2,Shopping Music
+691,3,Shopping Music
+691,4,Movie
+691,5,Movie
+692,1,Music
+692,2,Shopping Music
+692,3,Shopping Music
+692,4,Shopping Music
+692,5,Movie
+693,1,Health
+693,2,Medicine
+694,1,Baseball
+694,2,Greeting Cards
+694,3,Calendar
+694,4,Small business
+695,1,Flight
+695,2,Hotel
+696,1,Greeting Cards
+696,2,Shopping Game
+696,3,Music
+697,1,Yellow Page
+697,2,Email
+697,3,Community
+698,1,OutDoor
+698,2,Email
+698,3,Baseball
+698,4,Basketball
+699,1,Shopping House
+699,2,Insurance
+699,3,Loan
+699,4,Loan
+700,1,Download
+700,2,Weather
+701,1,News Australia
+701,2,Shopping Game
+702,1,News North America
+702,2,Weather
+703,1,Health
+703,2,Health
+703,3,Medicine
+704,1,News Europe
+704,2,Football
+705,1,News North America
+705,2,News North America
+705,3,News North America
+705,4,News North America
+705,5,News North America
+705,6,Weather
+706,1,News North America
+706,2,News North America
+706,3,News North America
+706,4,Weather
+707,1,Music
+707,2,Music
+707,3,Music
+707,4,Shopping Music
+707,5,Shopping Music
+707,6,Movie
+708,1,News North America
+708,2,News North America
+708,3,News North America
+708,4,Weather
+709,1,Flight
+709,2,Flight
+709,3,Hotel
+709,4,Hotel
+710,1,Flight
+710,2,Hotel
+711,1,Broker
+711,2,Basketball
+711,3,Tennis
+712,1,Music
+712,2,Shopping Music
+713,1,Health
+713,2,Health
+713,3,Health
+713,4,Medicine
+713,5,Medicine
+714,1,Flight
+714,2,Flight
+714,3,Hotel
+715,1,Stock quotes
+715,2,Calendar
+715,3,Small business
+715,4,Radio
+715,5,Relationship
+715,6,Pets
+715,7,Broker
+715,8,Tax
+716,1,Shopping Music
+716,2,Music
+716,3,Shopping Music
+716,4,Movie
+716,5,Tax
+717,1,News North America
+717,2,News North America
+717,3,Weather
+718,1,Weather
+718,2,Weather
+718,3,Weather
+718,4,Weather
+718,5,Weather
+718,6,Weather
+718,7,Weather
+719,1,Software
+719,2,Job
+719,3,Game
+720,1,Music
+720,2,Shopping Music
+720,3,Movie
+720,4,Movie
+720,5,Movie
+721,1,Music
+721,2,Shopping Music
+721,3,Shopping Music
+721,4,Movie
+721,5,Movie
+722,1,News Europe
+722,2,News Europe
+722,3,News Europe
+722,4,Football
+723,1,Tax
+723,2,Shopping Software
+723,3,Tennis
+723,4,Hockey
+723,5,Shopping Music
+723,6,Movie
+724,1,News North America
+724,2,Football
+724,3,Football
+724,4,Baseball
+724,5,Basketball
+724,6,Basketball
+724,7,Basketball
+725,1,News North America
+725,2,Football
+725,3,Baseball
+725,4,Baseball
+725,5,Baseball
+725,6,Baseball
+725,7,Basketball
+725,8,Basketball
+725,9,Basketball
+726,1,News Australia
+726,2,News Local
+726,3,Loan
+726,4,Yellow Page
+726,5,Companies
+727,1,News North America
+727,2,News North America
+727,3,News North America
+727,4,News North America
+727,5,News North America
+727,6,Weather
+728,1,Internet
+728,2,Telecom
+728,3,Shopping Car
+728,4,Shopping Car
+728,5,Shopping House
+729,1,News North America
+729,2,Football
+729,3,Baseball
+729,4,Basketball
+729,5,Basketball
+729,6,Basketball
+730,1,Cruises
+730,2,Business
+730,3,News Europe
+730,4,News Asia
+731,1,Small business
+731,2,Movie
+731,3,Shopping House
+731,4,Movie
+731,5,Download
+732,1,Greeting Cards
+732,2,Calendar
+733,1,News North America
+733,2,News Europe
+733,3,Relationship
+733,4,Pets
+734,1,Greeting Cards
+734,2,Wall Street
+734,3,Broker
+734,4,Business
+734,5,Economy
+735,1,Wireless
+735,2,Software
+735,3,Broker
+735,4,Tax
+735,5,Kits
+736,1,Soccer
+736,2,Calendar
+736,3,Small business
+736,4,Flight
+736,5,Calendar
+737,1,Software
+737,2,Telecom
+737,3,Wireless
+737,4,Greeting Cards
+737,5,News Asia
+737,6,News Australia
+738,1,Medicine
+738,2,Software
+739,1,OutDoor
+739,2,Radio
+739,3,Life
+739,4,Shopping Car
+740,1,Health
+740,2,Medicine
+740,3,Medicine
+741,1,Diet
+741,2,Shopping House
+742,1,Music
+742,2,Shopping Music
+742,3,Movie
+743,1,News North America
+743,2,Football
+743,3,Football
+743,4,Baseball
+743,5,Basketball
+744,1,Shopping Computer
+744,2,Shopping Computer
+744,3,Shopping Computer
+744,4,Shopping Computer
+744,5,Shopping Computer
+744,6,Shopping Computer
+744,7,Shopping Computer
+744,8,Shopping Electronics
+744,9,Shopping Electronics
+744,10,Shopping Electronics
+745,1,Stock quotes
+745,2,Business
+745,3,Internet
+745,4,Telecom
+745,5,News North America
+745,6,News Europe
+746,1,News Europe
+746,2,Football
+747,1,Small business
+747,2,Vacation
+748,1,News North America
+748,2,News North America
+748,3,News North America
+748,4,News North America
+748,5,Weather
+749,1,Tax
+749,2,Shopping Software
+749,3,Small business
+749,4,Hotel
+749,5,Movie
+749,6,Radio
+750,1,Music
+750,2,Music
+750,3,Shopping Music
+750,4,Movie
+751,1,Wall Street
+751,2,Broker
+751,3,Tax
+751,4,Research and Science
+751,5,Music
+752,1,Tax
+752,2,Soccer
+752,3,Weather
+752,4,Download
+752,5,Baseball
+752,6,Basketball
+753,1,News North America
+753,2,Football
+753,3,Football
+753,4,Baseball
+753,5,Baseball
+753,6,Baseball
+753,7,Basketball
+754,1,Life
+754,2,Greeting Cards
+754,3,Tennis
+754,4,Hockey
+755,1,Weather
+756,1,News North America
+756,2,News North America
+756,3,News North America
+756,4,Football
+756,5,Baseball
+756,6,Baseball
+756,7,Basketball
+757,1,Music
+757,2,Music
+757,3,Shopping Music
+757,4,Movie
+758,1,Music
+758,2,Music
+758,3,Music
+758,4,Shopping Music
+758,5,Shopping Music
+758,6,Movie
+759,1,Shopping Computer
+759,2,Shopping Electronics
+760,1,Music
+760,2,Shopping Music
+760,3,Movie
+761,1,Basketball
+761,2,Tennis
+761,3,Weather
+761,4,Download
+761,5,Shopping Electronics
+762,1,Music
+762,2,Shopping Music
+762,3,Movie
+762,4,Movie
+762,5,Movie
+762,6,Movie
+763,1,Music
+763,2,Music
+763,3,Music
+763,4,Shopping Music
+763,5,Movie
+763,6,Movie
+764,1,Weather
+764,2,Weather
+764,3,Weather
+764,4,Weather
+764,5,Weather
+764,6,Weather
+764,7,Weather
+764,8,Weather
+764,9,Weather
+764,10,Weather
+764,11,Weather
+764,12,Weather
+764,13,Weather
+764,14,Weather
+765,1,Research and Science
+765,2,Shopping Computer
+765,3,Shopping House
+765,4,Broker
+766,1,Diet
+766,2,Medicine
+766,3,Software
+766,4,Job
+766,5,Vacation
+766,6,Yellow Page
+766,7,Wireless
+766,8,Software
+767,1,News North America
+767,2,News North America
+767,3,News North America
+767,4,News North America
+767,5,Football
+767,6,Baseball
+767,7,Basketball
+767,8,Basketball
+767,9,Basketball
+768,1,Weather
+769,1,Broker
+769,2,Tax
+769,3,Weather
+769,4,Download
+770,1,Shopping Game
+770,2,Music
+770,3,Wireless
+770,4,Community
+771,1,Health
+771,2,Health
+771,3,Medicine
+772,1,Internet
+772,2,Economy
+772,3,Email
+772,4,Pets
+773,1,Health
+773,2,Health
+773,3,Medicine
+773,4,Medicine
+774,1,Flight
+774,2,Flight
+774,3,Hotel
+775,1,Basketball
+775,2,Health
+776,1,Shopping House
+776,2,Insurance
+776,3,Loan
+777,1,Shopping House
+777,2,Shopping House
+777,3,Insurance
+777,4,Loan
+778,1,Weather
+778,2,Weather
+778,3,Weather
+779,1,Flight
+779,2,Flight
+779,3,Hotel
+780,1,Movie
+780,2,Shopping Book
+780,3,Football
+780,4,OutDoor
+780,5,Football
+781,1,News North America
+781,2,Football
+781,3,Baseball
+781,4,Baseball
+781,5,Baseball
+781,6,Baseball
+781,7,Basketball
+781,8,Basketball
+781,9,Basketball
+781,10,Basketball
+782,1,Financial news
+782,2,Cruises
+782,3,Movie
+782,4,News Local
+783,1,News North America
+783,2,Weather
+784,1,Flight
+784,2,Flight
+784,3,Hotel
+785,1,News Australia
+785,2,Wireless
+785,3,Basketball
+785,4,Tennis
+785,5,Loan
+785,6,Yellow Page
+786,1,News Local
+786,2,Life
+786,3,Greeting Cards
+786,4,Shopping Software
+786,5,Shopping Book
+786,6,Small business
+787,1,Telecom
+787,2,Research and Science
+788,1,News North America
+788,2,Football
+788,3,Football
+788,4,Baseball
+788,5,Baseball
+788,6,Basketball
+789,1,Community
+789,2,Chat
+789,3,Flight
+789,4,Hotel
+789,5,Stock quotes
+790,1,News North America
+790,2,Weather
+791,1,Movie
+791,2,Radio
+791,3,Insurance
+791,4,Loan
+792,1,News North America
+792,2,News North America
+792,3,Weather
+792,4,Weather
+793,1,News North America
+793,2,News North America
+793,3,Football
+793,4,Baseball
+793,5,Basketball
+794,1,OutDoor
+794,2,Email
+794,3,Stock quotes
+794,4,News North America
+794,5,News Europe
+794,6,Yellow Page
+795,1,Chat
+795,2,Basketball
+795,3,Tennis
+795,4,News Australia
+795,5,News Local
+795,6,Shopping Music
+795,7,Movie
+796,1,Flight
+796,2,Flight
+796,3,Hotel
+797,1,Weather
+798,1,Community
+798,2,Loan
+799,1,News North America
+799,2,News North America
+799,3,News North America
+799,4,News North America
+799,5,News North America
+799,6,Football
+799,7,Baseball
+799,8,Basketball
+800,1,News Europe
+800,2,Football
+801,1,News Europe
+801,2,Kits
+801,3,Financial news
+801,4,Stock quotes
+802,1,Flight
+802,2,Hotel
+802,3,Hotel
+803,1,Greeting Cards
+803,2,Calendar
+803,3,Email
+804,1,Shopping House
+804,2,Insurance
+804,3,Loan
+805,1,OutDoor
+805,2,Shopping House
+805,3,Map
+805,4,Car rental
+805,5,Baseball
+805,6,Basketball
+806,1,Flight
+806,2,Flight
+806,3,Flight
+806,4,Hotel
+807,1,Shopping House
+807,2,Insurance
+807,3,Insurance
+807,4,Loan
+807,5,Loan
+807,6,Loan
+808,1,Flight
+808,2,Flight
+808,3,Hotel
+809,1,News North America
+809,2,News Europe
+809,3,Relationship
+809,4,Pets
+809,5,Cruises
+809,6,Vacation
+810,1,Music
+810,2,Shopping Music
+810,3,Movie
+811,1,Hotel
+811,2,Tax
+811,3,Shopping Software
+811,4,Email
+811,5,Game
+811,6,Car rental
+812,1,Weather
+813,1,Health
+813,2,Medicine
+813,3,Medicine
+814,1,Weather
+814,2,Weather
+814,3,Weather
+814,4,Weather
+814,5,Weather
+814,6,Weather
+814,7,Weather
+814,8,Weather
+814,9,Weather
+815,1,Financial news
+815,2,Stock quotes
+815,3,Kits
+815,4,Relationship
+815,5,Basketball
+815,6,Tennis
+815,7,Pets
+816,1,News Europe
+816,2,News Europe
+816,3,News Europe
+816,4,Football
+817,1,Music
+817,2,Music
+817,3,Music
+817,4,Shopping Music
+817,5,Movie
+818,1,Life
+818,2,Greeting Cards
+818,3,Stock quotes
+818,4,Soccer
+819,1,Vacation
+819,2,City info
+819,3,Map
+819,4,Car rental
+819,5,Shopping Car
+820,1,Kits
+820,2,Relationship
+820,3,Shopping House
+820,4,Community
+821,1,Weather
+821,2,Weather
+821,3,Weather
+821,4,Weather
+822,1,News North America
+822,2,News North America
+822,3,Football
+822,4,Baseball
+822,5,Basketball
+823,1,Companies
+824,1,News North America
+824,2,News North America
+825,1,Weather
+826,1,Music
+826,2,Music
+826,3,Shopping Music
+826,4,Movie
+826,5,Movie
+826,6,Movie
+826,7,Movie
+826,8,Movie
+827,1,News North America
+827,2,Football
+827,3,Baseball
+827,4,Baseball
+827,5,Basketball
+828,1,Shopping Software
+828,2,Baseball
+829,1,News North America
+829,2,News North America
+829,3,News North America
+829,4,Weather
+830,1,Shopping House
+830,2,Insurance
+830,3,Loan
+831,1,Soccer
+831,2,Baseball
+831,3,Soccer
+831,4,Shopping Software
+832,1,Weather
+832,2,Weather
+832,3,Weather
+832,4,Weather
+832,5,Weather
+832,6,Weather
+832,7,Weather
+832,8,Weather
+832,9,Weather
+832,10,Weather
+832,11,Weather
+832,12,Weather
+832,13,Weather
+832,14,Weather
+832,15,Weather
+832,16,Weather
+832,17,Weather
+832,18,Weather
+832,19,Weather
+832,20,Weather
+832,21,Weather
+832,22,Weather
+833,1,Economy
+833,2,Chat
+833,3,Health
+833,4,Basketball
+833,5,Job
+833,6,Financial news
+833,7,News Europe
+833,8,News Asia
+834,1,Health
+834,2,Medicine
+834,3,Medicine
+835,1,Small business
+835,2,Download
+835,3,Shopping Car
+835,4,Shopping House
+836,1,Shopping Computer
+836,2,Shopping Electronics
+836,3,Shopping Electronics
+837,1,Shopping House
+837,2,Insurance
+837,3,Loan
+838,1,Stock quotes
+838,2,Business
+838,3,Wireless
+838,4,Football
+838,5,Soccer
+838,6,Shopping Music
+838,7,Movie
+839,1,Kits
+839,2,Relationship
+839,3,Financial news
+840,1,Shopping House
+840,2,Insurance
+840,3,Loan
+841,1,News Europe
+841,2,Football
+842,1,Wall Street
+842,2,Broker
+842,3,Vacation
+843,1,Job
+843,2,Weather
+843,3,Download
+844,1,Tennis
+844,2,Hockey
+844,3,Flight
+844,4,Hotel
+845,1,Life
+845,2,Greeting Cards
+846,1,News Europe
+846,2,Football
+847,1,Music
+847,2,Shopping Music
+847,3,Movie
+848,1,Flight
+848,2,Hotel
+849,1,News North America
+849,2,News North America
+849,3,News North America
+849,4,News North America
+849,5,Weather
+850,1,Shopping Software
+850,2,News Europe
+850,3,Music
+850,4,Basketball
+851,1,News North America
+851,2,Weather
+852,1,Shopping House
+852,2,Insurance
+852,3,Loan
+852,4,Loan
+853,1,Health
+853,2,Health
+853,3,Health
+853,4,Health
+853,5,Medicine
+853,6,Medicine
+854,1,News North America
+854,2,Football
+854,3,Baseball
+854,4,Baseball
+854,5,Baseball
+854,6,Basketball
+855,1,News North America
+855,2,Football
+855,3,Baseball
+855,4,Basketball
+856,1,Job
+856,2,Financial news
+856,3,Baseball
+856,4,Basketball
+856,5,Shopping House
+856,6,Loan
+856,7,Yellow Page
+857,1,Download
+857,2,Car rental
+857,3,Cruises
+857,4,Shopping Software
+858,1,News North America
+858,2,Football
+858,3,Football
+858,4,Baseball
+858,5,Baseball
+858,6,Basketball
+859,1,Health
+859,2,Medicine
+860,1,News North America
+860,2,News North America
+860,3,Weather
+861,1,News North America
+861,2,News North America
+861,3,News North America
+861,4,News North America
+861,5,News North America
+861,6,News North America
+861,7,News North America
+861,8,News North America
+861,9,Weather
+861,10,Weather
+862,1,Health
+862,2,Medicine
+863,1,News Australia
+863,2,News Australia
+863,3,News Local
+863,4,News Asia
+864,1,News North America
+864,2,News North America
+864,3,News North America
+864,4,Football
+864,5,Football
+864,6,Football
+864,7,Football
+864,8,Football
+864,9,Baseball
+864,10,Baseball
+864,11,Basketball
+865,1,Soccer
+865,2,Health
+865,3,Diet
+866,1,Hockey
+866,2,Internet
+866,3,Shopping Computer
+866,4,Shopping Electronics
+866,5,Map
+867,1,News North America
+867,2,News North America
+867,3,News North America
+867,4,Football
+867,5,Baseball
+867,6,Baseball
+867,7,Basketball
+868,1,Car rental
+868,2,Cruises
+868,3,Job
+868,4,Download
+868,5,Hockey
+868,6,Kits
+868,7,Relationship
+869,1,Weather
+870,1,Car rental
+870,2,Shopping Music
+870,3,Calendar
+871,1,News Europe
+871,2,News Europe
+871,3,Football
+871,4,Football
+871,5,Football
+872,1,Weather
+872,2,Cruises
+872,3,Vacation
+872,4,News Asia
+872,5,News Australia
+872,6,Chat
+873,1,Yellow Page
+873,2,Shopping Music
+873,3,Chat
+873,4,Car rental
+873,5,Tennis
+873,6,Hockey
+874,1,Flight
+874,2,Vacation
+874,3,City info
+874,4,Diet
+874,5,Medicine
+874,6,News Asia
+874,7,Movie
+875,1,Diet
+876,1,News North America
+876,2,Football
+876,3,Baseball
+876,4,Basketball
+876,5,Basketball
+876,6,Basketball
+876,7,Basketball
+877,1,News North America
+877,2,News North America
+877,3,Weather
+878,1,Hotel
+878,2,Map
+879,1,OutDoor
+880,1,Shopping House
+880,2,Community
+880,3,Chat
+880,4,Loan
+880,5,Telecom
+880,6,News Asia
+881,1,Cruises
+881,2,Telecom
+881,3,Wireless
+881,4,News Local
+881,5,Job
+882,1,Diet
+882,2,Calendar
+882,3,Shopping Computer
+882,4,Shopping Electronics
+883,1,Music
+883,2,Shopping Music
+883,3,Movie
+884,1,Basketball
+884,2,Tennis
+885,1,News North America
+885,2,Weather
+885,3,Weather
+886,1,Flight
+886,2,Flight
+886,3,Hotel
+886,4,Hotel
+886,5,Hotel
+887,1,Health
+887,2,Health
+887,3,Health
+887,4,Medicine
+887,5,Medicine
+888,1,Cruises
+888,2,Movie
+888,3,Greeting Cards
+888,4,Calendar
+888,5,Wireless
+889,1,Shopping Book
+889,2,Job
+889,3,News Local
+889,4,Shopping Book
+890,1,Music
+890,2,Music
+890,3,Music
+890,4,Music
+890,5,Shopping Music
+890,6,Movie
+890,7,Movie
+890,8,Movie
+891,1,News North America
+891,2,News North America
+891,3,News North America
+891,4,News North America
+891,5,Weather
+891,6,Weather
+892,1,Health
+892,2,Medicine
+893,1,News North America
+893,2,News North America
+893,3,News North America
+893,4,News North America
+893,5,News North America
+893,6,News North America
+893,7,News North America
+893,8,News North America
+893,9,Weather
+894,1,Hotel
+894,2,Tax
+894,3,Shopping Software
+894,4,Cruises
+894,5,Hockey
+894,6,OutDoor
+895,1,Tennis
+895,2,Shopping Computer
+895,3,Shopping Electronics
+895,4,Basketball
+895,5,Medicine
+895,6,Kits
+896,1,Shopping House
+896,2,Shopping Computer
+897,1,Game
+897,2,Shopping Game
+897,3,Chat
+897,4,Health
+897,5,News Local
+898,1,Shopping Computer
+898,2,Shopping Electronics
+899,1,Weather
+900,1,Cruises
+901,1,Flight
+901,2,Hotel
+901,3,News Europe
+901,4,News Asia
+901,5,Shopping Computer
+901,6,Shopping Electronics
+901,7,OutDoor
+902,1,News Europe
+902,2,Football
+902,3,Football
+903,1,News North America
+903,2,Weather
+904,1,City info
+904,2,Shopping Car
+904,3,Shopping Computer
+904,4,Weather
+904,5,Download
+904,6,Game
+905,1,News North America
+905,2,Weather
+906,1,Broker
+906,2,Pets
+906,3,Game
+906,4,Hotel
+906,5,Shopping Car
+906,6,Tax
+906,7,Shopping Software
+907,1,Music
+907,2,Shopping Music
+907,3,Movie
+908,1,News Europe
+908,2,News Europe
+908,3,News Europe
+908,4,News Europe
+908,5,News Europe
+908,6,News Europe
+908,7,News Europe
+908,8,Football
+908,9,Football
+909,1,Weather
+909,2,Weather
+909,3,Weather
+909,4,Weather
+909,5,Weather
+910,1,Flight
+910,2,Hotel
+910,3,Hotel
+911,1,News North America
+911,2,News North America
+911,3,News North America
+911,4,News North America
+911,5,News North America
+911,6,News North America
+911,7,News North America
+911,8,News North America
+911,9,News North America
+911,10,News North America
+911,11,News North America
+911,12,Weather
+912,1,Insurance
+912,2,Companies
+913,1,News North America
+913,2,News North America
+913,3,News North America
+913,4,Weather
+914,1,Flight
+914,2,Hotel
+915,1,News North America
+915,2,News North America
+915,3,Weather
+915,4,Weather
+916,1,Health
+916,2,Medicine
+917,1,Relationship
+917,2,Pets
+917,3,Business
+917,4,Life
+918,1,News North America
+918,2,Weather
+918,3,Weather
+919,1,Flight
+919,2,Flight
+919,3,Flight
+919,4,Flight
+919,5,Hotel
+920,1,City info
+920,2,Shopping Car
+920,3,Vacation
+920,4,Baseball
+921,1,Flight
+921,2,Hotel
+922,1,Shopping House
+922,2,Insurance
+922,3,Loan
+923,1,Vacation
+923,2,News Australia
+923,3,Download
+923,4,Flight
+923,5,Hotel
+924,1,News North America
+924,2,News North America
+924,3,News North America
+924,4,News North America
+924,5,News North America
+924,6,News North America
+924,7,Weather
+925,1,City info
+925,2,Shopping Car
+925,3,Business
+926,1,Weather
+926,2,Weather
+926,3,Weather
+926,4,Weather
+926,5,Weather
+926,6,Weather
+926,7,Weather
+926,8,Weather
+926,9,Weather
+926,10,Weather
+927,1,Wall Street
+927,2,Broker
+927,3,Soccer
+927,4,Cruises
+927,5,Vacation
+928,1,Flight
+928,2,Flight
+928,3,Hotel
+929,1,News North America
+929,2,News North America
+929,3,Weather
+930,1,Shopping House
+930,2,Shopping Computer
+930,3,Software
+930,4,Job
+931,1,Weather
+932,1,Flight
+932,2,Hotel
+933,1,Shopping Computer
+933,2,Software
+933,3,Job
+934,1,Music
+934,2,Music
+934,3,Shopping Music
+934,4,Shopping Music
+934,5,Movie
+935,1,Music
+935,2,Music
+935,3,Music
+935,4,Music
+935,5,Shopping Music
+935,6,Movie
+936,1,News North America
+936,2,News North America
+936,3,News North America
+936,4,Football
+936,5,Baseball
+936,6,Baseball
+936,7,Baseball
+936,8,Basketball
+937,1,Weather
+938,1,Wireless
+938,2,Software
+938,3,Flight
+938,4,Hotel
+938,5,Yellow Page
+939,1,Flight
+939,2,Hotel
+940,1,Insurance
+940,2,Loan
+940,3,Wireless
+940,4,Software
+940,5,Game
+940,6,Pets
+940,7,Economy
+940,8,Companies
+941,1,Health
+941,2,Medicine
+942,1,Shopping Computer
+942,2,Shopping Computer
+942,3,Shopping Electronics
+943,1,News North America
+943,2,News North America
+943,3,News North America
+943,4,News North America
+943,5,News North America
+943,6,News North America
+943,7,Weather
+943,8,Weather
+944,1,News North America
+944,2,News North America
+944,3,News North America
+944,4,News North America
+944,5,Weather
+945,1,Flight
+945,2,Hotel
+946,1,News North America
+946,2,Weather
+947,1,Weather
+948,1,Weather
+949,1,Flight
+949,2,Flight
+949,3,Hotel
+949,4,Hotel
+950,1,News Asia
+950,2,Baseball
+950,3,Basketball
+950,4,Medicine
+950,5,Vacation
+951,1,Weather
+951,2,Weather
+951,3,Weather
+952,1,News North America
+952,2,News North America
+952,3,News North America
+952,4,News North America
+952,5,News North America
+952,6,News North America
+952,7,News North America
+952,8,Weather
+952,9,Weather
+952,10,Weather
+953,1,News Local
+953,2,OutDoor
+954,1,Shopping Software
+954,2,Yellow Page
+954,3,Financial news
+955,1,Loan
+955,2,Yellow Page
+955,3,Vacation
+955,4,Shopping House
+955,5,Shopping Car
+955,6,Shopping House
+955,7,Shopping House
+956,1,News Local
+956,2,Wireless
+956,3,News Australia
+956,4,News Local
+957,1,Map
+957,2,Car rental
+957,3,Car rental
+957,4,Cruises
+957,5,Research and Science
+957,6,Weather
+958,1,Stock quotes
+958,2,Business
+958,3,Financial news
+958,4,Stock quotes
+958,5,Software
+958,6,Job
+958,7,OutDoor
+958,8,Email
+959,1,Health
+959,2,Health
+959,3,Medicine
+960,1,Shopping Book
+960,2,Map
+960,3,Business
+960,4,Stock quotes
+961,1,News North America
+961,2,Weather
+962,1,Flight
+962,2,Shopping Software
+962,3,Shopping Book
+962,4,Job
+963,1,Health
+963,2,Health
+963,3,Medicine
+964,1,Health
+964,2,Health
+964,3,Health
+964,4,Health
+964,5,Medicine
+965,1,News North America
+965,2,Football
+965,3,Football
+965,4,Baseball
+965,5,Baseball
+965,6,Basketball
+966,1,Weather
+966,2,Weather
+966,3,Weather
+966,4,Weather
+966,5,Weather
+966,6,Weather
+967,1,Tax
+967,2,Shopping Software
+967,3,Health
+967,4,Internet
+968,1,Health
+968,2,Health
+968,3,Medicine
+969,1,News North America
+969,2,News North America
+969,3,Football
+969,4,Football
+969,5,Baseball
+969,6,Basketball
+970,1,Hotel
+970,2,Map
+970,3,Car rental
+970,4,Cruises
+970,5,Broker
+970,6,Internet
+971,1,Loan
+971,2,Yellow Page
+971,3,Radio
+971,4,Life
+971,5,Business
+971,6,Economy
+972,1,Soccer
+972,2,Internet
+972,3,Telecom
+972,4,Shopping Software
+972,5,Yellow Page
+972,6,Research and Science
+973,1,News North America
+973,2,Football
+973,3,Football
+973,4,Baseball
+973,5,Baseball
+973,6,Basketball
+974,1,Music
+974,2,Music
+974,3,Shopping Music
+974,4,Shopping Music
+974,5,Movie
+974,6,Movie
+974,7,Movie
+974,8,Movie
+975,1,Music
+975,2,Music
+975,3,Shopping Music
+975,4,Movie
+975,5,Movie
+976,1,Shopping Computer
+976,2,Shopping Computer
+976,3,Shopping Electronics
+977,1,Music
+977,2,Music
+977,3,Shopping Music
+977,4,Movie
+978,1,Weather
+978,2,Weather
+978,3,Weather
+979,1,Map
+979,2,Loan
+979,3,Economy
+979,4,Companies
+979,5,Telecom
+979,6,Cruises
+979,7,Vacation
+980,1,News Asia
+980,2,News Australia
+980,3,Life
+980,4,Greeting Cards
+980,5,Software
+980,6,Job
+980,7,Companies
+980,8,Wall Street
+980,9,Vacation
+981,1,Football
+981,2,Vacation
+981,3,Wireless
+981,4,Software
+981,5,Vacation
+982,1,Shopping Computer
+982,2,Health
+983,1,Internet
+983,2,Telecom
+983,3,Wireless
+983,4,Software
+984,1,Shopping Computer
+984,2,Shopping Computer
+984,3,Shopping Computer
+984,4,Shopping Computer
+984,5,Shopping Electronics
+985,1,Shopping Computer
+985,2,Shopping Electronics
+985,3,Shopping Electronics
+986,1,Weather
+986,2,Weather
+986,3,Weather
+986,4,Weather
+986,5,Weather
+986,6,Weather
+986,7,Weather
+986,8,Weather
+986,9,Weather
+986,10,Weather
+986,11,Weather
+987,1,Health
+987,2,Medicine
+988,1,News Local
+988,2,Internet
+988,3,Basketball
+989,1,News Asia
+989,2,News Australia
+989,3,Loan
+989,4,Job
+989,5,News Asia
+989,6,News Australia
+990,1,Flight
+990,2,Hotel
+991,1,Tax
+991,2,Shopping Software
+991,3,Shopping Car
+991,4,Shopping House
+991,5,Basketball
+991,6,Tennis
+992,1,Flight
+992,2,Hotel
+993,1,News North America
+993,2,News North America
+993,3,News North America
+993,4,News North America
+993,5,News North America
+993,6,Football
+993,7,Baseball
+993,8,Basketball
+994,1,News North America
+994,2,News North America
+994,3,News North America
+994,4,News North America
+994,5,News North America
+994,6,Weather
+994,7,Weather
+995,1,Flight
+995,2,Hotel
+995,3,Hotel
+996,1,News North America
+996,2,Weather
+997,1,Job
+998,1,News North America
+998,2,News North America
+998,3,News North America
+998,4,News North America
+998,5,News North America
+998,6,Weather
+998,7,Weather
+999,1,Health
+999,2,Medicine
+1000,1,Health
+1000,2,Medicine
+1001,1,Life
+1002,1,Life
+1002,2,Diet
+1002,3,Yellow Page
+1003,1,Wireless
+1003,2,Software
+1003,3,News Australia
+1003,4,News Local
+1004,1,News North America
+1004,2,News North America
+1004,3,News North America
+1004,4,News North America
+1004,5,News North America
+1004,6,Weather
+1005,1,Shopping Computer
+1005,2,Shopping Computer
+1005,3,Shopping Computer
+1005,4,Shopping Electronics
+1006,1,Medicine
+1006,2,Kits
+1006,3,Life
+1007,1,Health
+1007,2,Medicine
+1007,3,Medicine
+1007,4,Medicine
+1008,1,Relationship
+1008,2,Pets
+1008,3,Shopping Software
+1009,1,Health
+1009,2,Medicine
+1010,1,Weather
+1011,1,Music
+1011,2,Music
+1011,3,Shopping Music
+1011,4,Movie
+1011,5,Movie
+1012,1,Small business
+1012,2,Download
+1012,3,Insurance
+1012,4,OutDoor
+1012,5,Email
+1013,1,Music
+1013,2,Shopping Music
+1013,3,Movie
+1013,4,Movie
+1013,5,Movie
+1013,6,Movie
+1014,1,News North America
+1014,2,News North America
+1014,3,News North America
+1014,4,News North America
+1014,5,Weather
+1014,6,Weather
+1015,1,News North America
+1016,1,Health
+1016,2,Medicine
+1017,1,Shopping Music
+1017,2,Movie
+1017,3,Shopping House
+1017,4,Shopping Computer
+1017,5,Life
+1017,6,Radio
+1018,1,Economy
+1018,2,Relationship
+1018,3,Pets
+1018,4,Flight
+1018,5,Diet
+1019,1,Kits
+1019,2,Football
+1020,1,Economy
+1020,2,Companies
+1020,3,Flight
+1020,4,Email
+1021,1,Shopping House
+1021,2,Shopping House
+1021,3,Insurance
+1021,4,Insurance
+1021,5,Insurance
+1021,6,Loan
+1021,7,Loan
+1022,1,Life
+1022,2,Greeting Cards
+1022,3,Hockey
+1023,1,Community
+1023,2,Chat
+1023,3,Economy
+1023,4,Pets
+1023,5,Game
+1024,1,Flight
+1024,2,Hotel
+1025,1,Health
+1025,2,Health
+1025,3,Health
+1025,4,Health
+1025,5,Medicine
+1025,6,Medicine
+1026,1,Shopping Computer
+1026,2,Shopping Electronics
+1027,1,News North America
+1027,2,Weather
+1027,3,Weather
+1028,1,Shopping House
+1028,2,Insurance
+1028,3,Loan
+1028,4,Loan
+1028,5,Loan
+1028,6,Loan
+1029,1,Music
+1029,2,Shopping Music
+1029,3,Movie
+1029,4,Movie
+1029,5,Movie
+1029,6,Movie
+1030,1,Chat
+1030,2,Vacation
+1031,1,Shopping Computer
+1031,2,Shopping Computer
+1031,3,Shopping Computer
+1031,4,Shopping Computer
+1031,5,Shopping Electronics
+1032,1,Chat
+1032,2,Health
+1032,3,Shopping Game
+1032,4,Community
+1033,1,News Asia
+1033,2,News Australia
+1033,3,Relationship
+1033,4,Pets
+1034,1,Shopping Computer
+1034,2,Shopping Electronics
+1035,1,Flight
+1035,2,News Europe
+1035,3,Basketball
+1035,4,Baseball
+1035,5,Basketball
+1036,1,Flight
+1036,2,Hotel
+1037,1,Shopping Book
+1037,2,Baseball
+1037,3,Basketball
+1038,1,News North America
+1038,2,News North America
+1038,3,News North America
+1038,4,News North America
+1038,5,News North America
+1038,6,News North America
+1038,7,Weather
+1039,1,Movie
+1039,2,Football
+1039,3,Soccer
+1039,4,Game
+1039,5,Job
+1039,6,City info
+1040,1,Weather
+1040,2,Shopping Software
+1040,3,Shopping Book
+1040,4,Wireless
+1041,1,News North America
+1042,1,News North America
+1042,2,News North America
+1042,3,Football
+1042,4,Baseball
+1042,5,Basketball
+1042,6,Basketball
+1043,1,Shopping House
+1043,2,Shopping House
+1043,3,Shopping House
+1043,4,Shopping House
+1043,5,Insurance
+1043,6,Loan
+1043,7,Loan
+1043,8,Loan
+1044,1,Weather
+1045,1,News North America
+1045,2,Weather
+1046,1,Telecom
+1046,2,Diet
+1046,3,Medicine
+1046,4,Shopping Game
+1046,5,Music
+1046,6,Companies
+1047,1,News North America
+1047,2,News North America
+1047,3,News North America
+1047,4,News North America
+1047,5,News North America
+1047,6,News North America
+1047,7,News North America
+1047,8,Weather
+1048,1,News Local
+1048,2,Internet
+1048,3,Vacation
+1048,4,City info
+1049,1,Hotel
+1049,2,Map
+1049,3,Vacation
+1050,1,Map
+1050,2,Shopping Electronics
+1050,3,Insurance
+1050,4,News Asia
+1050,5,News Australia
+1050,6,Shopping Car
+1051,1,Relationship
+1051,2,Pets
+1052,1,News North America
+1052,2,Weather
+1052,3,Weather
+1053,1,Flight
+1053,2,Hotel
+1053,3,Hotel
+1054,1,Shopping House
+1054,2,Shopping House
+1054,3,Insurance
+1054,4,Insurance
+1054,5,Loan
+1054,6,Loan
+1055,1,News North America
+1055,2,News North America
+1055,3,News North America
+1055,4,News North America
+1055,5,News North America
+1055,6,News North America
+1055,7,Weather
+1056,1,Weather
+1057,1,Flight
+1057,2,Hotel
+1058,1,Flight
+1058,2,Flight
+1058,3,Flight
+1058,4,Hotel
+1059,1,News North America
+1059,2,News North America
+1059,3,News North America
+1059,4,News North America
+1059,5,News North America
+1059,6,Weather
+1060,1,Broker
+1060,2,Tax
+1061,1,Software
+1061,2,Job
+1061,3,News Europe
+1061,4,Business
+1061,5,Economy
+1062,1,Hotel
+1062,2,City info
+1062,3,Shopping Car
+1062,4,Music
+1062,5,Shopping Music
+1063,1,Shopping House
+1063,2,Insurance
+1063,3,Loan
+1063,4,Loan
+1063,5,Loan
+1064,1,Weather
+1064,2,Weather
+1064,3,Weather
+1064,4,Weather
+1064,5,Weather
+1065,1,Shopping Computer
+1065,2,Shopping Computer
+1065,3,Shopping Electronics
+1065,4,Shopping Electronics
+1066,1,News North America
+1066,2,Weather
+1067,1,Flight
+1067,2,Flight
+1067,3,Hotel
+1068,1,News North America
+1068,2,Football
+1068,3,Baseball
+1068,4,Basketball
+1069,1,Cruises
+1069,2,Car rental
+1069,3,Cruises
+1069,4,Cruises
+1069,5,Soccer
+1069,6,Baseball
+1069,7,News North America
+1070,1,Shopping Computer
+1070,2,Shopping Computer
+1070,3,Shopping Electronics
+1071,1,Health
+1071,2,Diet
+1071,3,Movie
+1071,4,Radio
+1072,1,News North America
+1072,2,Medicine
+1073,1,Community
+1073,2,Movie
+1073,3,Radio
+1074,1,Cruises
+1074,2,Game
+1075,1,Flight
+1075,2,Hotel
+1076,1,Tennis
+1076,2,Hockey
+1076,3,News Australia
+1076,4,News Local
+1077,1,Software
+1077,2,Job
+1078,1,Telecom
+1078,2,Wireless
+1078,3,Shopping Music
+1079,1,Shopping Computer
+1079,2,Shopping Computer
+1079,3,Shopping Computer
+1079,4,Shopping Electronics
+1080,1,News Europe
+1080,2,Football
+1080,3,Football
+1081,1,OutDoor
+1081,2,Email
+1081,3,Community
+1082,1,Map
+1082,2,News Australia
+1082,3,News Local
+1082,4,Economy
+1082,5,Companies
+1082,6,Shopping House
+1083,1,Flight
+1083,2,Hotel
+1083,3,Hockey
+1083,4,Financial news
+1083,5,Stock quotes
+1084,1,Football
+1085,1,News North America
+1085,2,City info
+1085,3,Shopping Book
+1086,1,Music
+1086,2,Music
+1086,3,Music
+1086,4,Music
+1086,5,Shopping Music
+1086,6,Movie
+1087,1,Weather
+1087,2,Weather
+1087,3,Weather
+1087,4,Weather
+1088,1,News North America
+1088,2,Football
+1088,3,Baseball
+1088,4,Baseball
+1088,5,Basketball
+1089,1,Download
+1089,2,Download
+1089,3,Flight
+1089,4,Relationship
+1089,5,Email
+1089,6,Community
+1090,1,Weather
+1090,2,Weather
+1090,3,Weather
+1091,1,Flight
+1091,2,Flight
+1091,3,Flight
+1091,4,Hotel
+1092,1,Weather
+1092,2,Weather
+1092,3,Weather
+1092,4,Weather
+1092,5,Weather
+1092,6,Weather
+1092,7,Weather
+1092,8,Weather
+1093,1,Music
+1093,2,Music
+1093,3,Shopping Music
+1093,4,Shopping Music
+1093,5,Shopping Music
+1093,6,Shopping Music
+1093,7,Movie
+1093,8,Movie
+1093,9,Movie
+1093,10,Movie
+1094,1,Music
+1094,2,Shopping Music
+1094,3,Movie
+1095,1,Insurance
+1095,2,Financial news
+1095,3,News Local
+1096,1,News North America
+1096,2,Weather
+1097,1,News North America
+1097,2,News North America
+1097,3,Football
+1097,4,Baseball
+1097,5,Basketball
+1098,1,News North America
+1098,2,News North America
+1098,3,Football
+1098,4,Football
+1098,5,Baseball
+1098,6,Basketball
+1099,1,Health
+1099,2,Medicine
+1100,1,News North America
+1100,2,News North America
+1100,3,Weather
+1101,1,News North America
+1101,2,News North America
+1101,3,Football
+1101,4,Football
+1101,5,Baseball
+1101,6,Basketball
+1102,1,News Europe
+1102,2,Football
+1102,3,Football
+1103,1,Flight
+1103,2,Hotel
+1104,1,Insurance
+1104,2,Research and Science
+1104,3,Hockey
+1104,4,OutDoor
+1104,5,City info
+1104,6,Shopping Car
+1105,1,Health
+1105,2,Hockey
+1105,3,Job
+1106,1,News North America
+1106,2,News North America
+1106,3,Weather
+1107,1,Community
+1107,2,Music
+1107,3,Shopping Music
+1107,4,Soccer
+1107,5,Baseball
+1107,6,Email
+1107,7,Community
+1108,1,Shopping Software
+1108,2,Shopping Book
+1108,3,Hockey
+1108,4,Community
+1108,5,Chat
+1108,6,Shopping Music
+1108,7,Movie
+1108,8,Yellow Page
+1108,9,Research and Science
+1109,1,Weather
+1109,2,Weather
+1109,3,Weather
+1109,4,Weather
+1109,5,Weather
+1109,6,Weather
+1109,7,Weather
+1109,8,Weather
+1109,9,Weather
+1109,10,Weather
+1109,11,Weather
+1110,1,Soccer
+1110,2,Game
+1110,3,Baseball
+1110,4,Relationship
+1111,1,Shopping Computer
+1111,2,Shopping Computer
+1111,3,Shopping Electronics
+1111,4,Shopping Electronics
+1111,5,Shopping Electronics
+1111,6,Shopping Electronics
+1112,1,Flight
+1112,2,Hotel
+1113,1,News Europe
+1113,2,Football
+1114,1,Music
+1114,2,Shopping Music
+1114,3,Shopping Music
+1114,4,Shopping Music
+1114,5,Shopping Music
+1114,6,Movie
+1115,1,Football
+1115,2,Soccer
+1115,3,OutDoor
+1115,4,Email
+1115,5,Baseball
+1116,1,News North America
+1116,2,Football
+1116,3,Baseball
+1116,4,Baseball
+1116,5,Basketball
+1117,1,News North America
+1117,2,News North America
+1117,3,News North America
+1117,4,News North America
+1117,5,News North America
+1117,6,News North America
+1117,7,Weather
+1118,1,Tennis
+1118,2,Hockey
+1118,3,Companies
+1118,4,Wall Street
+1119,1,Flight
+1119,2,Shopping Car
+1119,3,Research and Science
+1119,4,Shopping Book
+1120,1,Weather
+1120,2,Download
+1121,1,Shopping House
+1121,2,Email
+1121,3,Kits
+1121,4,Relationship
+1122,1,News Europe
+1122,2,News Europe
+1122,3,News Europe
+1122,4,Football
+1122,5,Football
+1123,1,Music
+1123,2,Shopping Music
+1123,3,Movie
+1123,4,Movie
+1123,5,Movie
+1124,1,Shopping Computer
+1124,2,Shopping Computer
+1124,3,Shopping Electronics
+1125,1,Flight
+1125,2,Hotel
+1126,1,Flight
+1126,2,Hotel
+1127,1,News Europe
+1127,2,News Europe
+1127,3,News Europe
+1127,4,News Europe
+1127,5,Football
+1128,1,Shopping House
+1128,2,Insurance
+1128,3,Loan
+1128,4,Loan
+1129,1,Internet
+1129,2,Telecom
+1129,3,Flight
+1130,1,Health
+1130,2,Medicine
+1131,1,Relationship
+1131,2,Radio
+1131,3,Cruises
+1131,4,Vacation
+1132,1,City info
+1132,2,Shopping Car
+1133,1,Soccer
+1133,2,Cruises
+1133,3,Vacation
+1133,4,Stock quotes
+1133,5,Shopping Computer
+1134,1,News North America
+1134,2,Football
+1134,3,Football
+1134,4,Football
+1134,5,Football
+1134,6,Baseball
+1134,7,Baseball
+1134,8,Basketball
+1134,9,Basketball
+1135,1,News North America
+1135,2,News North America
+1135,3,News North America
+1135,4,Football
+1135,5,Football
+1135,6,Baseball
+1135,7,Basketball
+1136,1,OutDoor
+1136,2,Companies
+1136,3,Internet
+1136,4,Companies
+1136,5,Wall Street
+1137,1,News North America
+1137,2,Football
+1137,3,Baseball
+1137,4,Basketball
+1137,5,Basketball
+1138,1,Business
+1138,2,Kits
+1138,3,Relationship
+1139,1,News North America
+1139,2,News North America
+1139,3,Football
+1139,4,Football
+1139,5,Baseball
+1139,6,Basketball
+1140,1,News North America
+1140,2,News North America
+1140,3,News North America
+1140,4,Weather
+1140,5,Weather
+1141,1,Shopping Game
+1142,1,Music
+1142,2,Shopping Music
+1142,3,Shopping Music
+1142,4,Movie
+1142,5,Movie
+1143,1,Music
+1143,2,Shopping Music
+1143,3,Movie
+1144,1,Music
+1144,2,Music
+1144,3,Shopping Music
+1144,4,Shopping Music
+1144,5,Shopping Music
+1144,6,Shopping Music
+1144,7,Movie
+1145,1,Cruises
+1145,2,Vacation
+1146,1,Radio
+1146,2,Insurance
+1146,3,Map
+1146,4,Car rental
+1146,5,Greeting Cards
+1146,6,News Australia
+1147,1,News Europe
+1147,2,Football
+1148,1,Flight
+1148,2,Hotel
+1149,1,Flight
+1149,2,Hotel
+1149,3,Hotel
+1150,1,Loan
+1150,2,Yellow Page
+1150,3,Kits
+1150,4,Flight
+1150,5,Hotel
+1150,6,Loan
+1150,7,Yellow Page
+1151,1,Flight
+1151,2,Flight
+1151,3,Hotel
+1151,4,Hotel
+1152,1,News North America
+1152,2,Football
+1152,3,Baseball
+1152,4,Basketball
+1153,1,Basketball
+1153,2,Tennis
+1153,3,Greeting Cards
+1153,4,Calendar
+1153,5,Job
+1153,6,Financial news
+1153,7,Community
+1153,8,Kits
+1153,9,Relationship
+1154,1,Calendar
+1154,2,Small business
+1154,3,Research and Science
+1154,4,Weather
+1154,5,Car rental
+1154,6,Cruises
+1154,7,Medicine
+1154,8,Shopping Car
+1155,1,Weather
+1155,2,Weather
+1156,1,Hotel
+1156,2,Game
+1156,3,Shopping Game
+1156,4,Email
+1156,5,Community
+1157,1,Diet
+1157,2,Shopping Music
+1157,3,Movie
+1157,4,Hockey
+1157,5,OutDoor
+1157,6,Baseball
+1157,7,Basketball
+1157,8,News North America
+1157,9,News Europe
+1158,1,News North America
+1158,2,Football
+1158,3,Baseball
+1158,4,Basketball
+1159,1,Flight
+1159,2,Hotel
+1160,1,Shopping House
+1161,1,Car rental
+1161,2,Cruises
+1161,3,Wireless
+1161,4,Software
+1161,5,Shopping Book
+1161,6,Small business
+1162,1,News North America
+1162,2,Weather
+1163,1,Music
+1163,2,Shopping Music
+1163,3,Movie
+1164,1,Health
+1164,2,Medicine
+1165,1,Hockey
+1165,2,OutDoor
+1165,3,Car rental
+1165,4,Cruises
+1165,5,Radio
+1165,6,Life
+1165,7,Software
+1165,8,Job
+1165,9,Hotel
+1166,1,Loan
+1166,2,Yellow Page
+1166,3,Diet
+1166,4,Email
+1166,5,Community
+1166,6,Greeting Cards
+1166,7,Calendar
+1167,1,News North America
+1167,2,News North America
+1167,3,News North America
+1167,4,News North America
+1167,5,News North America
+1167,6,News North America
+1167,7,News North America
+1167,8,Weather
+1168,1,Cruises
+1168,2,Basketball
+1168,3,Shopping House
+1168,4,Shopping Computer
+1169,1,Flight
+1169,2,Flight
+1169,3,Hotel
+1170,1,Calendar
+1170,2,Small business
+1170,3,News Europe
+1170,4,Basketball
+1170,5,Tennis
+1171,1,Music
+1171,2,Shopping Music
+1171,3,Movie
+1171,4,Movie
+1172,1,News North America
+1172,2,Football
+1172,3,Baseball
+1172,4,Baseball
+1172,5,Basketball
+1172,6,Basketball
+1173,1,Health
+1173,2,Medicine
+1174,1,News Europe
+1174,2,News Asia
+1175,1,Weather
+1175,2,Weather
+1175,3,Weather
+1176,1,Email
+1176,2,Community
+1176,3,Tennis
+1176,4,Shopping Software
+1176,5,Shopping Book
+1177,1,News North America
+1177,2,Football
+1177,3,Baseball
+1177,4,Baseball
+1177,5,Basketball
+1177,6,Basketball
+1178,1,Music
+1178,2,Shopping Music
+1178,3,Movie
+1178,4,Movie
+1178,5,Movie
+1178,6,Movie
+1178,7,Movie
+1179,1,Shopping Computer
+1179,2,Shopping Electronics
+1180,1,News North America
+1180,2,News North America
+1180,3,News North America
+1180,4,News North America
+1180,5,News North America
+1180,6,News North America
+1180,7,News North America
+1180,8,Weather
+1181,1,Music
+1181,2,Shopping Book
+1181,3,Hotel
+1181,4,Map
+1181,5,Cruises
+1181,6,Vacation
+1182,1,Weather
+1182,2,Weather
+1183,1,Insurance
+1183,2,Life
+1183,3,Greeting Cards
+1184,1,Health
+1184,2,Health
+1184,3,Health
+1184,4,Health
+1184,5,Medicine
+1184,6,Medicine
+1185,1,Financial news
+1185,2,Stock quotes
+1185,3,Health
+1185,4,News Asia
+1185,5,News Australia
+1186,1,Shopping House
+1186,2,Insurance
+1186,3,Loan
+1186,4,Loan
+1187,1,Shopping Computer
+1187,2,Shopping Electronics
+1188,1,News North America
+1188,2,News North America
+1188,3,News North America
+1188,4,Weather
+1189,1,Broker
+1189,2,Tax
+1189,3,Insurance
+1189,4,Loan
+1189,5,Shopping Book
+1189,6,Football
+1189,7,Movie
+1190,1,Flight
+1190,2,Flight
+1190,3,Flight
+1190,4,Hotel
+1191,1,Research and Science
+1191,2,Weather
+1191,3,Calendar
+1191,4,Financial news
+1192,1,Weather
+1192,2,Weather
+1192,3,Weather
+1192,4,Weather
+1192,5,Weather
+1192,6,Weather
+1192,7,Weather
+1192,8,Weather
+1193,1,Shopping House
+1193,2,Shopping House
+1193,3,Insurance
+1193,4,Loan
+1193,5,Loan
+1193,6,Loan
+1194,1,News North America
+1194,2,News North America
+1194,3,News North America
+1194,4,News North America
+1194,5,Weather
+1195,1,Game
+1195,2,Shopping Game
+1195,3,Basketball
+1195,4,Radio
+1195,5,Life
+1195,6,Download
+1195,7,News Australia
+1196,1,News North America
+1196,2,News North America
+1196,3,Weather
+1197,1,Basketball
+1197,2,Wall Street
+1197,3,Broker
+1197,4,Business
+1197,5,Cruises
+1197,6,Vacation
+1197,7,Shopping Electronics
+1197,8,Insurance
+1198,1,Weather
+1198,2,Weather
+1198,3,Weather
+1199,1,News North America
+1199,2,News North America
+1199,3,Weather
+1200,1,Shopping Car
+1200,2,Shopping Music
+1201,1,News North America
+1201,2,Football
+1201,3,Football
+1201,4,Football
+1201,5,Baseball
+1201,6,Basketball
+1201,7,Basketball
+1201,8,Basketball
+1202,1,News North America
+1202,2,News North America
+1202,3,Weather
+1203,1,Flight
+1203,2,Flight
+1203,3,Flight
+1203,4,Hotel
+1204,1,Flight
+1204,2,Flight
+1204,3,Hotel
+1205,1,Business
+1205,2,Economy
+1205,3,Telecom
+1205,4,Wireless
+1205,5,Movie
+1205,6,Radio
+1206,1,News Europe
+1206,2,Football
+1206,3,Football
+1207,1,Tennis
+1207,2,Calendar
+1208,1,Financial news
+1208,2,Stock quotes
+1208,3,Baseball
+1208,4,Basketball
+1208,5,OutDoor
+1208,6,Tennis
+1209,1,News North America
+1209,2,News North America
+1209,3,Weather
+1209,4,Weather
+1210,1,Music
+1210,2,Music
+1210,3,Music
+1210,4,Music
+1210,5,Shopping Music
+1210,6,Movie
+1211,1,Weather
+1211,2,Weather
+1211,3,Weather
+1211,4,Weather
+1211,5,Weather
+1211,6,Weather
+1211,7,Weather
+1212,1,Shopping Electronics
+1212,2,News North America
+1212,3,News Europe
+1212,4,Vacation
+1212,5,OutDoor
+1212,6,Email
+1213,1,Insurance
+1213,2,Loan
+1213,3,Vacation
+1213,4,City info
+1213,5,Insurance
+1213,6,Loan
+1214,1,News North America
+1214,2,Weather
+1214,3,Weather
+1215,1,Internet
+1215,2,Telecom
+1215,3,Tax
+1215,4,Shopping Software
+1215,5,Soccer
+1215,6,Shopping Computer
+1216,1,News North America
+1216,2,News North America
+1216,3,News North America
+1216,4,News North America
+1216,5,News North America
+1216,6,Weather
+1217,1,Flight
+1217,2,Hotel
+1218,1,Community
+1218,2,Shopping Music
+1219,1,Tax
+1219,2,Shopping Software
+1219,3,News Australia
+1219,4,News Local
+1219,5,Yellow Page
+1219,6,Research and Science
+1219,7,Research and Science
+1219,8,Weather
+1220,1,Life
+1220,2,Greeting Cards
+1220,3,Economy
+1220,4,Companies
+1220,5,Loan
+1221,1,Flight
+1221,2,Hotel
+1222,1,Cruises
+1222,2,Vacation
+1222,3,Chat
+1222,4,Telecom
+1222,5,Wireless
+1222,6,Shopping Computer
+1222,7,Shopping Electronics
+1223,1,Relationship
+1223,2,Pets
+1224,1,Flight
+1224,2,Flight
+1224,3,Hotel
+1225,1,Weather
+1225,2,Weather
+1225,3,Weather
+1225,4,Weather
+1225,5,Weather
+1226,1,News North America
+1226,2,Football
+1226,3,Baseball
+1226,4,Basketball
+1226,5,Basketball
+1227,1,Health
+1227,2,Health
+1227,3,Medicine
+1227,4,Medicine
+1228,1,Research and Science
+1228,2,Weather
+1228,3,Hockey
+1228,4,Relationship
+1228,5,Vacation
+1229,1,Radio
+1229,2,Life
+1229,3,City info
+1229,4,Shopping Car
+1229,5,Greeting Cards
+1229,6,Job
+1230,1,Health
+1230,2,Medicine
+1231,1,Movie
+1231,2,Shopping Electronics
+1231,3,News Asia
+1231,4,News Australia
+1231,5,Software
+1231,6,Job
+1232,1,Tax
+1232,2,Shopping Software
+1232,3,Shopping Electronics
+1232,4,Internet
+1232,5,Loan
+1232,6,Yellow Page
+1232,7,News Local
+1232,8,Internet
+1233,1,Hotel
+1233,2,Financial news
+1233,3,Stock quotes
+1233,4,City info
+1234,1,Football
+1234,2,Soccer
+1234,3,Software
+1234,4,Hotel
+1234,5,Research and Science
+1234,6,Diet
+1235,1,News North America
+1235,2,News North America
+1235,3,Weather
+1235,4,Weather
+1236,1,Relationship
+1236,2,Small business
+1236,3,Download
+1237,1,Music
+1237,2,Shopping Music
+1237,3,Movie
+1237,4,Movie
+1238,1,Health
+1238,2,Medicine
+1239,1,Pets
+1239,2,Game
+1239,3,Chat
+1239,4,Health
+1239,5,Research and Science
+1239,6,Broker
+1239,7,Tax
+1240,1,Game
+1240,2,Shopping Game
+1241,1,Health
+1241,2,Medicine
+1241,3,Medicine
+1242,1,Download
+1242,2,Flight
+1242,3,Tax
+1243,1,Weather
+1243,2,Weather
+1243,3,Weather
+1243,4,Weather
+1243,5,Weather
+1243,6,Weather
+1243,7,Weather
+1243,8,Weather
+1243,9,Weather
+1243,10,Weather
+1243,11,Weather
+1243,12,Weather
+1244,1,News North America
+1244,2,Football
+1244,3,Baseball
+1244,4,Baseball
+1244,5,Baseball
+1244,6,Baseball
+1244,7,Baseball
+1244,8,Basketball
+1245,1,Shopping House
+1245,2,Insurance
+1245,3,Loan
+1246,1,Research and Science
+1246,2,Weather
+1246,3,Pets
+1246,4,Game
+1247,1,News North America
+1247,2,Weather
+1248,1,News North America
+1248,2,Weather
+1249,1,Music
+1249,2,Shopping Music
+1249,3,Movie
+1250,1,Music
+1250,2,Music
+1250,3,Music
+1250,4,Music
+1250,5,Shopping Music
+1250,6,Movie
+1250,7,Movie
+1251,1,Hotel
+1251,2,Shopping Book
+1251,3,Wall Street
+1251,4,Shopping Computer
+1252,1,Flight
+1252,2,Hotel
+1253,1,Weather
+1253,2,Weather
+1253,3,Weather
+1253,4,Weather
+1253,5,Weather
+1253,6,Weather
+1253,7,Weather
+1253,8,Weather
+1253,9,Weather
+1253,10,Weather
+1253,11,Weather
+1253,12,Weather
+1253,13,Weather
+1254,1,Shopping Music
+1254,2,Movie
+1254,3,Basketball
+1254,4,Broker
+1254,5,Tax
+1254,6,Hockey
+1255,1,Flight
+1255,2,Hotel
+1256,1,Flight
+1256,2,Flight
+1256,3,Flight
+1256,4,Flight
+1256,5,Hotel
+1257,1,News North America
+1257,2,News North America
+1257,3,News North America
+1257,4,Football
+1257,5,Baseball
+1257,6,Basketball
+1258,1,Yellow Page
+1258,2,Research and Science
+1258,3,Job
+1258,4,Financial news
+1259,1,News Europe
+1259,2,News Europe
+1259,3,News Europe
+1259,4,Football
+1260,1,Community
+1260,2,Calendar
+1260,3,Small business
+1260,4,Shopping Electronics
+1260,5,Download
+1261,1,Weather
+1261,2,Weather
+1261,3,Weather
+1261,4,Weather
+1261,5,Weather
+1261,6,Weather
+1261,7,Weather
+1261,8,Weather
+1261,9,Weather
+1261,10,Weather
+1262,1,News North America
+1262,2,News North America
+1262,3,News North America
+1262,4,News North America
+1262,5,News North America
+1262,6,Weather
+1263,1,Music
+1263,2,Shopping Music
+1263,3,Shopping Music
+1263,4,Movie
+1264,1,Weather
+1264,2,Weather
+1264,3,Weather
+1265,1,Weather
+1265,2,Weather
+1265,3,Weather
+1265,4,Weather
+1265,5,Weather
+1266,1,News Europe
+1266,2,News Asia
+1266,3,Internet
+1266,4,Telecom
+1266,5,OutDoor
+1266,6,Email
+1266,7,Music
+1267,1,News North America
+1267,2,News North America
+1267,3,Weather
+1268,1,Business
+1268,2,Hotel
+1268,3,Map
+1269,1,Shopping Computer
+1269,2,Shopping Computer
+1269,3,Shopping Computer
+1269,4,Shopping Electronics
+1270,1,News North America
+1270,2,News North America
+1270,3,News North America
+1270,4,Weather
+1270,5,Weather
+1271,1,Game
+1271,2,Basketball
+1271,3,Tennis
+1271,4,Health
+1271,5,Diet
+1271,6,Shopping Game
+1272,1,News North America
+1272,2,News North America
+1272,3,Weather
+1273,1,News North America
+1273,2,Weather
+1274,1,Kits
+1274,2,Relationship
+1274,3,Football
+1274,4,Soccer
+1274,5,Shopping Car
+1274,6,Shopping House
+1275,1,Music
+1275,2,Shopping Music
+1275,3,Movie
+1276,1,Flight
+1276,2,Hotel
+1276,3,Companies
+1277,1,Music
+1277,2,Baseball
+1277,3,Basketball
+1278,1,Car rental
+1278,2,Cruises
+1278,3,Greeting Cards
+1278,4,Calendar
+1278,5,News Local
+1278,6,Internet
+1278,7,Life
+1279,1,News Australia
+1279,2,Stock quotes
+1279,3,Business
+1279,4,Relationship
+1279,5,Shopping Game
+1279,6,Music
+1279,7,Vacation
+1279,8,City info
+1280,1,Flight
+1280,2,Hotel
+1281,1,Shopping Computer
+1281,2,Shopping Computer
+1281,3,Shopping Computer
+1281,4,Shopping Computer
+1281,5,Shopping Computer
+1281,6,Shopping Electronics
+1282,1,News North America
+1282,2,News North America
+1282,3,News North America
+1282,4,News North America
+1282,5,News North America
+1282,6,News North America
+1282,7,News North America
+1282,8,News North America
+1282,9,News North America
+1282,10,Weather
+1283,1,News North America
+1283,2,Football
+1283,3,Football
+1283,4,Football
+1283,5,Baseball
+1283,6,Basketball
+1284,1,News Europe
+1284,2,News Europe
+1284,3,News Europe
+1284,4,News Europe
+1284,5,Football
+1285,1,Music
+1285,2,Shopping Music
+1285,3,Movie
+1286,1,Flight
+1286,2,Hotel
+1287,1,Weather
+1287,2,Weather
+1288,1,Health
+1288,2,Medicine
+1289,1,Loan
+1289,2,Yellow Page
+1289,3,Business
+1289,4,Economy
+1289,5,Insurance
+1290,1,Flight
+1290,2,Hotel
+1290,3,Hotel
+1291,1,Insurance
+1291,2,Loan
+1291,3,Insurance
+1291,4,Loan
+1292,1,Economy
+1292,2,Companies
+1292,3,Game
+1293,1,Email
+1293,2,Community
+1293,3,Stock quotes
+1293,4,Download
+1293,5,Basketball
+1293,6,Tennis
+1294,1,Health
+1294,2,Medicine
+1295,1,City info
+1295,2,Shopping Car
+1295,3,Software
+1295,4,Job
+1296,1,Weather
+1297,1,Flight
+1297,2,Flight
+1297,3,Hotel
+1297,4,Hotel
+1298,1,Shopping House
+1298,2,Shopping Computer
+1298,3,Companies
+1298,4,Wall Street
+1298,5,News Asia
+1298,6,News Australia
+1298,7,Companies
+1298,8,Wall Street
+1298,9,Insurance
+1298,10,Loan
+1299,1,Movie
+1299,2,Cruises
+1299,3,Vacation
+1299,4,Economy
+1299,5,Companies
+1300,1,Weather
+1300,2,Weather
+1301,1,News North America
+1301,2,News North America
+1301,3,News North America
+1301,4,News North America
+1301,5,News North America
+1301,6,News North America
+1301,7,News North America
+1301,8,News North America
+1301,9,News North America
+1301,10,News North America
+1301,11,News North America
+1301,12,News North America
+1301,13,News North America
+1301,14,News North America
+1301,15,Weather
+1302,1,Weather
+1302,2,Weather
+1302,3,Weather
+1302,4,Weather
+1302,5,Weather
+1302,6,Weather
+1302,7,Weather
+1302,8,Weather
+1303,1,Companies
+1303,2,Small business
+1303,3,Download
+1304,1,News North America
+1304,2,News North America
+1304,3,News North America
+1304,4,Weather
+1305,1,News North America
+1305,2,News North America
+1305,3,News North America
+1305,4,News North America
+1305,5,News North America
+1305,6,News North America
+1305,7,News North America
+1305,8,News North America
+1305,9,News North America
+1305,10,Weather
+1306,1,Music
+1306,2,Music
+1306,3,Music
+1306,4,Music
+1306,5,Shopping Music
+1306,6,Movie
+1307,1,Music
+1307,2,Shopping Music
+1307,3,Movie
+1307,4,Movie
+1308,1,News North America
+1308,2,News North America
+1308,3,Weather
+1309,1,Music
+1309,2,Music
+1309,3,Shopping Music
+1309,4,Shopping Music
+1309,5,Movie
+1309,6,Movie
+1309,7,Movie
+1310,1,News Europe
+1310,2,News Europe
+1310,3,Football
+1311,1,Weather
+1312,1,News North America
+1312,2,Weather
+1313,1,Music
+1313,2,Music
+1313,3,Music
+1313,4,Music
+1313,5,Music
+1313,6,Shopping Music
+1313,7,Movie
+1313,8,Movie
+1314,1,News North America
+1315,1,Cruises
+1315,2,Vacation
+1315,3,Football
+1315,4,Soccer
+1316,1,News North America
+1316,2,News North America
+1316,3,Weather
+1316,4,Weather
+1316,5,Weather
+1316,6,Weather
+1317,1,News North America
+1317,2,News North America
+1317,3,News North America
+1317,4,News North America
+1317,5,Weather
+1317,6,Weather
+1318,1,Flight
+1318,2,Hotel
+1318,3,Hotel
+1319,1,News North America
+1319,2,News North America
+1319,3,News North America
+1319,4,Weather
+1319,5,Weather
+1320,1,Weather
+1320,2,Weather
+1320,3,Weather
+1320,4,Weather
+1320,5,Weather
+1320,6,Weather
+1320,7,Weather
+1320,8,Weather
+1320,9,Weather
+1320,10,Weather
+1320,11,Weather
+1321,1,News North America
+1321,2,News North America
+1321,3,News North America
+1321,4,News North America
+1321,5,News North America
+1321,6,News North America
+1321,7,Football
+1321,8,Baseball
+1321,9,Baseball
+1321,10,Baseball
+1321,11,Baseball
+1321,12,Baseball
+1321,13,Baseball
+1321,14,Baseball
+1321,15,Basketball
+1321,16,Basketball
+1321,17,Basketball
+1322,1,Flight
+1322,2,Hotel
+1322,3,Hotel
+1323,1,Music
+1323,2,Shopping Music
+1323,3,Movie
+1323,4,Movie
+1324,1,Health
+1324,2,Health
+1324,3,Medicine
+1325,1,Shopping Electronics
+1325,2,Hockey
+1325,3,OutDoor
+1325,4,Email
+1325,5,Community
+1326,1,News North America
+1326,2,News North America
+1326,3,News North America
+1326,4,News North America
+1326,5,News North America
+1326,6,News North America
+1326,7,News North America
+1326,8,News North America
+1326,9,News North America
+1326,10,News North America
+1326,11,News North America
+1326,12,News North America
+1326,13,News North America
+1326,14,News North America
+1326,15,News North America
+1326,16,News North America
+1326,17,News North America
+1326,18,Weather
+1327,1,Relationship
+1327,2,Software
+1327,3,Job
+1327,4,Research and Science
+1327,5,Weather
+1327,6,Medicine
+1328,1,Weather
+1328,2,Weather
+1329,1,Weather
+1329,2,Weather
+1329,3,Weather
+1329,4,Weather
+1329,5,Weather
+1329,6,Weather
+1329,7,Weather
+1329,8,Weather
+1329,9,Weather
+1330,1,Flight
+1330,2,Flight
+1330,3,Flight
+1330,4,Hotel
+1331,1,Baseball
+1331,2,Community
+1331,3,Chat
+1331,4,Shopping Book
+1331,5,Football
+1332,1,Flight
+1332,2,Flight
+1332,3,Hotel
+1332,4,Hotel
+1332,5,Hotel
+1332,6,Hotel
+1333,1,Flight
+1333,2,Flight
+1333,3,Hotel
+1334,1,Vacation
+1334,2,Business
+1334,3,Economy
+1334,4,News Australia
+1335,1,News North America
+1335,2,Football
+1335,3,Baseball
+1335,4,Basketball
+1336,1,Car rental
+1336,2,News Asia
+1336,3,Business
+1337,1,Weather
+1337,2,Weather
+1337,3,Weather
+1337,4,Weather
+1337,5,Weather
+1337,6,Weather
+1337,7,Weather
+1337,8,Weather
+1338,1,Shopping Computer
+1338,2,Shopping Electronics
+1339,1,Flight
+1339,2,Hotel
+1339,3,Hotel
+1340,1,Hotel
+1340,2,Map
+1340,3,Soccer
+1340,4,Football
+1340,5,Soccer
+1341,1,Weather
+1342,1,Baseball
+1343,1,Shopping Book
+1343,2,Football
+1343,3,Shopping Computer
+1343,4,Pets
+1343,5,Game
+1343,6,Tax
+1344,1,Wall Street
+1344,2,Broker
+1344,3,Soccer
+1344,4,News North America
+1344,5,Hockey
+1344,6,OutDoor
+1345,1,Shopping House
+1345,2,Shopping Computer
+1346,1,Flight
+1346,2,Hotel
+1347,1,Music
+1347,2,Shopping Music
+1347,3,Shopping Music
+1347,4,Shopping Music
+1347,5,Movie
+1347,6,Movie
+1348,1,Shopping Computer
+1348,2,Shopping Electronics
+1349,1,Stock quotes
+1349,2,Research and Science
+1349,3,Weather
+1350,1,Weather
+1350,2,Weather
+1351,1,News North America
+1351,2,News North America
+1351,3,Football
+1351,4,Baseball
+1351,5,Baseball
+1351,6,Basketball
+1352,1,Radio
+1352,2,Movie
+1352,3,Hotel
+1353,1,Broker
+1353,2,Tax
+1353,3,Email
+1353,4,Kits
+1353,5,Relationship
+1353,6,Community
+1353,7,Chat
+1354,1,Weather
+1354,2,Weather
+1354,3,Weather
+1355,1,News North America
+1355,2,News North America
+1355,3,Weather
+1356,1,Hotel
+1356,2,Economy
+1356,3,Shopping House
+1356,4,Shopping Computer
+1356,5,Shopping Car
+1357,1,Baseball
+1357,2,Shopping Software
+1357,3,Software
+1357,4,Job
+1358,1,Hockey
+1358,2,Job
+1359,1,Internet
+1359,2,Telecom
+1359,3,Movie
+1359,4,Radio
+1360,1,News North America
+1360,2,News Europe
+1360,3,Loan
+1360,4,Yellow Page
+1360,5,Research and Science
+1361,1,Pets
+1361,2,Game
+1361,3,Community
+1361,4,Chat
+1361,5,Car rental
+1361,6,Pets
+1361,7,Game
+1362,1,News North America
+1362,2,News North America
+1362,3,Football
+1362,4,Football
+1362,5,Football
+1362,6,Baseball
+1362,7,Basketball
+1363,1,Flight
+1363,2,Flight
+1363,3,Flight
+1363,4,Flight
+1363,5,Hotel
+1364,1,Broker
+1364,2,Financial news
+1364,3,Stock quotes
+1364,4,Car rental
+1364,5,Football
+1364,6,Map
+1365,1,News Local
+1365,2,News Europe
+1365,3,Calendar
+1365,4,Small business
+1365,5,News Local
+1365,6,Internet
+1365,7,Telecom
+1365,8,Wireless
+1366,1,News Europe
+1366,2,Football
+1367,1,Shopping House
+1367,2,Shopping House
+1367,3,Insurance
+1367,4,Loan
+1367,5,Loan
+1368,1,City info
+1368,2,Shopping Car
+1368,3,City info
+1368,4,Shopping Car
+1369,1,Hotel
+1369,2,Flight
+1369,3,Hotel
+1369,4,Music
+1369,5,Shopping Music
+1370,1,Shopping Book
+1370,2,Football
+1370,3,Medicine
+1370,4,Vacation
+1370,5,City info
+1371,1,Music
+1371,2,Shopping Music
+1371,3,Movie
+1372,1,News Europe
+1372,2,News Europe
+1372,3,News Europe
+1372,4,Football
+1372,5,Football
+1373,1,Broker
+1373,2,City info
+1373,3,Financial news
+1373,4,Stock quotes
+1374,1,Music
+1374,2,Music
+1374,3,Music
+1374,4,Shopping Music
+1374,5,Movie
+1375,1,Shopping Computer
+1375,2,Shopping Electronics
+1376,1,Music
+1376,2,Music
+1376,3,Music
+1376,4,Shopping Music
+1376,5,Movie
+1376,6,Movie
+1376,7,Movie
+1377,1,Diet
+1377,2,Medicine
+1377,3,Soccer
+1377,4,Baseball
+1377,5,Shopping Computer
+1377,6,Shopping Electronics
+1377,7,Baseball
+1377,8,Basketball
+1377,9,Map
+1377,10,Car rental
+1378,1,Shopping Computer
+1378,2,Shopping Electronics
+1379,1,News North America
+1379,2,Football
+1379,3,Football
+1379,4,Baseball
+1379,5,Basketball
+1380,1,Music
+1380,2,Shopping Music
+1380,3,Shopping Music
+1380,4,Movie
+1381,1,Shopping House
+1381,2,Shopping Book
+1381,3,Football
+1381,4,Job
+1381,5,Financial news
+1382,1,News Europe
+1382,2,News Europe
+1382,3,Football
+1383,1,News North America
+1383,2,News North America
+1383,3,News North America
+1383,4,News North America
+1383,5,News North America
+1383,6,News North America
+1383,7,News North America
+1383,8,News North America
+1383,9,News North America
+1384,1,Pets
+1384,2,Job
+1384,3,Shopping Game
+1384,4,Software
+1384,5,Job
+1385,1,Music
+1385,2,Chat
+1385,3,Health
+1386,1,News North America
+1386,2,Football
+1386,3,Football
+1386,4,Football
+1386,5,Football
+1386,6,Baseball
+1386,7,Basketball
+1387,1,Game
+1387,2,Shopping Game
+1388,1,News North America
+1388,2,Weather
+1389,1,Game
+1389,2,Tennis
+1390,1,News North America
+1390,2,News North America
+1390,3,News North America
+1390,4,News North America
+1390,5,Football
+1390,6,Football
+1390,7,Baseball
+1390,8,Baseball
+1390,9,Baseball
+1390,10,Baseball
+1390,11,Baseball
+1390,12,Basketball
+1391,1,Shopping Electronics
+1391,2,Insurance
+1391,3,Medicine
+1391,4,Health
+1391,5,Stock quotes
+1391,6,Hotel
+1391,7,Map
+1392,1,Flight
+1392,2,Flight
+1392,3,Hotel
+1393,1,News North America
+1393,2,Football
+1393,3,Football
+1393,4,Baseball
+1393,5,Baseball
+1393,6,Basketball
+1394,1,Flight
+1394,2,Flight
+1394,3,Hotel
+1395,1,Flight
+1395,2,Tax
+1395,3,Shopping Car
+1395,4,Car rental
+1395,5,Cruises
+1396,1,News North America
+1396,2,Weather
+1396,3,Weather
+1397,1,Weather
+1398,1,News Europe
+1398,2,News Europe
+1398,3,News Europe
+1398,4,Football
+1398,5,Football
+1398,6,Football
+1399,1,Car rental
+1399,2,Medicine
+1399,3,Kits
+1400,1,City info
+1400,2,Internet
+1400,3,Telecom
+1400,4,Shopping House
+1401,1,News North America
+1401,2,Weather
+1402,1,Shopping House
+1402,2,Insurance
+1402,3,Loan
+1402,4,Loan
+1403,1,Shopping Book
+1403,2,Calendar
+1403,3,Music
+1403,4,Shopping Music
+1404,1,Kits
+1404,2,Wireless
+1404,3,Software
+1404,4,Kits
+1405,1,News Asia
+1405,2,News Australia
+1405,3,Soccer
+1405,4,Economy
+1405,5,Companies
+1405,6,Pets
+1405,7,Game
+1405,8,Shopping Car
+1406,1,Pets
+1406,2,Game
+1406,3,Music
+1406,4,Shopping Music
+1407,1,Weather
+1407,2,Weather
+1408,1,Music
+1408,2,Music
+1408,3,Shopping Music
+1408,4,Movie
+1408,5,Movie
+1409,1,Shopping Computer
+1409,2,Shopping Electronics
+1409,3,Shopping Electronics
+1410,1,Weather
+1410,2,Broker
+1410,3,Music
+1410,4,Shopping Car
+1410,5,Shopping House
+1410,6,Tax
+1410,7,Shopping Software
+1411,1,Flight
+1411,2,Flight
+1411,3,Flight
+1411,4,Hotel
+1412,1,OutDoor
+1412,2,Email
+1412,3,Yellow Page
+1412,4,Research and Science
+1412,5,Game
+1413,1,News Australia
+1413,2,News Local
+1413,3,Radio
+1413,4,Loan
+1413,5,Yellow Page
+1414,1,Weather
+1414,2,Weather
+1414,3,Weather
+1414,4,Weather
+1414,5,Weather
+1414,6,Weather
+1415,1,Hotel
+1415,2,Map
+1415,3,Telecom
+1415,4,Wireless
+1415,5,Yellow Page
+1415,6,Research and Science
+1416,1,Cruises
+1416,2,Music
+1416,3,Broker
+1416,4,Tax
+1417,1,Shopping Computer
+1417,2,Shopping Electronics
+1417,3,Shopping Electronics
+1418,1,News Europe
+1418,2,Shopping Music
+1419,1,Music
+1419,2,Shopping Music
+1419,3,Movie
+1419,4,Movie
+1420,1,Health
+1420,2,Medicine
+1421,1,Software
+1421,2,News Australia
+1421,3,Shopping Game
+1422,1,Shopping Book
+1422,2,Yellow Page
+1422,3,Companies
+1422,4,Wall Street
+1423,1,Shopping Computer
+1423,2,Shopping Electronics
+1424,1,Hockey
+1424,2,OutDoor
+1424,3,Tax
+1425,1,Shopping Computer
+1425,2,Shopping Electronics
+1425,3,Shopping Electronics
+1426,1,OutDoor
+1426,2,Chat
+1426,3,Health
+1426,4,Economy
+1426,5,Download
+1426,6,Flight
+1427,1,News North America
+1427,2,News North America
+1427,3,Football
+1427,4,Baseball
+1427,5,Baseball
+1427,6,Basketball
+1428,1,Music
+1428,2,Shopping Music
+1428,3,Movie
+1429,1,Shopping Computer
+1429,2,Shopping Electronics
+1430,1,Shopping House
+1430,2,Shopping House
+1430,3,Insurance
+1430,4,Loan
+1431,1,Hotel
+1431,2,Map
+1431,3,Insurance
+1431,4,Loan
+1431,5,Download
+1431,6,Flight
+1431,7,News Europe
+1432,1,Shopping Computer
+1432,2,Shopping Computer
+1432,3,Shopping Electronics
+1433,1,Health
+1433,2,Diet
+1433,3,Pets
+1433,4,Game
+1433,5,Community
+1433,6,Calendar
+1433,7,News Australia
+1433,8,News Local
+1434,1,Weather
+1434,2,Weather
+1435,1,News North America
+1435,2,News North America
+1435,3,News North America
+1435,4,News North America
+1435,5,News North America
+1435,6,News North America
+1436,1,Shopping Car
+1436,2,Shopping House
+1436,3,Diet
+1436,4,Medicine
+1436,5,Baseball
+1436,6,Basketball
+1437,1,News North America
+1437,2,Football
+1437,3,Football
+1437,4,Baseball
+1437,5,Baseball
+1437,6,Basketball
+1438,1,News North America
+1438,2,News North America
+1438,3,Weather
+1439,1,News North America
+1439,2,Football
+1439,3,Baseball
+1439,4,Basketball
+1439,5,Basketball
+1439,6,Basketball
+1439,7,Basketball
+1440,1,Flight
+1440,2,Flight
+1440,3,Flight
+1440,4,Flight
+1440,5,Flight
+1440,6,Hotel
+1441,1,Shopping House
+1441,2,Insurance
+1441,3,Loan
+1442,1,Flight
+1442,2,Hotel
+1443,1,Research and Science
+1443,2,Flight
+1443,3,Hotel
+1444,1,Music
+1444,2,Music
+1444,3,Shopping Music
+1444,4,Shopping Music
+1444,5,Movie
+1445,1,Health
+1445,2,Medicine
+1446,1,News North America
+1446,2,Football
+1446,3,Baseball
+1446,4,Basketball
+1447,1,Flight
+1448,1,News Local
+1448,2,Internet
+1448,3,Telecom
+1449,1,News Europe
+1449,2,Football
+1450,1,Weather
+1450,2,Weather
+1450,3,Weather
+1450,4,Weather
+1451,1,Kits
+1451,2,Relationship
+1451,3,Radio
+1451,4,Calendar
+1452,1,Shopping Computer
+1452,2,Shopping Electronics
+1452,3,Shopping Electronics
+1452,4,Shopping Electronics
+1453,1,Shopping Computer
+1453,2,Shopping Computer
+1453,3,Shopping Computer
+1453,4,Shopping Computer
+1453,5,Shopping Electronics
+1453,6,Shopping Electronics
+1454,1,Shopping House
+1454,2,Insurance
+1454,3,Loan
+1455,1,Shopping Car
+1456,1,News North America
+1456,2,News North America
+1456,3,Weather
+1456,4,Weather
+1457,1,Flight
+1457,2,Flight
+1457,3,Hotel
+1457,4,Hotel
+1458,1,Flight
+1458,2,Flight
+1458,3,Hotel
+1459,1,News North America
+1459,2,Football
+1459,3,Baseball
+1459,4,Baseball
+1459,5,Baseball
+1459,6,Basketball
+1460,1,Flight
+1460,2,Flight
+1460,3,Hotel
+1461,1,Insurance
+1461,2,Loan
+1461,3,News Asia
+1461,4,Shopping Software
+1461,5,Shopping Book
+1461,6,OutDoor
+1462,1,Flight
+1462,2,Hotel
+1462,3,Hotel
+1462,4,Hotel
+1462,5,Hotel
+1463,1,Health
+1463,2,Diet
+1463,3,Tennis
+1463,4,Hockey
+1463,5,City info
+1463,6,Shopping Car
+1464,1,Economy
+1464,2,Shopping Music
+1464,3,Movie
+1465,1,Flight
+1465,2,Hotel
+1466,1,Life
+1466,2,City info
+1466,3,Shopping Car
+1466,4,Map
+1467,1,News Asia
+1467,2,Email
+1467,3,Community
+1467,4,Car rental
+1467,5,Cruises
+1467,6,Hockey
+1467,7,OutDoor
+1467,8,Shopping Car
+1468,1,Shopping House
+1468,2,Insurance
+1468,3,Loan
+1468,4,Loan
+1469,1,Health
+1469,2,Download
+1469,3,Flight
+1469,4,Software
+1469,5,Job
+1469,6,Movie
+1469,7,City info
+1470,1,Music
+1470,2,Shopping Music
+1470,3,Shopping Music
+1470,4,Movie
+1470,5,Movie
+1471,1,Music
+1471,2,Shopping Music
+1471,3,Movie
+1471,4,Movie
+1471,5,Movie
+1472,1,Flight
+1472,2,Hotel
+1473,1,Basketball
+1473,2,News North America
+1473,3,Game
+1474,1,Radio
+1474,2,Flight
+1474,3,Hotel
+1475,1,News North America
+1475,2,News North America
+1475,3,News North America
+1475,4,News North America
+1475,5,Weather
+1475,6,Weather
+1476,1,News Europe
+1476,2,News Europe
+1476,3,Football
+1476,4,Football
+1477,1,News North America
+1477,2,News North America
+1477,3,News North America
+1477,4,News North America
+1477,5,News North America
+1477,6,News North America
+1477,7,Weather
+1478,1,Shopping House
+1478,2,Insurance
+1478,3,Insurance
+1478,4,Insurance
+1478,5,Loan
+1479,1,Shopping Software
+1479,2,Shopping Book
+1480,1,Download
+1480,2,Flight
+1480,3,Soccer
+1480,4,Baseball
+1480,5,Baseball
+1481,1,News North America
+1481,2,Football
+1481,3,Football
+1481,4,Baseball
+1481,5,Basketball
+1481,6,Basketball
+1481,7,Basketball
+1482,1,Car rental
+1482,2,Cruises
+1482,3,Job
+1483,1,Job
+1483,2,Financial news
+1483,3,News Local
+1483,4,Internet
+1483,5,Relationship
+1483,6,Shopping Game
+1484,1,Flight
+1484,2,Hotel
+1484,3,Hotel
+1485,1,Weather
+1485,2,Weather
+1485,3,Weather
+1486,1,Flight
+1486,2,Hotel
+1486,3,Hotel
+1487,1,Broker
+1487,2,Tax
+1487,3,Health
+1487,4,Diet
+1487,5,Loan
+1488,1,Job
+1488,2,Financial news
+1488,3,Cruises
+1488,4,Yellow Page
+1489,1,Shopping Computer
+1489,2,Shopping Electronics
+1490,1,Greeting Cards
+1490,2,Calendar
+1490,3,Radio
+1490,4,Life
+1490,5,Cruises
+1491,1,Health
+1491,2,Medicine
+1492,1,Health
+1492,2,Health
+1492,3,Health
+1492,4,Medicine
+1493,1,News Europe
+1493,2,Football
+1494,1,News Europe
+1494,2,Football
+1495,1,Wall Street
+1495,2,Telecom
+1495,3,Kits
+1495,4,News Australia
+1496,1,Wireless
+1496,2,Basketball
+1496,3,Greeting Cards
+1496,4,City info
+1496,5,Shopping Car
+1497,1,Shopping Computer
+1497,2,Shopping Electronics
+1498,1,News Europe
+1498,2,Stock quotes
+1498,3,Business
+1498,4,Music
+1498,5,News Australia
+1498,6,News Local
+1499,1,News North America
+1499,2,Football
+1499,3,Football
+1499,4,Baseball
+1499,5,Basketball
+1500,1,Music
+1500,2,News Local
+1500,3,Internet
+1501,1,Radio
+1501,2,Life
+1502,1,Shopping Car
+1502,2,Shopping House
+1502,3,Community
+1503,1,News North America
+1503,2,News North America
+1503,3,Weather
+1504,1,News North America
+1504,2,News North America
+1504,3,News North America
+1504,4,News North America
+1505,1,Flight
+1505,2,Flight
+1505,3,Hotel
+1506,1,Greeting Cards
+1506,2,Game
+1506,3,Research and Science
+1506,4,Weather
+1507,1,Shopping Game
+1507,2,Shopping House
+1508,1,Financial news
+1508,2,Diet
+1508,3,Medicine
+1508,4,Kits
+1508,5,Kits
+1509,1,Health
+1509,2,Medicine
+1510,1,Shopping House
+1511,1,Baseball
+1511,2,Football
+1512,1,Map
+1513,1,News Australia
+1513,2,Shopping Game
+1513,3,Music
+1513,4,Software
+1513,5,Medicine
+1514,1,Loan
+1514,2,Tax
+1514,3,Shopping Software
+1514,4,Car rental
+1515,1,Shopping House
+1515,2,Insurance
+1515,3,Loan
+1515,4,Loan
+1516,1,Weather
+1516,2,Weather
+1516,3,Weather
+1516,4,Weather
+1516,5,Weather
+1516,6,Weather
+1516,7,Weather
+1516,8,Weather
+1516,9,Weather
+1517,1,Game
+1517,2,Shopping Game
+1517,3,Diet
+1517,4,Medicine
+1517,5,Loan
+1517,6,Broker
+1517,7,Tax
+1518,1,Weather
+1518,2,Weather
+1518,3,Weather
+1518,4,Weather
+1519,1,News Local
+1520,1,Calendar
+1520,2,Small business
+1520,3,Download
+1521,1,News North America
+1521,2,News North America
+1521,3,News North America
+1521,4,Weather
+1521,5,Weather
+1522,1,Wall Street
+1522,2,Broker
+1522,3,News Local
+1522,4,Diet
+1523,1,News Europe
+1523,2,News Europe
+1523,3,News Europe
+1523,4,Football
+1524,1,Calendar
+1524,2,Small business
+1524,3,Greeting Cards
+1524,4,Calendar
+1525,1,Baseball
+1525,2,Basketball
+1525,3,Flight
+1525,4,Download
+1525,5,Flight
+1526,1,Flight
+1526,2,Shopping Game
+1527,1,Weather
+1527,2,Weather
+1527,3,Weather
+1527,4,Weather
+1527,5,Weather
+1528,1,Health
+1528,2,Health
+1528,3,Medicine
+1528,4,Medicine
+1529,1,Music
+1529,2,Shopping Music
+1529,3,Movie
+1530,1,Greeting Cards
+1531,1,Community
+1531,2,Relationship
+1531,3,Kits
+1531,4,Chat
+1531,5,Health
+1532,1,News North America
+1532,2,News North America
+1532,3,News North America
+1532,4,News North America
+1532,5,News North America
+1532,6,Weather
+1533,1,News Europe
+1533,2,News Australia
+1533,3,News Local
+1533,4,Football
+1533,5,Soccer
+1534,1,Health
+1534,2,Medicine
+1534,3,Medicine
+1535,1,Telecom
+1535,2,Wireless
+1535,3,City info
+1535,4,Shopping Car
+1535,5,OutDoor
+1536,1,Health
+1536,2,Health
+1536,3,Medicine
+1536,4,Medicine
+1536,5,Medicine
+1537,1,News North America
+1537,2,Kits
+1538,1,News North America
+1538,2,Football
+1538,3,Baseball
+1538,4,Baseball
+1538,5,Baseball
+1538,6,Baseball
+1538,7,Baseball
+1538,8,Basketball
+1539,1,Weather
+1539,2,Weather
+1539,3,Weather
+1539,4,Weather
+1540,1,Health
+1540,2,Medicine
+1541,1,Research and Science
+1541,2,Research and Science
+1541,3,Weather
+1541,4,Tax
+1541,5,Relationship
+1541,6,Pets
+1542,1,Health
+1542,2,Medicine
+1543,1,Flight
+1543,2,Hotel
+1544,1,Flight
+1544,2,Hotel
+1545,1,News North America
+1545,2,Football
+1545,3,Baseball
+1545,4,Basketball
+1546,1,Weather
+1546,2,Weather
+1546,3,Weather
+1546,4,Weather
+1547,1,Health
+1547,2,Medicine
+1548,1,Shopping Software
+1548,2,Pets
+1549,1,Music
+1549,2,Shopping Music
+1549,3,Shopping Music
+1549,4,Shopping Music
+1549,5,Shopping Music
+1549,6,Movie
+1550,1,Shopping Music
+1550,2,Shopping Game
+1550,3,Music
+1550,4,Internet
+1551,1,Stock quotes
+1551,2,Download
+1551,3,Flight
+1551,4,Internet
+1551,5,Shopping Book
+1552,1,News North America
+1552,2,Football
+1552,3,Football
+1552,4,Baseball
+1552,5,Baseball
+1552,6,Basketball
+1552,7,Basketball
+1552,8,Basketball
+1553,1,Flight
+1553,2,Hotel
+1554,1,News North America
+1554,2,Football
+1554,3,Baseball
+1554,4,Baseball
+1554,5,Basketball
+1555,1,Music
+1555,2,Shopping Music
+1555,3,Wireless
+1555,4,Shopping Computer
+1555,5,Shopping Music
+1555,6,Movie
+1555,7,Telecom
+1556,1,News North America
+1556,2,News North America
+1556,3,News North America
+1556,4,Football
+1556,5,Baseball
+1556,6,Baseball
+1556,7,Baseball
+1556,8,Baseball
+1556,9,Baseball
+1556,10,Basketball
+1556,11,Basketball
+1557,1,News North America
+1557,2,News North America
+1557,3,Weather
+1558,1,News North America
+1558,2,News North America
+1558,3,Weather
+1558,4,Weather
+1559,1,Chat
+1559,2,Community
+1559,3,Chat
+1559,4,Relationship
+1559,5,News Asia
+1560,1,Weather
+1560,2,Weather
+1560,3,Weather
+1560,4,Weather
+1560,5,Weather
+1560,6,Weather
+1560,7,Weather
+1560,8,Weather
+1560,9,Weather
+1560,10,Weather
+1560,11,Weather
+1560,12,Weather
+1560,13,Weather
+1560,14,Weather
+1560,15,Weather
+1560,16,Weather
+1560,17,Weather
+1560,18,Weather
+1561,1,Kits
+1561,2,Relationship
+1561,3,Wireless
+1561,4,Software
+1562,1,Music
+1562,2,Music
+1562,3,Shopping Music
+1562,4,Movie
+1562,5,Movie
+1562,6,Movie
+1563,1,News North America
+1563,2,Weather
+1563,3,Weather
+1563,4,Weather
+1564,1,Health
+1564,2,Medicine
+1565,1,Yellow Page
+1565,2,Calendar
+1565,3,Basketball
+1565,4,Cruises
+1565,5,Vacation
+1566,1,Shopping Electronics
+1566,2,Shopping Electronics
+1566,3,Insurance
+1566,4,Health
+1566,5,Kits
+1566,6,Relationship
+1566,7,Financial news
+1566,8,Stock quotes
+1567,1,Tax
+1567,2,Wall Street
+1567,3,Broker
+1568,1,News North America
+1568,2,News North America
+1568,3,News North America
+1568,4,News North America
+1568,5,Weather
+1568,6,Weather
+1569,1,Flight
+1569,2,Flight
+1569,3,Flight
+1569,4,Hotel
+1569,5,Hotel
+1570,1,News Local
+1570,2,Weather
+1570,3,Download
+1570,4,Calendar
+1570,5,Yellow Page
+1570,6,Weather
+1571,1,Health
+1571,2,Health
+1571,3,Health
+1571,4,Medicine
+1572,1,Car rental
+1572,2,Greeting Cards
+1572,3,Calendar
+1573,1,Kits
+1574,1,Shopping Software
+1574,2,Tax
+1574,3,Shopping Software
+1574,4,Email
+1574,5,Community
+1575,1,Flight
+1575,2,Flight
+1575,3,Hotel
+1576,1,Map
+1576,2,Wireless
+1576,3,Music
+1577,1,Community
+1577,2,Chat
+1577,3,Car rental
+1577,4,Health
+1578,1,Flight
+1578,2,Hotel
+1579,1,Flight
+1579,2,Hotel
+1580,1,Shopping House
+1580,2,Broker
+1580,3,News Asia
+1580,4,Shopping Software
+1580,5,Shopping Book
+1580,6,Car rental
+1581,1,Vacation
+1581,2,City info
+1581,3,Loan
+1581,4,Yellow Page
+1581,5,Cruises
+1582,1,Telecom
+1582,2,Basketball
+1583,1,Companies
+1583,2,Shopping Electronics
+1583,3,Insurance
+1583,4,Pets
+1583,5,Game
+1584,1,News Europe
+1584,2,News Europe
+1584,3,News Europe
+1584,4,Football
+1585,1,News Europe
+1585,2,News Europe
+1585,3,News Europe
+1585,4,News Europe
+1585,5,News Europe
+1585,6,Football
+1586,1,News North America
+1586,2,Weather
+1587,1,Financial news
+1587,2,Game
+1587,3,Shopping Game
+1588,1,News North America
+1588,2,News North America
+1588,3,Weather
+1589,1,News North America
+1589,2,News North America
+1589,3,News North America
+1589,4,News North America
+1589,5,News North America
+1589,6,Weather
+1590,1,Tax
+1590,2,Shopping Software
+1590,3,Relationship
+1591,1,Weather
+1591,2,Weather
+1591,3,Weather
+1591,4,Weather
+1591,5,Weather
+1591,6,Weather
+1591,7,Weather
+1591,8,Weather
+1591,9,Weather
+1591,10,Weather
+1591,11,Weather
+1592,1,News North America
+1592,2,News North America
+1592,3,News North America
+1592,4,Football
+1592,5,Baseball
+1592,6,Baseball
+1592,7,Baseball
+1592,8,Baseball
+1592,9,Basketball
+1592,10,Basketball
+1592,11,Basketball
+1593,1,Shopping Music
+1593,2,Movie
+1594,1,News North America
+1594,2,Weather
+1594,3,Weather
+1594,4,Weather
+1594,5,Weather
+1594,6,Weather
+1594,7,Weather
+1595,1,Job
+1595,2,Financial news
+1595,3,Radio
+1596,1,Telecom
+1596,2,Health
+1596,3,Diet
+1597,1,Shopping House
+1597,2,Insurance
+1597,3,Insurance
+1597,4,Loan
+1598,1,Music
+1598,2,Shopping Music
+1598,3,Shopping Music
+1598,4,Movie
+1599,1,Shopping Computer
+1599,2,Shopping Electronics
+1600,1,Health
+1600,2,Medicine
+1601,1,News North America
+1601,2,News North America
+1601,3,News North America
+1601,4,News North America
+1601,5,News North America
+1601,6,Weather
+1602,1,Shopping Computer
+1602,2,Shopping Computer
+1602,3,Shopping Electronics
+1603,1,Weather
+1603,2,Weather
+1604,1,News North America
+1604,2,News North America
+1604,3,Football
+1604,4,Baseball
+1604,5,Basketball
+1605,1,News North America
+1605,2,Football
+1605,3,Baseball
+1605,4,Baseball
+1605,5,Baseball
+1605,6,Basketball
+1605,7,Basketball
+1606,1,Flight
+1606,2,Hotel
+1607,1,Flight
+1607,2,Hotel
+1608,1,Movie
+1608,2,Radio
+1608,3,Chat
+1608,4,Health
+1609,1,Health
+1609,2,Medicine
+1610,1,News North America
+1610,2,News North America
+1611,1,Flight
+1611,2,Hotel
+1611,3,Hotel
+1612,1,News Europe
+1613,1,News North America
+1613,2,Weather
+1614,1,News North America
+1614,2,News North America
+1614,3,News North America
+1614,4,News North America
+1615,1,Flight
+1615,2,Community
+1615,3,Chat
+1615,4,Shopping Game
+1616,1,News North America
+1616,2,Football
+1616,3,Baseball
+1616,4,Basketball
+1617,1,News North America
+1617,2,News North America
+1617,3,News North America
+1617,4,News North America
+1617,5,News North America
+1617,6,News North America
+1617,7,Weather
+1618,1,News North America
+1618,2,News North America
+1618,3,News North America
+1618,4,News North America
+1618,5,News North America
+1618,6,Weather
+1619,1,Weather
+1619,2,Weather
+1620,1,Hockey
+1620,2,OutDoor
+1620,3,Companies
+1620,4,Wall Street
+1621,1,Music
+1621,2,Music
+1621,3,Shopping Music
+1621,4,Shopping Music
+1621,5,Movie
+1621,6,Movie
+1621,7,Movie
+1621,8,Movie
+1621,9,Movie
+1622,1,Flight
+1622,2,Flight
+1622,3,Hotel
+1623,1,News Europe
+1623,2,News Europe
+1623,3,Football
+1624,1,Flight
+1624,2,Hotel
+1624,3,Hotel
+1624,4,Hotel
+1624,5,Hotel
+1624,6,Hotel
+1625,1,Download
+1625,2,City info
+1625,3,Shopping Car
+1625,4,Shopping Music
+1626,1,Health
+1626,2,Health
+1626,3,Health
+1626,4,Medicine
+1627,1,Health
+1627,2,Research and Science
+1627,3,Music
+1627,4,Shopping Music
+1628,1,Music
+1628,2,Music
+1628,3,Music
+1628,4,Shopping Music
+1628,5,Movie
+1628,6,Movie
+1628,7,Movie
+1629,1,Medicine
+1629,2,Kits
+1629,3,Shopping Software
+1629,4,Shopping Book
+1629,5,Weather
+1629,6,Shopping Electronics
+1629,7,Insurance
+1630,1,Health
+1630,2,Medicine
+1631,1,Flight
+1631,2,Hotel
+1632,1,News North America
+1632,2,Football
+1632,3,Football
+1632,4,Football
+1632,5,Baseball
+1632,6,Baseball
+1632,7,Baseball
+1632,8,Baseball
+1632,9,Baseball
+1632,10,Baseball
+1632,11,Baseball
+1632,12,Baseball
+1632,13,Baseball
+1632,14,Baseball
+1632,15,Basketball
+1632,16,Basketball
+1632,17,Basketball
+1633,1,Hockey
+1633,2,OutDoor
+1633,3,Job
+1633,4,Stock quotes
+1633,5,Business
+1634,1,News North America
+1634,2,News North America
+1634,3,Weather
+1635,1,News North America
+1635,2,News North America
+1635,3,News North America
+1635,4,News North America
+1635,5,News North America
+1635,6,Weather
+1635,7,Weather
+1635,8,Weather
+1636,1,Basketball
+1637,1,News North America
+1637,2,News North America
+1637,3,News North America
+1637,4,News North America
+1637,5,News North America
+1637,6,Weather
+1637,7,Weather
+1638,1,Weather
+1638,2,Weather
+1638,3,Weather
+1638,4,Weather
+1639,1,Wireless
+1639,2,Chat
+1639,3,Health
+1639,4,Financial news
+1639,5,Companies
+1639,6,Wall Street
+1640,1,Research and Science
+1640,2,Weather
+1640,3,Baseball
+1640,4,Companies
+1640,5,Wall Street
+1641,1,Game
+1641,2,News Australia
+1641,3,Download
+1641,4,Flight
+1642,1,News North America
+1642,2,News North America
+1642,3,Football
+1642,4,Baseball
+1642,5,Basketball
+1643,1,Job
+1643,2,Financial news
+1644,1,News Europe
+1644,2,Football
+1644,3,Football
+1645,1,Music
+1645,2,Shopping Music
+1645,3,Movie
+1645,4,Movie
+1646,1,Wireless
+1647,1,Flight
+1647,2,Hotel
+1648,1,Flight
+1648,2,Hotel
+1649,1,News North America
+1649,2,Football
+1649,3,Baseball
+1649,4,Basketball
+1650,1,Chat
+1650,2,Stock quotes
+1650,3,Business
+1651,1,News Europe
+1651,2,News Europe
+1651,3,News Europe
+1651,4,News Europe
+1651,5,News Europe
+1651,6,News Europe
+1651,7,Football
+1651,8,Football
+1651,9,Football
+1651,10,Football
+1651,11,Football
+1651,12,Football
+1652,1,News Europe
+1652,2,Football
+1653,1,Flight
+1653,2,Hotel
+1654,1,Health
+1654,2,Medicine
+1655,1,Music
+1655,2,Music
+1655,3,Shopping Music
+1655,4,Movie
+1655,5,Movie
+1655,6,Movie
+1656,1,News North America
+1656,2,Football
+1656,3,Football
+1656,4,Baseball
+1656,5,Basketball
+1656,6,Basketball
+1657,1,Weather
+1658,1,News Europe
+1658,2,Shopping Computer
+1658,3,Software
+1658,4,Job
+1658,5,Download
+1658,6,Game
+1659,1,News North America
+1659,2,Football
+1659,3,Football
+1659,4,Baseball
+1659,5,Baseball
+1659,6,Basketball
+1660,1,Flight
+1660,2,Flight
+1660,3,Flight
+1660,4,Hotel
+1660,5,Hotel
+1661,1,News North America
+1661,2,News North America
+1661,3,Football
+1661,4,Baseball
+1661,5,Basketball
+1661,6,Basketball
+1661,7,Basketball
+1661,8,Basketball
+1661,9,Basketball
+1662,1,Music
+1662,2,Shopping Music
+1662,3,Movie
+1662,4,Movie
+1663,1,Weather
+1664,1,Flight
+1664,2,Hotel
+1665,1,News North America
+1665,2,News North America
+1665,3,News North America
+1665,4,News North America
+1665,5,News North America
+1665,6,News North America
+1665,7,News North America
+1665,8,Weather
+1665,9,Weather
+1666,1,News North America
+1666,2,News North America
+1666,3,Weather
+1666,4,Weather
+1667,1,News North America
+1667,2,News North America
+1667,3,News North America
+1667,4,News North America
+1667,5,News North America
+1667,6,Football
+1667,7,Baseball
+1667,8,Baseball
+1667,9,Basketball
+1668,1,News North America
+1668,2,News North America
+1668,3,News North America
+1668,4,News North America
+1668,5,News North America
+1668,6,News North America
+1668,7,Weather
+1668,8,Weather
+1669,1,News North America
+1669,2,News North America
+1669,3,News North America
+1669,4,News North America
+1669,5,News North America
+1669,6,News North America
+1669,7,Weather
+1670,1,Music
+1670,2,Shopping Music
+1670,3,Movie
+1671,1,Basketball
+1671,2,Software
+1671,3,Job
+1672,1,Shopping House
+1672,2,Shopping House
+1672,3,Shopping House
+1672,4,Insurance
+1672,5,Loan
+1672,6,Loan
+1672,7,Loan
+1673,1,News North America
+1673,2,Football
+1673,3,Football
+1673,4,Baseball
+1673,5,Baseball
+1673,6,Baseball
+1673,7,Baseball
+1673,8,Baseball
+1673,9,Baseball
+1673,10,Basketball
+1673,11,Basketball
+1674,1,News North America
+1674,2,Football
+1674,3,Baseball
+1674,4,Baseball
+1674,5,Baseball
+1674,6,Baseball
+1674,7,Basketball
+1674,8,Basketball
+1674,9,Basketball
+1675,1,News North America
+1675,2,News North America
+1675,3,News North America
+1675,4,News North America
+1675,5,News North America
+1675,6,Weather
+1675,7,Weather
+1676,1,Shopping Computer
+1676,2,Shopping Computer
+1676,3,Shopping Computer
+1676,4,Shopping Electronics
+1677,1,News Europe
+1677,2,Football
+1678,1,News North America
+1678,2,News North America
+1678,3,News North America
+1678,4,News North America
+1678,5,Football
+1678,6,Baseball
+1678,7,Basketball
+1679,1,Flight
+1679,2,Hotel
+1680,1,News North America
+1680,2,News North America
+1680,3,Weather
+1680,4,Weather
+1680,5,Weather
+1681,1,Shopping Computer
+1681,2,Shopping Computer
+1681,3,Shopping Electronics
+1681,4,Shopping Electronics
+1682,1,Shopping House
+1682,2,Insurance
+1682,3,Loan
+1682,4,Loan
+1683,1,Health
+1683,2,Medicine
+1684,1,Baseball
+1684,2,Basketball
+1684,3,Hockey
+1685,1,Baseball
+1685,2,Basketball
+1685,3,Telecom
+1685,4,Broker
+1685,5,Community
+1685,6,Chat
+1685,7,Life
+1686,1,Shopping Computer
+1686,2,Shopping Computer
+1686,3,Shopping Electronics
+1687,1,Shopping Book
+1687,2,Shopping Game
+1687,3,Music
+1687,4,Shopping House
+1687,5,Shopping Computer
+1687,6,Vacation
+1687,7,City info
+1688,1,Movie
+1688,2,Radio
+1688,3,News Europe
+1688,4,News Asia
+1688,5,Hockey
+1688,6,OutDoor
+1689,1,News Europe
+1689,2,News Europe
+1689,3,Football
+1690,1,Music
+1690,2,Job
+1690,3,Financial news
+1690,4,Baseball
+1690,5,Companies
+1691,1,Flight
+1691,2,Flight
+1691,3,Flight
+1691,4,Flight
+1691,5,Flight
+1691,6,Hotel
+1692,1,Health
+1692,2,Medicine
+1693,1,Life
+1693,2,City info
+1693,3,Shopping Car
+1693,4,Shopping Music
+1694,1,News North America
+1694,2,News North America
+1694,3,News North America
+1694,4,News North America
+1694,5,News North America
+1694,6,News North America
+1695,1,News North America
+1695,2,Football
+1695,3,Baseball
+1695,4,Baseball
+1695,5,Baseball
+1695,6,Baseball
+1695,7,Baseball
+1695,8,Basketball
+1695,9,Basketball
+1695,10,Basketball
+1696,1,News North America
+1696,2,News North America
+1696,3,News North America
+1696,4,Weather
+1696,5,Weather
+1697,1,Flight
+1697,2,Hotel
+1697,3,Hotel
+1698,1,Health
+1698,2,Medicine
+1699,1,Music
+1699,2,Tennis
+1699,3,News Australia
+1699,4,Flight
+1700,1,Vacation
+1700,2,City info
+1700,3,Life
+1700,4,Greeting Cards
+1700,5,Football
+1701,1,Shopping Game
+1702,1,News Europe
+1702,2,News Europe
+1702,3,Football
+1702,4,Football
+1703,1,Shopping House
+1703,2,Insurance
+1703,3,Loan
+1704,1,Greeting Cards
+1704,2,Tennis
+1704,3,Wireless
+1704,4,Software
+1705,1,News North America
+1705,2,News North America
+1705,3,Football
+1705,4,Football
+1705,5,Football
+1705,6,Baseball
+1705,7,Basketball
+1706,1,Telecom
+1706,2,Research and Science
+1706,3,Chat
+1706,4,City info
+1706,5,Shopping Car
+1707,1,Music
+1707,2,Shopping Music
+1707,3,Movie
+1708,1,Shopping Car
+1708,2,Shopping House
+1708,3,Shopping Book
+1708,4,Football
+1708,5,City info
+1709,1,OutDoor
+1709,2,Flight
+1710,1,Small business
+1710,2,Download
+1710,3,Broker
+1710,4,Tax
+1711,1,News Europe
+1711,2,News Europe
+1711,3,News Europe
+1711,4,News Europe
+1711,5,Football
+1711,6,Football
+1711,7,Football
+1711,8,Football
+1712,1,Shopping Computer
+1712,2,Shopping Electronics
+1712,3,Shopping Electronics
+1713,1,Tennis
+1713,2,Greeting Cards
+1714,1,Weather
+1715,1,News Local
+1715,2,Internet
+1715,3,Game
+1715,4,OutDoor
+1715,5,News Asia
+1715,6,News Australia
+1715,7,Shopping House
+1715,8,Shopping Computer
+1716,1,Stock quotes
+1716,2,Business
+1716,3,Chat
+1716,4,Health
+1716,5,News Local
+1716,6,Internet
+1717,1,Flight
+1717,2,Flight
+1717,3,Hotel
+1717,4,Hotel
+1717,5,Hotel
+1718,1,OutDoor
+1718,2,Soccer
+1718,3,Music
+1718,4,Insurance
+1718,5,Health
+1719,1,Music
+1719,2,Shopping Music
+1719,3,Movie
+1720,1,Shopping Computer
+1720,2,Shopping Computer
+1720,3,Shopping Computer
+1720,4,Shopping Electronics
+1721,1,News North America
+1721,2,News North America
+1721,3,News North America
+1721,4,News North America
+1721,5,News North America
+1721,6,Weather
+1721,7,Weather
+1721,8,Weather
+1721,9,Weather
+1722,1,Weather
+1722,2,Weather
+1722,3,Weather
+1722,4,Weather
+1722,5,Weather
+1722,6,Weather
+1722,7,Weather
+1723,1,Pets
+1723,2,Game
+1723,3,Loan
+1723,4,Yellow Page
+1723,5,Research and Science
+1723,6,Weather
+1723,7,Diet
+1724,1,News North America
+1724,2,News North America
+1724,3,News North America
+1724,4,News North America
+1724,5,News North America
+1724,6,News North America
+1724,7,News North America
+1724,8,Weather
+1724,9,Weather
+1724,10,Weather
+1725,1,Job
+1725,2,Weather
+1725,3,Download
+1725,4,Car rental
+1725,5,Health
+1725,6,Diet
+1726,1,Flight
+1726,2,Financial news
+1726,3,Stock quotes
+1726,4,Music
+1726,5,Shopping Music
+1727,1,Game
+1727,2,Shopping Software
+1727,3,Shopping Book
+1727,4,Software
+1728,1,Life
+1728,2,Baseball
+1728,3,Basketball
+1729,1,Flight
+1729,2,Hotel
+1730,1,Flight
+1730,2,Hotel
+1731,1,News North America
+1731,2,News North America
+1731,3,News North America
+1731,4,News North America
+1731,5,News North America
+1731,6,Weather
+1731,7,Weather
+1732,1,News Europe
+1732,2,News Europe
+1732,3,News Europe
+1732,4,News Europe
+1732,5,Football
+1733,1,Flight
+1733,2,Hotel
+1734,1,Research and Science
+1734,2,Weather
+1734,3,Broker
+1734,4,Tax
+1735,1,Software
+1735,2,Job
+1735,3,Music
+1735,4,Shopping Music
+1735,5,News Australia
+1735,6,News Local
+1736,1,Shopping House
+1736,2,Insurance
+1736,3,Loan
+1736,4,Loan
+1737,1,Weather
+1737,2,Small business
+1737,3,Calendar
+1737,4,Small business
+1738,1,Music
+1738,2,Shopping Music
+1738,3,Shopping Music
+1738,4,Movie
+1739,1,Health
+1739,2,Medicine
+1739,3,Medicine
+1740,1,Music
+1740,2,Shopping Music
+1740,3,Shopping Music
+1740,4,Shopping Music
+1740,5,Shopping Music
+1740,6,Movie
+1740,7,Movie
+1741,1,News Australia
+1741,2,News Local
+1741,3,Basketball
+1741,4,Tennis
+1742,1,Weather
+1742,2,Weather
+1742,3,Weather
+1742,4,Weather
+1742,5,Weather
+1743,1,Software
+1743,2,Community
+1743,3,Flight
+1743,4,Map
+1743,5,Car rental
+1743,6,Greeting Cards
+1743,7,Calendar
+1744,1,Shopping House
+1744,2,Insurance
+1744,3,Insurance
+1744,4,Insurance
+1744,5,Loan
+1744,6,Loan
+1744,7,Loan
+1745,1,Health
+1745,2,Medicine
+1746,1,News North America
+1746,2,Weather
+1747,1,News Europe
+1747,2,News Europe
+1747,3,News Europe
+1747,4,Football
+1748,1,Economy
+1748,2,Companies
+1748,3,Shopping Electronics
+1749,1,News North America
+1749,2,Football
+1749,3,Baseball
+1749,4,Baseball
+1749,5,Basketball
+1750,1,Weather
+1750,2,Weather
+1751,1,Health
+1751,2,Medicine
+1752,1,Flight
+1752,2,Hotel
+1752,3,Hotel
+1753,1,News North America
+1753,2,Weather
+1753,3,Weather
+1754,1,Flight
+1754,2,Hotel
+1755,1,Health
+1755,2,Small business
+1756,1,Insurance
+1756,2,Shopping Electronics
+1756,3,Shopping Game
+1756,4,Music
+1756,5,Shopping Electronics
+1756,6,Insurance
+1757,1,Shopping Game
+1757,2,Music
+1757,3,Game
+1757,4,Shopping Game
+1757,5,Shopping Game
+1757,6,Music
+1757,7,Financial news
+1757,8,Stock quotes
+1758,1,Flight
+1759,1,Shopping Music
+1759,2,Music
+1759,3,News Local
+1760,1,Movie
+1760,2,Radio
+1760,3,Economy
+1761,1,Tax
+1761,2,Pets
+1762,1,Football
+1762,2,Shopping House
+1762,3,Shopping Computer
+1762,4,Soccer
+1762,5,Car rental
+1762,6,Soccer
+1762,7,Baseball
+1763,1,News North America
+1763,2,Football
+1763,3,Baseball
+1763,4,Baseball
+1763,5,Baseball
+1763,6,Basketball
+1763,7,Basketball
+1764,1,Music
+1764,2,Music
+1764,3,Shopping Music
+1764,4,Movie
+1764,5,Movie
+1765,1,News North America
+1765,2,News North America
+1765,3,News North America
+1765,4,News North America
+1765,5,Weather
+1766,1,Shopping Computer
+1766,2,Shopping Computer
+1766,3,Shopping Electronics
+1767,1,Pets
+1767,2,Game
+1767,3,Shopping Car
+1767,4,Shopping House
+1768,1,Telecom
+1769,1,Music
+1769,2,Shopping Music
+1769,3,Movie
+1770,1,News North America
+1770,2,News North America
+1770,3,Weather
+1770,4,Weather
+1771,1,Wall Street
+1771,2,Football
+1771,3,Soccer
+1771,4,Movie
+1771,5,Insurance
+1772,1,Health
+1772,2,Medicine
+1773,1,Shopping Computer
+1773,2,Shopping Electronics
+1774,1,Health
+1774,2,Medicine
+1774,3,Medicine
+1775,1,News North America
+1775,2,News North America
+1775,3,News North America
+1775,4,Weather
+1775,5,Weather
+1776,1,Baseball
+1776,2,Basketball
+1776,3,Map
+1776,4,Car rental
+1776,5,News Europe
+1776,6,News Asia
+1776,7,Small business
+1777,1,Shopping House
+1777,2,Shopping House
+1777,3,Shopping House
+1777,4,Shopping House
+1777,5,Shopping House
+1777,6,Insurance
+1777,7,Loan
+1777,8,Loan
+1778,1,Shopping House
+1778,2,Insurance
+1778,3,Loan
+1779,1,Music
+1779,2,Music
+1779,3,Shopping Music
+1779,4,Shopping Music
+1779,5,Movie
+1779,6,Movie
+1780,1,News North America
+1780,2,News North America
+1780,3,News North America
+1780,4,News North America
+1780,5,News North America
+1780,6,News North America
+1780,7,Weather
+1781,1,News Europe
+1781,2,News Europe
+1781,3,News Europe
+1781,4,News Europe
+1781,5,Football
+1782,1,Flight
+1782,2,Flight
+1782,3,Hotel
+1783,1,Music
+1783,2,Shopping Music
+1783,3,Shopping Music
+1783,4,Movie
+1783,5,Movie
+1784,1,Community
+1784,2,Chat
+1785,1,Chat
+1785,2,Health
+1785,3,Download
+1785,4,Shopping Book
+1785,5,Financial news
+1785,6,Stock quotes
+1786,1,News North America
+1786,2,Football
+1786,3,Baseball
+1786,4,Baseball
+1786,5,Baseball
+1786,6,Basketball
+1787,1,Music
+1787,2,Shopping Music
+1787,3,Movie
+1788,1,Football
+1788,2,Soccer
+1788,3,Music
+1788,4,Shopping Music
+1788,5,Game
+1788,6,Basketball
+1789,1,News North America
+1789,2,Weather
+1789,3,Weather
+1790,1,Hotel
+1790,2,Community
+1790,3,Chat
+1791,1,News North America
+1791,2,Weather
+1792,1,News North America
+1792,2,News North America
+1792,3,News North America
+1792,4,News North America
+1792,5,News North America
+1792,6,Weather
+1793,1,Loan
+1793,2,Shopping Computer
+1793,3,Wall Street
+1793,4,Broker
+1794,1,News North America
+1794,2,Weather
+1795,1,News Australia
+1795,2,News Local
+1795,3,Broker
+1795,4,Tax
+1795,5,Flight
+1795,6,Hotel
+1795,7,Cruises
+1796,1,News Local
+1796,2,Internet
+1796,3,Shopping House
+1796,4,Shopping Computer
+1797,1,News North America
+1797,2,Weather
+1797,3,Weather
+1798,1,News North America
+1798,2,News North America
+1798,3,Weather
+1799,1,News North America
+1799,2,News North America
+1799,3,News North America
+1799,4,News North America
+1799,5,Weather
+1800,1,News North America
+1800,2,Football
+1800,3,Baseball
+1800,4,Baseball
+1800,5,Basketball
+1800,6,Basketball
+1801,1,News North America
+1801,2,News North America
+1801,3,News North America
+1801,4,Weather
+1801,5,Weather
+1802,1,Job
+1802,2,Financial news
+1802,3,Broker
+1802,4,Insurance
+1802,5,Loan
+1802,6,Wall Street
+1802,7,Broker
+1803,1,Car rental
+1803,2,Cruises
+1803,3,Internet
+1803,4,Telecom
+1803,5,Calendar
+1804,1,News Asia
+1804,2,Tax
+1805,1,Shopping Software
+1805,2,Map
+1805,3,Car rental
+1806,1,Weather
+1806,2,Weather
+1806,3,Weather
+1806,4,Weather
+1807,1,News North America
+1807,2,Weather
+1808,1,Shopping House
+1808,2,Insurance
+1808,3,Loan
+1809,1,Music
+1809,2,Shopping Music
+1809,3,Shopping Music
+1809,4,Movie
+1810,1,Shopping Computer
+1810,2,Shopping Computer
+1810,3,Shopping Electronics
+1811,1,News North America
+1811,2,News North America
+1811,3,News North America
+1811,4,News North America
+1811,5,Weather
+1812,1,News North America
+1812,2,Football
+1812,3,Baseball
+1812,4,Baseball
+1812,5,Baseball
+1812,6,Basketball
+1813,1,Cruises
+1813,2,Shopping Game
+1813,3,Job
+1813,4,Financial news
+1813,5,Life
+1813,6,OutDoor
+1814,1,Basketball
+1814,2,Soccer
+1814,3,Baseball
+1814,4,Diet
+1814,5,Medicine
+1815,1,Weather
+1815,2,Weather
+1815,3,Weather
+1816,1,Download
+1816,2,Flight
+1816,3,Shopping Book
+1816,4,Car rental
+1816,5,Software
+1816,6,City info
+1817,1,Weather
+1817,2,Weather
+1817,3,Weather
+1817,4,Weather
+1817,5,Weather
+1817,6,Weather
+1817,7,Weather
+1817,8,Weather
+1817,9,Weather
+1817,10,Weather
+1817,11,Weather
+1818,1,Flight
+1818,2,Hotel
+1819,1,News North America
+1819,2,Weather
+1819,3,Weather
+1820,1,Health
+1820,2,Health
+1820,3,Health
+1820,4,Health
+1820,5,Medicine
+1821,1,Music
+1821,2,Shopping Music
+1821,3,Shopping Music
+1821,4,Movie
+1822,1,News North America
+1822,2,News North America
+1822,3,News North America
+1822,4,News North America
+1822,5,News North America
+1822,6,News North America
+1823,1,Weather
+1824,1,News Australia
+1824,2,Internet
+1824,3,Telecom
+1824,4,Radio
+1824,5,Life
+1824,6,Shopping Music
+1824,7,Movie
+1825,1,Music
+1825,2,Music
+1825,3,Shopping Music
+1825,4,Movie
+1826,1,Music
+1826,2,Shopping Music
+1826,3,Movie
+1826,4,Movie
+1827,1,Health
+1827,2,Medicine
+1827,3,Medicine
+1828,1,News North America
+1828,2,News North America
+1828,3,Weather
+1829,1,Wireless
+1829,2,Internet
+1829,3,Tax
+1829,4,Calendar
+1829,5,Small business
+1829,6,Map
+1830,1,Music
+1830,2,Shopping Music
+1830,3,Shopping Music
+1830,4,Shopping Music
+1830,5,Shopping Music
+1830,6,Movie
+1831,1,Flight
+1831,2,Hotel
+1831,3,Hotel
+1832,1,Hockey
+1832,2,Tax
+1832,3,Shopping Software
+1832,4,Shopping Computer
+1833,1,News North America
+1833,2,Business
+1833,3,Broker
+1834,1,Pets
+1834,2,Telecom
+1834,3,Wireless
+1835,1,Music
+1835,2,Shopping Music
+1835,3,Movie
+1835,4,Movie
+1835,5,Movie
+1835,6,Movie
+1836,1,Music
+1836,2,Shopping Music
+1836,3,Movie
+1836,4,Movie
+1837,1,News North America
+1837,2,News North America
+1837,3,News North America
+1837,4,News North America
+1837,5,News North America
+1837,6,News North America
+1837,7,News North America
+1837,8,News North America
+1837,9,News North America
+1837,10,News North America
+1838,1,Radio
+1838,2,News Asia
+1838,3,Research and Science
+1838,4,Shopping Car
+1838,5,Shopping House
+1839,1,Health
+1839,2,Medicine
+1840,1,Loan
+1841,1,Shopping Book
+1841,2,Diet
+1842,1,Radio
+1842,2,Vacation
+1842,3,City info
+1842,4,Calendar
+1842,5,Small business
+1843,1,Music
+1843,2,Music
+1843,3,Music
+1843,4,Shopping Music
+1843,5,Movie
+1843,6,Movie
+1844,1,News North America
+1844,2,Football
+1844,3,Baseball
+1844,4,Basketball
+1845,1,Weather
+1845,2,Weather
+1845,3,Weather
+1845,4,Weather
+1845,5,Weather
+1846,1,News North America
+1846,2,News North America
+1846,3,News North America
+1846,4,News North America
+1846,5,News North America
+1846,6,News North America
+1846,7,News North America
+1846,8,News North America
+1846,9,Weather
+1847,1,Telecom
+1848,1,Baseball
+1848,2,Companies
+1848,3,Wall Street
+1848,4,Software
+1848,5,Job
+1848,6,Community
+1848,7,Chat
+1849,1,Weather
+1850,1,Shopping House
+1850,2,Insurance
+1850,3,Loan
+1850,4,Loan
+1851,1,Car rental
+1851,2,Companies
+1851,3,Wall Street
+1851,4,Tax
+1851,5,Shopping Software
+1852,1,Football
+1852,2,Greeting Cards
+1852,3,Calendar
+1852,4,Tax
+1852,5,Shopping Software
+1852,6,Insurance
+1852,7,Tax
+1853,1,Greeting Cards
+1853,2,Calendar
+1853,3,Software
+1853,4,Job
+1854,1,Companies
+1854,2,Baseball
+1854,3,Basketball
+1854,4,Wireless
+1854,5,Vacation
+1854,6,City info
+1854,7,Shopping Book
+1855,1,News North America
+1855,2,News North America
+1855,3,News North America
+1855,4,Football
+1855,5,Baseball
+1855,6,Basketball
+1855,7,Basketball
+1856,1,Greeting Cards
+1856,2,Calendar
+1856,3,Job
+1856,4,Financial news
+1856,5,City info
+1856,6,Medicine
+1856,7,Kits
+1856,8,Financial news
+1856,9,Stock quotes
+1857,1,Car rental
+1857,2,OutDoor
+1858,1,Health
+1858,2,Health
+1858,3,Health
+1858,4,Medicine
+1858,5,Medicine
+1859,1,News North America
+1859,2,Football
+1859,3,Baseball
+1859,4,Baseball
+1859,5,Basketball
+1860,1,Insurance
+1860,2,Loan
+1860,3,OutDoor
+1860,4,Email
+1860,5,Community
+1861,1,Flight
+1861,2,Hotel
+1862,1,Flight
+1862,2,Flight
+1862,3,Hotel
+1863,1,Research and Science
+1863,2,Weather
+1863,3,Tax
+1863,4,Broker
+1863,5,Tax
+1863,6,Calendar
+1863,7,Small business
+1863,8,Life
+1864,1,News Europe
+1864,2,Football
+1865,1,Flight
+1865,2,Flight
+1865,3,Flight
+1865,4,Flight
+1865,5,Hotel
+1866,1,News North America
+1866,2,News North America
+1866,3,News North America
+1866,4,Weather
+1867,1,News North America
+1867,2,News North America
+1867,3,News North America
+1867,4,News North America
+1867,5,News North America
+1867,6,Weather
+1868,1,Music
+1868,2,Music
+1868,3,Music
+1868,4,Music
+1868,5,Music
+1868,6,Shopping Music
+1868,7,Shopping Music
+1868,8,Movie
+1869,1,Shopping Book
+1869,2,Football
+1869,3,Software
+1869,4,Job
+1870,1,Soccer
+1870,2,Baseball
+1870,3,Yellow Page
+1870,4,Football
+1870,5,Hotel
+1870,6,Map
+1871,1,Vacation
+1871,2,City info
+1871,3,Football
+1871,4,Soccer
+1871,5,Music
+1871,6,News Local
+1872,1,News Local
+1872,2,Business
+1872,3,News Europe
+1872,4,News Asia
+1872,5,Map
+1872,6,Car rental
+1873,1,Flight
+1873,2,Hotel
+1874,1,News North America
+1874,2,Football
+1874,3,Baseball
+1874,4,Basketball
+1875,1,Shopping House
+1875,2,Shopping House
+1875,3,Shopping House
+1875,4,Shopping House
+1875,5,Insurance
+1875,6,Insurance
+1875,7,Loan
+1876,1,Flight
+1876,2,Hotel
+1876,3,Hotel
+1877,1,Shopping Music
+1877,2,Wireless
+1877,3,Software
+1877,4,Basketball
+1877,5,Tennis
+1877,6,News Australia
+1878,1,Music
+1878,2,Music
+1878,3,Music
+1878,4,Music
+1878,5,Music
+1878,6,Shopping Music
+1878,7,Movie
+1879,1,Game
+1879,2,Yellow Page
+1879,3,Wireless
+1880,1,Shopping Software
+1881,1,News North America
+1881,2,Football
+1881,3,Football
+1881,4,Baseball
+1881,5,Basketball
+1881,6,Basketball
+1881,7,Basketball
+1882,1,Flight
+1882,2,Hotel
+1883,1,Flight
+1883,2,Hotel
+1884,1,Job
+1884,2,Kits
+1884,3,News Europe
+1884,4,News Asia
+1884,5,Financial news
+1885,1,Health
+1885,2,Medicine
+1885,3,Medicine
+1886,1,News North America
+1886,2,News North America
+1886,3,Football
+1886,4,Baseball
+1886,5,Baseball
+1886,6,Basketball
+1887,1,Email
+1887,2,City info
+1887,3,News Europe
+1887,4,News Asia
+1888,1,Music
+1888,2,Shopping Music
+1888,3,Shopping Music
+1888,4,Shopping Music
+1888,5,Shopping Music
+1888,6,Movie
+1888,7,Movie
+1889,1,Health
+1889,2,Medicine
+1890,1,Yellow Page
+1890,2,Hotel
+1891,1,News North America
+1891,2,Football
+1891,3,Football
+1891,4,Baseball
+1891,5,Baseball
+1891,6,Basketball
+1891,7,Basketball
+1892,1,Health
+1892,2,Small business
+1892,3,Internet
+1892,4,Telecom
+1892,5,Shopping Car
+1892,6,Shopping House
+1892,7,Shopping Music
+1893,1,News Europe
+1893,2,News Europe
+1893,3,Football
+1894,1,News North America
+1894,2,Football
+1894,3,Baseball
+1894,4,Basketball
+1895,1,Calendar
+1895,2,Small business
+1895,3,Shopping Electronics
+1895,4,Soccer
+1895,5,Baseball
+1895,6,Broker
+1896,1,Health
+1896,2,Health
+1896,3,Health
+1896,4,Medicine
+1896,5,Medicine
+1897,1,News North America
+1897,2,News North America
+1897,3,News North America
+1898,1,Shopping Computer
+1898,2,Shopping Electronics
+1899,1,Download
+1899,2,Flight
+1899,3,Soccer
+1899,4,Baseball
+1900,1,Chat
+1900,2,Soccer
+1900,3,News Asia
+1900,4,Vacation
+1900,5,City info
+1900,6,Flight
+1900,7,Hotel
+1901,1,Shopping Book
+1901,2,Football
+1901,3,OutDoor
+1901,4,Email
+1902,1,Weather
+1902,2,Weather
+1902,3,Weather
+1903,1,Wireless
+1903,2,Calendar
+1903,3,Small business
+1903,4,News Local
+1903,5,Internet
+1904,1,Shopping Computer
+1904,2,Shopping Electronics
+1904,3,Medicine
+1905,1,Soccer
+1905,2,Baseball
+1905,3,Internet
+1906,1,Music
+1906,2,Music
+1906,3,Music
+1906,4,Shopping Music
+1906,5,Movie
+1907,1,Weather
+1907,2,Weather
+1908,1,News North America
+1908,2,News North America
+1908,3,News North America
+1908,4,News North America
+1908,5,News North America
+1908,6,News North America
+1908,7,News North America
+1908,8,Weather
+1908,9,Weather
+1909,1,Chat
+1909,2,Health
+1910,1,Weather
+1910,2,Weather
+1910,3,Weather
+1911,1,OutDoor
+1911,2,Email
+1911,3,Research and Science
+1912,1,Music
+1912,2,Shopping Music
+1912,3,Movie
+1913,1,Shopping Electronics
+1913,2,Insurance
+1913,3,Shopping Car
+1913,4,Shopping House
+1913,5,Flight
+1913,6,Calendar
+1914,1,Health
+1914,2,Diet
+1914,3,Calendar
+1915,1,Broker
+1915,2,OutDoor
+1915,3,Email
+1915,4,OutDoor
+1915,5,Software
+1915,6,Job
+1916,1,News North America
+1916,2,Weather
+1917,1,News North America
+1917,2,News North America
+1917,3,Weather
+1917,4,Weather
+1918,1,Weather
+1918,2,Weather
+1918,3,Weather
+1918,4,Weather
+1919,1,News North America
+1919,2,News North America
+1919,3,Weather
+1919,4,Weather
+1920,1,Flight
+1920,2,Hotel
+1921,1,News North America
+1921,2,News North America
+1921,3,News North America
+1921,4,Weather
+1922,1,Flight
+1922,2,Hotel
+1923,1,News Europe
+1923,2,News Europe
+1923,3,Football
+1923,4,Football
+1924,1,Health
+1924,2,Health
+1924,3,Medicine
+1925,1,News North America
+1925,2,Weather
+1926,1,Shopping Computer
+1926,2,Shopping Electronics
+1927,1,Shopping House
+1927,2,Insurance
+1927,3,Loan
+1927,4,Loan
+1928,1,Music
+1928,2,Shopping Music
+1928,3,Movie
+1929,1,Broker
+1930,1,Chat
+1931,1,Health
+1931,2,Medicine
+1932,1,Music
+1932,2,Shopping Music
+1932,3,Movie
+1932,4,Movie
+1933,1,Flight
+1933,2,Hotel
+1934,1,Greeting Cards
+1934,2,Calendar
+1934,3,Chat
+1935,1,Shopping Computer
+1935,2,Baseball
+1935,3,Wall Street
+1935,4,Business
+1935,5,Economy
+1936,1,Flight
+1936,2,Shopping Game
+1936,3,Music
+1936,4,Kits
+1936,5,Relationship
+1936,6,Vacation
+1936,7,City info
+1937,1,News North America
+1937,2,Football
+1937,3,Football
+1937,4,Baseball
+1937,5,Baseball
+1937,6,Basketball
+1938,1,Flight
+1938,2,Flight
+1938,3,Hotel
+1939,1,News North America
+1939,2,News North America
+1939,3,Weather
+1940,1,News North America
+1940,2,News North America
+1940,3,News North America
+1940,4,News North America
+1940,5,Football
+1940,6,Baseball
+1940,7,Baseball
+1940,8,Basketball
+1941,1,News North America
+1941,2,News North America
+1941,3,News North America
+1941,4,News North America
+1941,5,Weather
+1942,1,Music
+1942,2,Shopping Music
+1942,3,Shopping Music
+1942,4,Shopping Music
+1942,5,Movie
+1942,6,Movie
+1943,1,News Europe
+1943,2,News Europe
+1943,3,News Europe
+1943,4,News Europe
+1943,5,News Europe
+1943,6,News Europe
+1943,7,News Europe
+1943,8,News Europe
+1943,9,Football
+1944,1,Download
+1944,2,Flight
+1944,3,OutDoor
+1944,4,Email
+1944,5,Baseball
+1944,6,Telecom
+1945,1,News North America
+1945,2,Weather
+1946,1,Weather
+1946,2,Weather
+1946,3,Weather
+1946,4,Weather
+1946,5,Weather
+1947,1,Radio
+1947,2,Download
+1947,3,Flight
+1947,4,City info
+1947,5,Shopping Car
+1947,6,Map
+1947,7,Business
+1948,1,Shopping Computer
+1948,2,Shopping Computer
+1948,3,Shopping Electronics
+1949,1,News North America
+1949,2,Weather
+1950,1,News North America
+1950,2,News North America
+1950,3,News North America
+1950,4,News North America
+1950,5,News North America
+1950,6,Weather
+1950,7,Weather
+1951,1,Download
+1951,2,Map
+1951,3,Car rental
+1951,4,Wall Street
+1951,5,Broker
+1951,6,Calendar
+1952,1,News North America
+1952,2,Football
+1952,3,Baseball
+1952,4,Basketball
+1952,5,Basketball
+1953,1,Shopping House
+1953,2,Shopping House
+1953,3,Insurance
+1953,4,Loan
+1954,1,Weather
+1954,2,Baseball
+1954,3,Relationship
+1954,4,Pets
+1954,5,Calendar
+1954,6,Small business
+1955,1,News North America
+1955,2,Weather
+1956,1,Shopping Software
+1956,2,Shopping Book
+1956,3,Radio
+1956,4,Life
+1956,5,Insurance
+1957,1,Health
+1957,2,Medicine
+1957,3,Medicine
+1957,4,Medicine
+1958,1,Life
+1958,2,Greeting Cards
+1958,3,Shopping Electronics
+1958,4,Insurance
+1959,1,Flight
+1959,2,Hotel
+1959,3,Shopping Software
+1959,4,Shopping Book
+1959,5,Yellow Page
+1959,6,Research and Science
+1959,7,Vacation
+1959,8,City info
+1960,1,News Asia
+1960,2,Internet
+1961,1,Shopping Software
+1961,2,Shopping Music
+1961,3,Movie
+1961,4,Shopping Game
+1961,5,Music
+1961,6,Software
+1961,7,Job
+1962,1,Game
+1962,2,Movie
+1963,1,Shopping Software
+1963,2,Map
+1963,3,Map
+1963,4,Car rental
+1963,5,Shopping Software
+1963,6,Financial news
+1964,1,OutDoor
+1964,2,Email
+1964,3,Tax
+1964,4,Email
+1964,5,Community
+1964,6,Shopping Electronics
+1965,1,Shopping Car
+1966,1,Health
+1966,2,Health
+1966,3,Health
+1966,4,Medicine
+1967,1,Music
+1967,2,Music
+1967,3,Shopping Music
+1967,4,Movie
+1968,1,Football
+1968,2,Soccer
+1968,3,Greeting Cards
+1969,1,News North America
+1969,2,Weather
+1970,1,Health
+1970,2,Medicine
+1971,1,Music
+1971,2,Music
+1971,3,Shopping Music
+1971,4,Movie
+1971,5,Movie
+1972,1,Music
+1972,2,Broker
+1972,3,Tax
+1972,4,News Local
+1972,5,Internet
+1973,1,News North America
+1973,2,Football
+1973,3,Baseball
+1973,4,Baseball
+1973,5,Basketball
+1974,1,Research and Science
+1974,2,Flight
+1974,3,Hotel
+1974,4,Greeting Cards
+1974,5,Calendar
+1975,1,Shopping Computer
+1975,2,Shopping Electronics
+1976,1,Health
+1976,2,Medicine
+1977,1,Weather
+1978,1,News Europe
+1978,2,News Europe
+1978,3,News Europe
+1978,4,News Europe
+1978,5,News Europe
+1978,6,Football
+1979,1,Economy
+1979,2,Companies
+1979,3,Financial news
+1979,4,Game
+1979,5,News North America
+1979,6,News Europe
+1980,1,Greeting Cards
+1981,1,News Europe
+1981,2,News Europe
+1981,3,News Europe
+1981,4,News Europe
+1981,5,News Europe
+1981,6,Football
+1982,1,News North America
+1982,2,News North America
+1982,3,News North America
+1982,4,News North America
+1982,5,News North America
+1982,6,Weather
+1983,1,Tax
+1984,1,Insurance
+1984,2,Loan
+1984,3,Business
+1984,4,Economy
+1985,1,Flight
+1985,2,Hotel
+1986,1,Health
+1986,2,Medicine
+1987,1,Health
+1987,2,Health
+1987,3,Medicine
+1987,4,Medicine
+1987,5,Medicine
+1987,6,Medicine
+1988,1,Email
+1988,2,Loan
+1988,3,Economy
+1988,4,Companies
+1988,5,Telecom
+1988,6,Wireless
+1989,1,Cruises
+1989,2,Wireless
+1989,3,Software
+1989,4,Software
+1989,5,Job
+1989,6,Tax
+1990,1,Shopping Computer
+1990,2,Shopping Electronics
+1990,3,Small business
+1990,4,Download
+1991,1,Music
+1991,2,Music
+1991,3,Music
+1991,4,Shopping Music
+1991,5,Movie
+1992,1,News North America
+1992,2,Football
+1992,3,Football
+1992,4,Baseball
+1992,5,Basketball
+1992,6,Basketball
+1993,1,Flight
+1993,2,Hotel
+1994,1,News Local
+1994,2,Internet
+1994,3,News Asia
+1994,4,Small business
+1994,5,Download
+1994,6,Shopping Book
+1995,1,Music
+1995,2,Shopping Music
+1995,3,Movie
+1996,1,Shopping Car
+1996,2,Shopping House
+1996,3,News Asia
+1996,4,News Australia
+1996,5,News Asia
+1996,6,News Australia
+1997,1,Flight
+1997,2,Flight
+1997,3,Flight
+1997,4,Hotel
+1998,1,Wall Street
+1998,2,Shopping Electronics
+1998,3,Insurance
+1998,4,Shopping Book
+1998,5,Football
+1998,6,Car rental
+1998,7,Life
+1999,1,Flight
+1999,2,Hotel
+1999,3,Hotel
